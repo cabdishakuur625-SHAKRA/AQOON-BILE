@@ -1,10 +1,5 @@
 # Aqoon Bile – Interactive Mobile Learning & Examination Platform
 
----
-
-### 🎓 Graduation Project
-This platform was researched, designed, and developed as a graduation project to address educational accessibility. It leverages modern mobile software engineering to create a collaborative, gamified learning space for secondary school students.
-
 #### 👥 Developed By:
 *   **Abdi Shakuur Adan Mohamuud**
 *   **Abdi Fitah Abdulle Isse**
@@ -51,48 +46,3 @@ This platform was researched, designed, and developed as a graduation project to
   - **Google Fonts**: Beautiful modern typography (Outfit / Inter).
   - **Syncfusion PDF Viewer**: Smooth, resource-efficient PDF rendering for exam papers.
   - **Confetti**: Engaging visual reward systems.
-
----
-
-## 📦 Project Directory Structure
-
-```text
-lib/
-├── admin/             # Firebase data management and admin panels
-├── models/            # Data structures (Chapter, Subject, Question, User, Paper)
-│   └── screens/       # Application views (Quizzes, Lobby, Chat, Auth, Profile)
-├── services/          # Firebase core, Auth, and database synchronization services
-└── main.dart          # Application entry point
-```
-
----
-
-## ⚙️ Getting Started & Setup
-
-### Prerequisites
-- Flutter SDK (`^3.11.4` or higher)
-- Android Studio / VS Code
-- A Firebase Project (with Android/iOS apps linked)
-
-### Installation
-
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/cabdishakuur625-SHAKRA/Aqoon_Bile.git
-   cd Aqoon_Bile
-   ```
-
-2. **Install Dependencies:**
-   ```bash
-   flutter pub get
-   ```
-
-3. **Firebase Configuration:**
-   - Download the `google-services.json` file from your Firebase console.
-   - Place it inside the `android/app/` directory of the project.
-   - For iOS, add `GoogleService-Info.plist` to `ios/Runner/`.
-
-4. **Run the Application:**
-   ```bash
-   flutter run
-   ```
