@@ -1,17 +1,98 @@
-# flutter_application_22
+# Aqoon Bile – Interactive Mobile Learning & Examination Platform
 
-A new Flutter project.
+---
 
-## Getting Started
+### 🎓 Graduation Project
+This platform was researched, designed, and developed as a graduation project to address educational accessibility. It leverages modern mobile software engineering to create a collaborative, gamified learning space for secondary school students.
 
-This project is a starting point for a Flutter application.
+#### 👥 Developed By:
+*   **Abdi Shakuur Adan Mohamuud**
+*   **Abdi Fitah Abdulle Isse**
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+**Aqoon Bile** (meaning *Knowledge Enricher*) is a comprehensive, interactive mobile learning and examination platform designed for Somali secondary school students (specifically Form 4 / F4 level). Built using **Flutter** and integrated with **Firebase**, the application aims to bridge the educational gap by gamifying study preparation, facilitating peer-to-peer competition, and providing direct access to past national exam papers.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🚀 Key Features
+
+### 📖 Gamified Learning & Quizzes
+- **Structured Syllabus Prep**: Quizzes categorized by secondary school subjects (Maths, Chemistry, Physics, History, Geography, Somali, Arabic, English, Tarbiyo, Technology, Business).
+- **Unit & Chapter Quizzes**: Targeted study sessions tailored to specific chapters, units, and difficulty levels.
+- **Interactive Feedback**: Immediate score tracking, answer reviews, and animated celebrations (confetti) upon completing levels.
+
+### 🏆 Peer-to-Peer Competitions & Lobbies
+- **Multiplayer Quiz Matches**: Real-time or asynchronous quiz competitions where students can challenge classmates or random peers.
+- **Lobby System**: Host/Create quiz lobbies, set custom questions, and invite friends.
+- **Live Leaderboards & Results**: Dynamic results screens tracking ranks, scores, and completion times.
+
+### 📝 Mock Exams & Past Papers Portal
+- **Mock Exam Generator**: Simulates actual national exams by generating custom-timed papers.
+- **Past Exam Viewer**: An integrated, high-performance PDF viewer loaded with past official national exam papers (from 2021 to 2025).
+- **Exam Answer Review**: Detailed analysis of submitted mock exams to identify strengths and weaknesses.
+
+### 💬 Social & Collaborative Learning
+- **In-App Messaging**: Safe real-time chat workspace for students to discuss topics and study together.
+- **Friend System**: Search and add friends, view profile previews, and track your study group's achievements.
+- **Dynamic Notifications**: Stay updated on competition invitations, friend requests, and study reminders.
+
+---
+
+## 🛠️ Tech Stack & Integrations
+
+- **Frontend Framework**: [Flutter](https://flutter.dev) (Dart) - Cross-platform support (Android, iOS, Windows, Web).
+- **Backend Services**: [Firebase](https://firebase.google.com)
+  - **Firebase Authentication**: Secure email/password login and sign-up flows.
+  - **Firebase Database (Realtime/Firestore)**: Live syncing of multiplayer lobby states, chats, user progress, and quiz questions.
+  - **Firebase Storage**: Hosting for PDF past papers and media assets.
+- **UI & Experience**:
+  - **Flutter Animate**: Fluid micro-animations for cards, progress indicators, and navigation transitions.
+  - **Google Fonts**: Beautiful modern typography (Outfit / Inter).
+  - **Syncfusion PDF Viewer**: Smooth, resource-efficient PDF rendering for exam papers.
+  - **Confetti**: Engaging visual reward systems.
+
+---
+
+## 📦 Project Directory Structure
+
+```text
+lib/
+├── admin/             # Firebase data management and admin panels
+├── models/            # Data structures (Chapter, Subject, Question, User, Paper)
+│   └── screens/       # Application views (Quizzes, Lobby, Chat, Auth, Profile)
+├── services/          # Firebase core, Auth, and database synchronization services
+└── main.dart          # Application entry point
+```
+
+---
+
+## ⚙️ Getting Started & Setup
+
+### Prerequisites
+- Flutter SDK (`^3.11.4` or higher)
+- Android Studio / VS Code
+- A Firebase Project (with Android/iOS apps linked)
+
+### Installation
+
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/cabdishakuur625-SHAKRA/Aqoon_Bile.git
+   cd Aqoon_Bile
+   ```
+
+2. **Install Dependencies:**
+   ```bash
+   flutter pub get
+   ```
+
+3. **Firebase Configuration:**
+   - Download the `google-services.json` file from your Firebase console.
+   - Place it inside the `android/app/` directory of the project.
+   - For iOS, add `GoogleService-Info.plist` to `ios/Runner/`.
+
+4. **Run the Application:**
+   ```bash
+   flutter run
+   ```
