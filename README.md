@@ -1,48 +1,61 @@
-# Aqoon Bile – Interactive Mobile Learning & Examination Platform
+# 🎓 Gamified Learning App for Somali Secondary Students to Excel in National Examinations
 
-#### 👥 Developed By:
-*   **Abdi Shakuur Adan Mohamuud**
-*   **Abdi Fitah Abdulle Isse**
+## Authors
 
----
-
-**Aqoon Bile** (meaning *Knowledge Enricher*) is a comprehensive, interactive mobile learning and examination platform designed for Somali secondary school students (specifically Form 4 / F4 level). Built using **Flutter** and integrated with **Firebase**, the application aims to bridge the educational gap by gamifying study preparation, facilitating peer-to-peer competition, and providing direct access to past national exam papers.
+* **AbdiSakuur Adan Mohamuud**
+* **AbdiFitah Abdulle Isse**
 
 ---
 
-## 🚀 Key Features
+## 📖 Project Overview
 
-### 📖 Gamified Learning & Quizzes
-- **Structured Syllabus Prep**: Quizzes categorized by secondary school subjects (Maths, Chemistry, Physics, History, Geography, Somali, Arabic, English, Tarbiyo, Technology, Business).
-- **Unit & Chapter Quizzes**: Targeted study sessions tailored to specific chapters, units, and difficulty levels.
-- **Interactive Feedback**: Immediate score tracking, answer reviews, and animated celebrations (confetti) upon completing levels.
+The **Gamified Learning App for Somali Secondary Students to Excel in National Examinations** is a graduation project designed to transform the way Somali secondary school students prepare for their national examinations. By combining modern educational technology with engaging game mechanics, the application creates an interactive and motivating learning environment that helps students improve their academic performance.
 
-### 🏆 Peer-to-Peer Competitions & Lobbies
-- **Multiplayer Quiz Matches**: Real-time or asynchronous quiz competitions where students can challenge classmates or random peers.
-- **Lobby System**: Host/Create quiz lobbies, set custom questions, and invite friends.
-- **Live Leaderboards & Results**: Dynamic results screens tracking ranks, scores, and completion times.
+Traditional learning methods can often become repetitive and reduce student motivation. This project addresses that challenge by integrating gamification elements such as points, achievements, badges, leaderboards, daily challenges, and rewards into the learning process. These features encourage consistent study habits while making exam preparation enjoyable and effective.
 
-### 📝 Mock Exams & Past Papers Portal
-- **Mock Exam Generator**: Simulates actual national exams by generating custom-timed papers.
-- **Past Exam Viewer**: An integrated, high-performance PDF viewer loaded with past official national exam papers (from 2021 to 2025).
-- **Exam Answer Review**: Detailed analysis of submitted mock exams to identify strengths and weaknesses.
+The application provides comprehensive study materials, practice quizzes, mock examinations, instant feedback, and progress tracking across major secondary school subjects. Students can monitor their strengths and weaknesses, allowing them to focus on areas that need improvement before taking their national examinations.
 
-### 💬 Social & Collaborative Learning
-- **In-App Messaging**: Safe real-time chat workspace for students to discuss topics and study together.
-- **Friend System**: Search and add friends, view profile previews, and track your study group's achievements.
-- **Dynamic Notifications**: Stay updated on competition invitations, friend requests, and study reminders.
+## 🎯 Objectives
+
+* Improve student engagement through gamified learning.
+* Help Somali secondary students prepare effectively for national examinations.
+* Provide interactive quizzes and mock exams.
+* Track student performance and learning progress.
+* Motivate continuous learning using rewards and achievements.
+* Support self-paced learning anytime and anywhere.
+
+## ✨ Key Features
+
+* 👨🎓 Student registration and secure login
+* 📚 Subject-based learning materials
+* 📝 Interactive quizzes and mock examinations
+* 🏆 Points, badges, achievements, and rewards
+* 📈 Performance analytics and progress tracking
+* 🎯 Daily learning challenges
+* 🥇 Leaderboard system to encourage healthy competition
+* ⏱️ Timed examinations
+* 📱 Responsive and user-friendly interface
+* 🔔 Notifications and learning reminders
+
+## 💡 Project Vision
+
+Our vision is to empower Somali students with an innovative digital learning platform that increases motivation, enhances knowledge retention, and improves success rates in national examinations through engaging and interactive educational experiences.
+
+## 👥 Target Users
+
+* Secondary school students
+* Teachers
+* School administrators
+
+## 🚀 Expected Impact
+
+This project aims to contribute to improving the quality of education in Somalia by making exam preparation more engaging, accessible, and effective. Through gamification, students are encouraged to develop consistent study habits, build confidence, and achieve higher academic performance.
 
 ---
 
-## 🛠️ Tech Stack & Integrations
+**Title:** *Gamified Learning App for Somali Secondary Students to Excel in National Examinations*
 
-- **Frontend Framework**: [Flutter](https://flutter.dev) (Dart) - Cross-platform support (Android, iOS, Windows, Web).
-- **Backend Services**: [Firebase](https://firebase.google.com)
-  - **Firebase Authentication**: Secure email/password login and sign-up flows.
-  - **Firebase Database (Realtime/Firestore)**: Live syncing of multiplayer lobby states, chats, user progress, and quiz questions.
-  - **Firebase Storage**: Hosting for PDF past papers and media assets.
-- **UI & Experience**:
-  - **Flutter Animate**: Fluid micro-animations for cards, progress indicators, and navigation transitions.
-  - **Google Fonts**: Beautiful modern typography (Outfit / Inter).
-  - **Syncfusion PDF Viewer**: Smooth, resource-efficient PDF rendering for exam papers.
-  - **Confetti**: Engaging visual reward systems.
+**Developed by:**
+
+* **AbdiSakuur Adan Mohamuud**
+* **AbdiFitah Abdulle Isse**
