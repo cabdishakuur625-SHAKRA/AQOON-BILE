@@ -1,0 +1,757 @@
+{
+  "subjects": [
+    {
+      "id": "bio",
+      "name": "Biology"
+    },
+    {
+      "id": "chem",
+      "name": "Chemistry"
+    },
+    {
+      "id": "phy",
+      "name": "Physics"
+    },
+    {
+      "id": "som",
+      "name": "Somali"
+    },
+    {
+      "id": "his",
+      "name": "History"
+    },
+    {
+      "id": "islam",
+      "name": "Islamic Studies"
+    },
+    {
+      "id": "geo",
+      "name": "Geography"
+    }
+  ],
+  "chapters": [
+    {
+      "id": "bio_ch1",
+      "subjectId": "bio",
+      "title": "General Principles"
+    },
+    {
+      "id": "chem_ch1",
+      "subjectId": "chem",
+      "title": "Organic Chemistry"
+    },
+    {
+      "id": "phy_ch1",
+      "subjectId": "phy",
+      "title": "Waves & Oscillations"
+    },
+    {
+      "id": "som_ch1",
+      "subjectId": "som",
+      "title": "General Principles"
+    },
+    {
+      "id": "his_ch1",
+      "subjectId": "his",
+      "title": "General Principles"
+    },
+    {
+      "id": "islam_ch1",
+      "subjectId": "islam",
+      "title": "General Principles"
+    },
+    {
+      "id": "geo_ch1",
+      "subjectId": "geo",
+      "title": "General Principles"
+    }
+  ],
+  "questions": [
+    {
+      "id": "q_bio_0",
+      "subjectId": "bio",
+      "chapterId": "bio_ch1",
+      "question": "brain it describes?",
+      "options": {
+        "a": "Correct Answer Placeholder",
+        "b": "Option B",
+        "c": "Option C",
+        "d": "Option D"
+      },
+      "correctAnswer": "a",
+      "difficultyLevel": "easy"
+    },
+    {
+      "id": "q_bio_1",
+      "subjectId": "bio",
+      "chapterId": "bio_ch1",
+      "question": "5. Discuss the structure of a neuron?",
+      "options": {
+        "a": "Correct Answer Placeholder",
+        "b": "Option B",
+        "c": "Option C",
+        "d": "Option D"
+      },
+      "correctAnswer": "a",
+      "difficultyLevel": "easy"
+    },
+    {
+      "id": "q_bio_2",
+      "subjectId": "bio",
+      "chapterId": "bio_ch1",
+      "question": "potential?",
+      "options": {
+        "a": "Correct Answer Placeholder",
+        "b": "Option B",
+        "c": "Option C",
+        "d": "Option D"
+      },
+      "correctAnswer": "a",
+      "difficultyLevel": "easy"
+    },
+    {
+      "id": "q_bio_3",
+      "subjectId": "bio",
+      "chapterId": "bio_ch1",
+      "question": "7. Explain how action potential are transmitted from neuron to another cell?",
+      "options": {
+        "a": "Correct Answer Placeholder",
+        "b": "Option B",
+        "c": "Option C",
+        "d": "Option D"
+      },
+      "correctAnswer": "a",
+      "difficultyLevel": "easy"
+    },
+    {
+      "id": "q_bio_4",
+      "subjectId": "bio",
+      "chapterId": "bio_ch1",
+      "question": "8. Describes the roles of the two main organs of the central nervous system?",
+      "options": {
+        "a": "Correct Answer Placeholder",
+        "b": "Option B",
+        "c": "Option C",
+        "d": "Option D"
+      },
+      "correctAnswer": "a",
+      "difficultyLevel": "easy"
+    },
+    {
+      "id": "q_bio_5",
+      "subjectId": "bio",
+      "chapterId": "bio_ch1",
+      "question": "9. Define the roles of four portions of the brain?",
+      "options": {
+        "a": "Correct Answer Placeholder",
+        "b": "Option B",
+        "c": "Option C",
+        "d": "Option D"
+      },
+      "correctAnswer": "a",
+      "difficultyLevel": "easy"
+    },
+    {
+      "id": "q_bio_6",
+      "subjectId": "bio",
+      "chapterId": "bio_ch1",
+      "question": "10. Summarize the roles of sensory and motor division of the peripheral nervous system?",
+      "options": {
+        "a": "Correct Answer Placeholder",
+        "b": "Option B",
+        "c": "Option C",
+        "d": "Option D"
+      },
+      "correctAnswer": "a",
+      "difficultyLevel": "easy"
+    },
+    {
+      "id": "q_bio_7",
+      "subjectId": "bio",
+      "chapterId": "bio_ch1",
+      "question": "11.Relate the relationship between motor neurons, interneurons and sensory receptors?",
+      "options": {
+        "a": "Correct Answer Placeholder",
+        "b": "Option B",
+        "c": "Option C",
+        "d": "Option D"
+      },
+      "correctAnswer": "a",
+      "difficultyLevel": "easy"
+    },
+    {
+      "id": "q_bio_8",
+      "subjectId": "bio",
+      "chapterId": "bio_ch1",
+      "question": "12.Describe the role of chemoreceptors in taste and smell?",
+      "options": {
+        "a": "Correct Answer Placeholder",
+        "b": "Option B",
+        "c": "Option C",
+        "d": "Option D"
+      },
+      "correctAnswer": "a",
+      "difficultyLevel": "easy"
+    },
+    {
+      "id": "q_bio_9",
+      "subjectId": "bio",
+      "chapterId": "bio_ch1",
+      "question": "13. List five different types of sensory receptors in the human body?",
+      "options": {
+        "a": "Correct Answer Placeholder",
+        "b": "Option B",
+        "c": "Option C",
+        "d": "Option D"
+      },
+      "correctAnswer": "a",
+      "difficultyLevel": "easy"
+    },
+    {
+      "id": "q_chem_0",
+      "subjectId": "chem",
+      "chapterId": "chem_ch1",
+      "question": "How many bonds can each carbon atom form?",
+      "options": {
+        "a": "1",
+        "b": "2",
+        "c": "3",
+        "d": "4"
+      },
+      "correctAnswer": "a",
+      "difficultyLevel": "easy"
+    },
+    {
+      "id": "q_chem_1",
+      "subjectId": "chem",
+      "chapterId": "chem_ch1",
+      "question": "All organic compounds must have this element:",
+      "options": {
+        "a": "Carbon",
+        "b": "Oxygen",
+        "c": "Potassium",
+        "d": "Hydrogen"
+      },
+      "correctAnswer": "a",
+      "difficultyLevel": "easy"
+    },
+    {
+      "id": "q_chem_2",
+      "subjectId": "chem",
+      "chapterId": "chem_ch1",
+      "question": "How many carbon atoms are in propane?",
+      "options": {
+        "a": "1",
+        "b": "2",
+        "c": "3",
+        "d": "4"
+      },
+      "correctAnswer": "a",
+      "difficultyLevel": "easy"
+    },
+    {
+      "id": "q_chem_3",
+      "subjectId": "chem",
+      "chapterId": "chem_ch1",
+      "question": "What kind of hydrocarbon is this?",
+      "options": {
+        "a": "Alkene",
+        "b": "alkane",
+        "c": "alkyne",
+        "d": "benzene"
+      },
+      "correctAnswer": "a",
+      "difficultyLevel": "easy"
+    },
+    {
+      "id": "q_chem_4",
+      "subjectId": "chem",
+      "chapterId": "chem_ch1",
+      "question": "Name this compound.",
+      "options": {
+        "a": "Propene",
+        "b": "butane",
+        "c": "methyne",
+        "d": "Acetylene"
+      },
+      "correctAnswer": "a",
+      "difficultyLevel": "easy"
+    },
+    {
+      "id": "q_chem_5",
+      "subjectId": "chem",
+      "chapterId": "chem_ch1",
+      "question": "Which hydrocarbon is a liquid at room conditions?",
+      "options": {
+        "a": "C H",
+        "b": "C H",
+        "c": "C H",
+        "d": "C H"
+      },
+      "correctAnswer": "a",
+      "difficultyLevel": "easy"
+    },
+    {
+      "id": "q_chem_6",
+      "subjectId": "chem",
+      "chapterId": "chem_ch1",
+      "question": "Which of these substances is synthetic?",
+      "options": {
+        "a": "Sugar",
+        "b": "plastic",
+        "c": "kerosene",
+        "d": "RNA"
+      },
+      "correctAnswer": "a",
+      "difficultyLevel": "easy"
+    },
+    {
+      "id": "q_chem_7",
+      "subjectId": "chem",
+      "chapterId": "chem_ch1",
+      "question": "What is an organic Compound?",
+      "options": {
+        "a": "a group of molecules that contain calcium",
+        "b": "A group of molecules that contain carbon-hydrogen bonds",
+        "c": "A group of molecules that contain carbon",
+        "d": "A group of molecules that contain water"
+      },
+      "correctAnswer": "a",
+      "difficultyLevel": "easy"
+    },
+    {
+      "id": "q_chem_8",
+      "subjectId": "chem",
+      "chapterId": "chem_ch1",
+      "question": "molecules with double/ triple bond",
+      "options": {
+        "a": "carboxylic acids",
+        "b": "alkynes",
+        "c": "unsaturated",
+        "d": "saturated"
+      },
+      "correctAnswer": "a",
+      "difficultyLevel": "easy"
+    },
+    {
+      "id": "q_chem_9",
+      "subjectId": "chem",
+      "chapterId": "chem_ch1",
+      "question": "molecule with the same molecular structure but different structural formula",
+      "options": {
+        "a": "fats",
+        "b": "lipids",
+        "c": "fossil fuels",
+        "d": "isomers"
+      },
+      "correctAnswer": "a",
+      "difficultyLevel": "easy"
+    },
+    {
+      "id": "q_chem_10",
+      "subjectId": "chem",
+      "chapterId": "chem_ch1",
+      "question": "Which is the correct general formula for the alkanes?",
+      "options": {
+        "a": "C H",
+        "b": "C H",
+        "c": "C H OH",
+        "d": "C H COOH"
+      },
+      "correctAnswer": "a",
+      "difficultyLevel": "easy"
+    },
+    {
+      "id": "q_chem_11",
+      "subjectId": "chem",
+      "chapterId": "chem_ch1",
+      "question": "What is the correct systematic name for:",
+      "options": {
+        "a": "2-bromo-3-methylpent-2-ene",
+        "b": "2-bromo-3-ethylbut-2-ene",
+        "c": "3-bromo-2-ethylbut-2-ene",
+        "d": "4-bromo-3-methylpent-3-ene"
+      },
+      "correctAnswer": "a",
+      "difficultyLevel": "easy"
+    },
+    {
+      "id": "q_chem_12",
+      "subjectId": "chem",
+      "chapterId": "chem_ch1",
+      "question": "If an alkane has 20 carbon atoms, how many hydrogen atoms will it have?",
+      "options": {
+        "a": "20",
+        "b": "22",
+        "c": "40",
+        "d": "42"
+      },
+      "correctAnswer": "a",
+      "difficultyLevel": "easy"
+    },
+    {
+      "id": "q_chem_13",
+      "subjectId": "chem",
+      "chapterId": "chem_ch1",
+      "question": "Which one of the following is saturated?",
+      "options": {
+        "a": "Water",
+        "b": "C H",
+        "c": "C H",
+        "d": "C H"
+      },
+      "correctAnswer": "a",
+      "difficultyLevel": "easy"
+    },
+    {
+      "id": "q_chem_14",
+      "subjectId": "chem",
+      "chapterId": "chem_ch1",
+      "question": "Which of the following generally undergoes substitution reactions?",
+      "options": {
+        "a": "Alkanes",
+        "b": "Alkenes",
+        "c": "Alkanes and alkenes",
+        "d": "None"
+      },
+      "correctAnswer": "a",
+      "difficultyLevel": "easy"
+    },
+    {
+      "id": "q_chem_15",
+      "subjectId": "chem",
+      "chapterId": "chem_ch1",
+      "question": "How many methyl groups are on the following molecule?",
+      "options": {
+        "a": "1",
+        "b": "2",
+        "c": "3",
+        "d": "4"
+      },
+      "correctAnswer": "a",
+      "difficultyLevel": "easy"
+    },
+    {
+      "id": "q_chem_16",
+      "subjectId": "chem",
+      "chapterId": "chem_ch1",
+      "question": "How many carbons are in the longest chain?",
+      "options": {
+        "a": "7",
+        "b": "8",
+        "c": "9",
+        "d": "10"
+      },
+      "correctAnswer": "a",
+      "difficultyLevel": "easy"
+    },
+    {
+      "id": "q_chem_17",
+      "subjectId": "chem",
+      "chapterId": "chem_ch1",
+      "question": "Which formula represents an unsaturated hydrocarbon?",
+      "options": {
+        "a": "A",
+        "b": "B",
+        "c": "C",
+        "d": "D"
+      },
+      "correctAnswer": "a",
+      "difficultyLevel": "easy"
+    },
+    {
+      "id": "q_chem_18",
+      "subjectId": "chem",
+      "chapterId": "chem_ch1",
+      "question": "Name the following hydrocarbon",
+      "options": {
+        "a": "1-methylpentene",
+        "b": "2-hexane",
+        "c": "heptane",
+        "d": "2-hexene"
+      },
+      "correctAnswer": "a",
+      "difficultyLevel": "easy"
+    },
+    {
+      "id": "q_his_0",
+      "subjectId": "his",
+      "chapterId": "his_ch1",
+      "question": "1: sheeg isirka dadka Cusmaaniyiinta?",
+      "options": {
+        "a": "Correct Answer Placeholder",
+        "b": "Option B",
+        "c": "Option C",
+        "d": "Option D"
+      },
+      "correctAnswer": "a",
+      "difficultyLevel": "easy"
+    },
+    {
+      "id": "q_his_1",
+      "subjectId": "his",
+      "chapterId": "his_ch1",
+      "question": "2: sharax soo ifbaxa dawladda Cusmaaniyiinta?",
+      "options": {
+        "a": "Correct Answer Placeholder",
+        "b": "Option B",
+        "c": "Option C",
+        "d": "Option D"
+      },
+      "correctAnswer": "a",
+      "difficultyLevel": "easy"
+    },
+    {
+      "id": "q_his_2",
+      "subjectId": "his",
+      "chapterId": "his_ch1",
+      "question": "3: qor warbixin kusaabsan aasaasihii Dawladdii Cusmaaniyiinta?",
+      "options": {
+        "a": "Correct Answer Placeholder",
+        "b": "Option B",
+        "c": "Option C",
+        "d": "Option D"
+      },
+      "correctAnswer": "a",
+      "difficultyLevel": "easy"
+    },
+    {
+      "id": "q_his_3",
+      "subjectId": "his",
+      "chapterId": "his_ch1",
+      "question": "4: qor qiimaha ku jira taariikhda asaaskii Boqortooyadii Cusmaaniyiinta?",
+      "options": {
+        "a": "Correct Answer Placeholder",
+        "b": "Option B",
+        "c": "Option C",
+        "d": "Option D"
+      },
+      "correctAnswer": "a",
+      "difficultyLevel": "easy"
+    },
+    {
+      "id": "q_his_4",
+      "subjectId": "his",
+      "chapterId": "his_ch1",
+      "question": "5. Xaddid horumarka Dawladdii Cusmaaniyiinta?",
+      "options": {
+        "a": "Correct Answer Placeholder",
+        "b": "Option B",
+        "c": "Option C",
+        "d": "Option D"
+      },
+      "correctAnswer": "a",
+      "difficultyLevel": "easy"
+    },
+    {
+      "id": "q_his_5",
+      "subjectId": "his",
+      "chapterId": "his_ch1",
+      "question": "6: falanqee dardaaranka cusmaan ee carruurtiisa iyo saaxiibadiis?",
+      "options": {
+        "a": "Correct Answer Placeholder",
+        "b": "Option B",
+        "c": "Option C",
+        "d": "Option D"
+      },
+      "correctAnswer": "a",
+      "difficultyLevel": "easy"
+    },
+    {
+      "id": "q_his_6",
+      "subjectId": "his",
+      "chapterId": "his_ch1",
+      "question": "7: Falanqee nidaamka xukunka ee dawladda Cusmaaniyiinta?",
+      "options": {
+        "a": "Correct Answer Placeholder",
+        "b": "Option B",
+        "c": "Option C",
+        "d": "Option D"
+      },
+      "correctAnswer": "a",
+      "difficultyLevel": "easy"
+    },
+    {
+      "id": "q_his_7",
+      "subjectId": "his",
+      "chapterId": "his_ch1",
+      "question": "8: sharax awoodda Suldaanka ee dawladda Cusmaaniyiinta?",
+      "options": {
+        "a": "Correct Answer Placeholder",
+        "b": "Option B",
+        "c": "Option C",
+        "d": "Option D"
+      },
+      "correctAnswer": "a",
+      "difficultyLevel": "easy"
+    },
+    {
+      "id": "q_his_8",
+      "subjectId": "his",
+      "chapterId": "his_ch1",
+      "question": "9: sheeg nidaamka ciidanka ee Boqortooyadii Cusmaaniyiinta?",
+      "options": {
+        "a": "Correct Answer Placeholder",
+        "b": "Option B",
+        "c": "Option C",
+        "d": "Option D"
+      },
+      "correctAnswer": "a",
+      "difficultyLevel": "easy"
+    },
+    {
+      "id": "q_his_9",
+      "subjectId": "his",
+      "chapterId": "his_ch1",
+      "question": "10. Xaddid nidaamka maaliyadeed ee dawladda Cusmaaniyiinta?",
+      "options": {
+        "a": "Correct Answer Placeholder",
+        "b": "Option B",
+        "c": "Option C",
+        "d": "Option D"
+      },
+      "correctAnswer": "a",
+      "difficultyLevel": "easy"
+    },
+    {
+      "id": "q_geo_0",
+      "subjectId": "geo",
+      "chapterId": "geo_ch1",
+      "question": "1: Qeex cilmiga jiyooloojiga?",
+      "options": {
+        "a": "Correct Answer Placeholder",
+        "b": "Option B",
+        "c": "Option C",
+        "d": "Option D"
+      },
+      "correctAnswer": "a",
+      "difficultyLevel": "easy"
+    },
+    {
+      "id": "q_geo_1",
+      "subjectId": "geo",
+      "chapterId": "geo_ch1",
+      "question": "2: Tilmaam laamaha ugu muhiimsan ee cimiga Jiyooloojiga?",
+      "options": {
+        "a": "Correct Answer Placeholder",
+        "b": "Option B",
+        "c": "Option C",
+        "d": "Option D"
+      },
+      "correctAnswer": "a",
+      "difficultyLevel": "easy"
+    },
+    {
+      "id": "q_geo_2",
+      "subjectId": "geo",
+      "chapterId": "geo_ch1",
+      "question": "3: caddee waayada jiyooloojiga?",
+      "options": {
+        "a": "Correct Answer Placeholder",
+        "b": "Option B",
+        "c": "Option C",
+        "d": "Option D"
+      },
+      "correctAnswer": "a",
+      "difficultyLevel": "easy"
+    },
+    {
+      "id": "q_geo_3",
+      "subjectId": "geo",
+      "chapterId": "geo_ch1",
+      "question": "4: falanqee ahmiyadda dhaqaale ee waayada jiyooloojiga?",
+      "options": {
+        "a": "Correct Answer Placeholder",
+        "b": "Option B",
+        "c": "Option C",
+        "d": "Option D"
+      },
+      "correctAnswer": "a",
+      "difficultyLevel": "easy"
+    },
+    {
+      "id": "q_geo_4",
+      "subjectId": "geo",
+      "chapterId": "geo_ch1",
+      "question": "5: caddee kaalinta culimada muslimiinta ay kulahaayeen cilmiga jiyooloojiga?",
+      "options": {
+        "a": "Correct Answer Placeholder",
+        "b": "Option B",
+        "c": "Option C",
+        "d": "Option D"
+      },
+      "correctAnswer": "a",
+      "difficultyLevel": "easy"
+    },
+    {
+      "id": "q_geo_5",
+      "subjectId": "geo",
+      "chapterId": "geo_ch1",
+      "question": "6: qeex qaab dhismeedka jiyooloojiga dhulka Soomaaliya?",
+      "options": {
+        "a": "Correct Answer Placeholder",
+        "b": "Option B",
+        "c": "Option C",
+        "d": "Option D"
+      },
+      "correctAnswer": "a",
+      "difficultyLevel": "easy"
+    },
+    {
+      "id": "q_geo_6",
+      "subjectId": "geo",
+      "chapterId": "geo_ch1",
+      "question": "7: Tilmaan xiliyada jiyoolooji ee Soomaaliya?",
+      "options": {
+        "a": "Correct Answer Placeholder",
+        "b": "Option B",
+        "c": "Option C",
+        "d": "Option D"
+      },
+      "correctAnswer": "a",
+      "difficultyLevel": "easy"
+    },
+    {
+      "id": "q_geo_7",
+      "subjectId": "geo",
+      "chapterId": "geo_ch1",
+      "question": "dhismeedks dhulka Soomaaliya?",
+      "options": {
+        "a": "Correct Answer Placeholder",
+        "b": "Option B",
+        "c": "Option C",
+        "d": "Option D"
+      },
+      "correctAnswer": "a",
+      "difficultyLevel": "easy"
+    },
+    {
+      "id": "q_geo_8",
+      "subjectId": "geo",
+      "chapterId": "geo_ch1",
+      "question": "9: caddee nuucyada carrada dhulka Soomaaliya?",
+      "options": {
+        "a": "Correct Answer Placeholder",
+        "b": "Option B",
+        "c": "Option C",
+        "d": "Option D"
+      },
+      "correctAnswer": "a",
+      "difficultyLevel": "easy"
+    },
+    {
+      "id": "q_geo_9",
+      "subjectId": "geo",
+      "chapterId": "geo_ch1",
+      "question": "11: caddee waxa loola jeedo cilmiga jiyooloojiga?",
+      "options": {
+        "a": "Correct Answer Placeholder",
+        "b": "Option B",
+        "c": "Option C",
+        "d": "Option D"
+      },
+      "correctAnswer": "a",
+      "difficultyLevel": "easy"
+    }
+  ]
+}

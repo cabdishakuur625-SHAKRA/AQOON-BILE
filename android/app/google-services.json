@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "537220122372",
+    "firebase_url": "https://aqoonbile-3389f-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "aqoonbile-3389f",
+    "storage_bucket": "aqoonbile-3389f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:537220122372:android:4b0837404ebd5a91a53251",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_22"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_SfsbnAT-V5Rrz6iQLOose-KC4TZP8-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

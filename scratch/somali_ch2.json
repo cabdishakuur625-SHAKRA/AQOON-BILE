@@ -1,0 +1,1136 @@
+[
+  {
+    "id": "Som_Ch2_Q01",
+    "question": "Fadlan ka jawaab: Waa maxay beer?",
+    "options": {
+      "a": "Qodista dhul, beerista geedo iyo waxsoosaar",
+      "b": "Ciyaaraha carruurta",
+      "c": "Dhismaha guryaha",
+      "d": "Xoolo dhaqashada"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "easy",
+    "subjectId": "somali",
+    "chapterId": "somali_ch2"
+  },
+  {
+    "id": "Som_Ch2_Q02",
+    "question": "Su'aal toos ah: Waa maxay ereyga 'Diraac'?",
+    "options": {
+      "a": "Waa xiliga jiilaalka",
+      "b": "Waa xili abaar ah",
+      "c": "Waa habeenka madow",
+      "d": "Waa xili barwaaqo ah oo guga bartamihiisa ah"
+    },
+    "correctAnswer": "d",
+    "difficultyLevel": "easy",
+    "subjectId": "somali",
+    "chapterId": "somali_ch2"
+  },
+  {
+    "id": "Som_Ch2_Q03",
+    "question": "Doorashada saxda ah ee: Waa maxay macnaha 'wahab'?",
+    "options": {
+      "a": "Qorraxda kulul",
+      "b": "Dabaysha xagaaga",
+      "c": "Qaboow qoyaan reeba oo habeenkii soo dhaca",
+      "d": "Roob mahiigaan ah"
+    },
+    "correctAnswer": "c",
+    "difficultyLevel": "easy",
+    "subjectId": "somali",
+    "chapterId": "somali_ch2"
+  },
+  {
+    "id": "Som_Ch2_Q04",
+    "question": "Fadlan ka jawaab: Waa maxay macnaha 'cashi'?",
+    "options": {
+      "a": "Nooc kamid ah geedaha",
+      "b": "Daawo dhireed ah",
+      "c": "Cunto fudud",
+      "d": "Cudur xoolaad kadhasha deriskunoosha oo cad iyo caano yareyn kadhasha"
+    },
+    "correctAnswer": "d",
+    "difficultyLevel": "easy",
+    "subjectId": "somali",
+    "chapterId": "somali_ch2"
+  },
+  {
+    "id": "Som_Ch2_Q05",
+    "question": "Fadlan ka jawaab: Maxaa kamid ah qalabka beeraha lagu falo?",
+    "options": {
+      "a": "Kumbuyuutar, teleefan",
+      "b": "Gudin, yaambo, badiil, masaar, hoole, fargeeto",
+      "c": "Gawaari, diyaarado",
+      "d": "Buugaag, qalin"
+    },
+    "correctAnswer": "b",
+    "difficultyLevel": "easy",
+    "subjectId": "somali",
+    "chapterId": "somali_ch2"
+  },
+  {
+    "id": "Som_Ch2_Q06",
+    "question": "Su'aal toos ah: Sheeg gaadiid loo isticmaalo in beerta lagu falo?",
+    "options": {
+      "a": "Cagafcagaf, dibbi",
+      "b": "Tareen, baska",
+      "c": "Markab, dooni",
+      "d": "Baaskiil, mooto"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "easy",
+    "subjectId": "somali",
+    "chapterId": "somali_ch2"
+  },
+  {
+    "id": "Som_Ch2_Q07",
+    "question": "Fadlan ka jawaab: Keebaa gardaran ninka xoolaleeyda iyo beeraleyda is haysta?",
+    "options": {
+      "a": "Garsooraha",
+      "b": "Labadaba way gardaranyihiin",
+      "c": "Ninka beeraleyda ah",
+      "d": "Ninka xoolaleyda ah, sababtoo ah beerta iyadaa loo yimi"
+    },
+    "correctAnswer": "d",
+    "difficultyLevel": "easy",
+    "subjectId": "somali",
+    "chapterId": "somali_ch2"
+  },
+  {
+    "id": "Som_Ch2_Q08",
+    "question": "Su'aal toos ah: Sidee dhaqanka Soomaalida uga turjumayaa waxa dhexmaray Xirsi iyo Oday Geedoow?",
+    "options": {
+      "a": "Collaad iyo dagaal",
+      "b": "Kala tag iyo eedeyn",
+      "c": "Tartanka ciyaaraha",
+      "d": "Dhaqan wanaagsan iyo iskaashi"
+    },
+    "correctAnswer": "d",
+    "difficultyLevel": "easy",
+    "subjectId": "somali",
+    "chapterId": "somali_ch2"
+  },
+  {
+    "id": "Som_Ch2_Q09",
+    "question": "Fadlan ka jawaab: Muxuu Xirsi ka faa'iiday safarkiisii Oday Geedoow?",
+    "options": {
+      "a": "Habka kalluumeysiga",
+      "b": "Sida loo iibiyo xoolaha",
+      "c": "Casharka beeraha iyo qalabka beeraha",
+      "d": "Dhismaha maraakiibta"
+    },
+    "correctAnswer": "c",
+    "difficultyLevel": "easy",
+    "subjectId": "somali",
+    "chapterId": "somali_ch2"
+  },
+  {
+    "id": "Som_Ch2_Q10",
+    "question": "Doorashada saxda ah ee: Goboladee ugu badan Soomaaliya tacbashada beeraha?",
+    "options": {
+      "a": "Gobolada webiyadu maraan",
+      "b": "Gobolada barafka leh",
+      "c": "Gobolada saxaraha ah",
+      "d": "Gobolada buuraha leh"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "easy",
+    "subjectId": "somali",
+    "chapterId": "somali_ch2"
+  },
+  {
+    "id": "Som_Ch2_Q11",
+    "question": "Waa maxay jawaabta saxa ah: Dhaqaalaha Soomaaliya keebaa u wanaagsan beerashada iyo xoolo dhaqashada?",
+    "options": {
+      "a": "Warshadaha",
+      "b": "Dalxiiska",
+      "c": "Macdanta",
+      "d": "Beeraha"
+    },
+    "correctAnswer": "d",
+    "difficultyLevel": "easy",
+    "subjectId": "somali",
+    "chapterId": "somali_ch2"
+  },
+  {
+    "id": "Som_Ch2_Q12",
+    "question": "Waa maxay jawaabta saxa ah: Sidee ugu fiican ee beer looga tabcan karaa meelaha aan webiyadu marin?",
+    "options": {
+      "a": "In roob la sugo oo kaliya",
+      "b": "In badda biyo laga soo dhaamiyo",
+      "c": "Ceelriig inaad hesho",
+      "d": "In dhirta la jaro"
+    },
+    "correctAnswer": "c",
+    "difficultyLevel": "easy",
+    "subjectId": "somali",
+    "chapterId": "somali_ch2"
+  },
+  {
+    "id": "Som_Ch2_Q13",
+    "question": "Waa maxay jawaabta saxa ah: Muxuu yahay dalaga ugu badan ee Soomaaliya lagasoo saaro?",
+    "options": {
+      "a": "Tufaaxa",
+      "b": "Canabka",
+      "c": "Qaraha",
+      "d": "Mooska"
+    },
+    "correctAnswer": "d",
+    "difficultyLevel": "easy",
+    "subjectId": "somali",
+    "chapterId": "somali_ch2"
+  },
+  {
+    "id": "Som_Ch2_Q14",
+    "question": "Doorashada saxda ah ee: Xagee lagasoo saaraa mooska ugu badan?",
+    "options": {
+      "a": "Gobolka Galgaduud",
+      "b": "Gobolka Shabeelada Hoose",
+      "c": "Gobolka Sanaag",
+      "d": "Gobolka Nugaal"
+    },
+    "correctAnswer": "b",
+    "difficultyLevel": "easy",
+    "subjectId": "somali",
+    "chapterId": "somali_ch2"
+  },
+  {
+    "id": "Som_Ch2_Q15",
+    "question": "Waa maxay jawaabta saxa ah: Waa maxay beer?",
+    "options": {
+      "a": "Xoolo dhaqashada",
+      "b": "Ciyaaraha carruurta",
+      "c": "Qodista dhul, beerista geedo iyo waxsoosaar",
+      "d": "Dhismaha guryaha"
+    },
+    "correctAnswer": "c",
+    "difficultyLevel": "easy",
+    "subjectId": "somali",
+    "chapterId": "somali_ch2"
+  },
+  {
+    "id": "Som_Ch2_Q16",
+    "question": "Fadlan ka jawaab: Waa maxay ereyga 'Diraac'?",
+    "options": {
+      "a": "Waa habeenka madow",
+      "b": "Waa xili barwaaqo ah oo guga bartamihiisa ah",
+      "c": "Waa xili abaar ah",
+      "d": "Waa xiliga jiilaalka"
+    },
+    "correctAnswer": "b",
+    "difficultyLevel": "easy",
+    "subjectId": "somali",
+    "chapterId": "somali_ch2"
+  },
+  {
+    "id": "Som_Ch2_Q17",
+    "question": "Waa maxay jawaabta saxa ah: Waa maxay macnaha 'wahab'?",
+    "options": {
+      "a": "Roob mahiigaan ah",
+      "b": "Qaboow qoyaan reeba oo habeenkii soo dhaca",
+      "c": "Dabaysha xagaaga",
+      "d": "Qorraxda kulul"
+    },
+    "correctAnswer": "b",
+    "difficultyLevel": "easy",
+    "subjectId": "somali",
+    "chapterId": "somali_ch2"
+  },
+  {
+    "id": "Som_Ch2_Q18",
+    "question": "Fadlan ka jawaab: Waa maxay macnaha 'cashi'?",
+    "options": {
+      "a": "Cudur xoolaad kadhasha deriskunoosha oo cad iyo caano yareyn kadhasha",
+      "b": "Cunto fudud",
+      "c": "Nooc kamid ah geedaha",
+      "d": "Daawo dhireed ah"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "easy",
+    "subjectId": "somali",
+    "chapterId": "somali_ch2"
+  },
+  {
+    "id": "Som_Ch2_Q19",
+    "question": "Doorashada saxda ah ee: Maxaa kamid ah qalabka beeraha lagu falo?",
+    "options": {
+      "a": "Gawaari, diyaarado",
+      "b": "Gudin, yaambo, badiil, masaar, hoole, fargeeto",
+      "c": "Buugaag, qalin",
+      "d": "Kumbuyuutar, teleefan"
+    },
+    "correctAnswer": "b",
+    "difficultyLevel": "easy",
+    "subjectId": "somali",
+    "chapterId": "somali_ch2"
+  },
+  {
+    "id": "Som_Ch2_Q20",
+    "question": "Su'aal toos ah: Sheeg gaadiid loo isticmaalo in beerta lagu falo?",
+    "options": {
+      "a": "Markab, dooni",
+      "b": "Baaskiil, mooto",
+      "c": "Cagafcagaf, dibbi",
+      "d": "Tareen, baska"
+    },
+    "correctAnswer": "c",
+    "difficultyLevel": "easy",
+    "subjectId": "somali",
+    "chapterId": "somali_ch2"
+  },
+  {
+    "id": "Som_Ch2_Q21",
+    "question": "Su'aal toos ah: Keebaa gardaran ninka xoolaleeyda iyo beeraleyda is haysta?",
+    "options": {
+      "a": "Ninka xoolaleyda ah, sababtoo ah beerta iyadaa loo yimi",
+      "b": "Labadaba way gardaranyihiin",
+      "c": "Garsooraha",
+      "d": "Ninka beeraleyda ah"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "easy",
+    "subjectId": "somali",
+    "chapterId": "somali_ch2"
+  },
+  {
+    "id": "Som_Ch2_Q22",
+    "question": "Fadlan ka jawaab: Sidee dhaqanka Soomaalida uga turjumayaa waxa dhexmaray Xirsi iyo Oday Geedoow?",
+    "options": {
+      "a": "Dhaqan wanaagsan iyo iskaashi",
+      "b": "Kala tag iyo eedeyn",
+      "c": "Tartanka ciyaaraha",
+      "d": "Collaad iyo dagaal"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "easy",
+    "subjectId": "somali",
+    "chapterId": "somali_ch2"
+  },
+  {
+    "id": "Som_Ch2_Q23",
+    "question": "Su'aal toos ah: Muxuu Xirsi ka faa'iiday safarkiisii Oday Geedoow?",
+    "options": {
+      "a": "Casharka beeraha iyo qalabka beeraha",
+      "b": "Habka kalluumeysiga",
+      "c": "Dhismaha maraakiibta",
+      "d": "Sida loo iibiyo xoolaha"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "easy",
+    "subjectId": "somali",
+    "chapterId": "somali_ch2"
+  },
+  {
+    "id": "Som_Ch2_Q24",
+    "question": "Su'aal toos ah: Goboladee ugu badan Soomaaliya tacbashada beeraha?",
+    "options": {
+      "a": "Gobolada barafka leh",
+      "b": "Gobolada saxaraha ah",
+      "c": "Gobolada buuraha leh",
+      "d": "Gobolada webiyadu maraan"
+    },
+    "correctAnswer": "d",
+    "difficultyLevel": "easy",
+    "subjectId": "somali",
+    "chapterId": "somali_ch2"
+  },
+  {
+    "id": "Som_Ch2_Q25",
+    "question": "Su'aal toos ah: Dhaqaalaha Soomaaliya keebaa u wanaagsan beerashada iyo xoolo dhaqashada?",
+    "options": {
+      "a": "Warshadaha",
+      "b": "Beeraha",
+      "c": "Macdanta",
+      "d": "Dalxiiska"
+    },
+    "correctAnswer": "b",
+    "difficultyLevel": "easy",
+    "subjectId": "somali",
+    "chapterId": "somali_ch2"
+  },
+  {
+    "id": "Som_Ch2_Q26",
+    "question": "Falanqeyn: Waa maxay beer? Maxay ula jeedaan aqoonyahannada?",
+    "options": {
+      "a": "Qodista dhul, beerista geedo iyo waxsoosaar",
+      "b": "Ciyaaraha carruurta",
+      "c": "Xoolo dhaqashada",
+      "d": "Dhismaha guryaha"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "medium",
+    "subjectId": "somali",
+    "chapterId": "somali_ch2"
+  },
+  {
+    "id": "Som_Ch2_Q27",
+    "question": "Dersid gaaban: Waa maxay ereyga 'Diraac'? Marka laga eego casharka?",
+    "options": {
+      "a": "Waa habeenka madow",
+      "b": "Waa xili barwaaqo ah oo guga bartamihiisa ah",
+      "c": "Waa xili abaar ah",
+      "d": "Waa xiliga jiilaalka"
+    },
+    "correctAnswer": "b",
+    "difficultyLevel": "medium",
+    "subjectId": "somali",
+    "chapterId": "somali_ch2"
+  },
+  {
+    "id": "Som_Ch2_Q28",
+    "question": "Falanqeyn: Waa maxay macnaha 'wahab'? Maxay ula jeedaan aqoonyahannada?",
+    "options": {
+      "a": "Dabaysha xagaaga",
+      "b": "Roob mahiigaan ah",
+      "c": "Qaboow qoyaan reeba oo habeenkii soo dhaca",
+      "d": "Qorraxda kulul"
+    },
+    "correctAnswer": "c",
+    "difficultyLevel": "medium",
+    "subjectId": "somali",
+    "chapterId": "somali_ch2"
+  },
+  {
+    "id": "Som_Ch2_Q29",
+    "question": "Falanqeyn: Waa maxay macnaha 'cashi'? Maxay ula jeedaan aqoonyahannada?",
+    "options": {
+      "a": "Cunto fudud",
+      "b": "Daawo dhireed ah",
+      "c": "Nooc kamid ah geedaha",
+      "d": "Cudur xoolaad kadhasha deriskunoosha oo cad iyo caano yareyn kadhasha"
+    },
+    "correctAnswer": "d",
+    "difficultyLevel": "medium",
+    "subjectId": "somali",
+    "chapterId": "somali_ch2"
+  },
+  {
+    "id": "Som_Ch2_Q30",
+    "question": "Sharaxaad kooban: Maxaa kamid ah qalabka beeraha lagu falo? Tixraac qoraalkii hore.",
+    "options": {
+      "a": "Kumbuyuutar, teleefan",
+      "b": "Gudin, yaambo, badiil, masaar, hoole, fargeeto",
+      "c": "Gawaari, diyaarado",
+      "d": "Buugaag, qalin"
+    },
+    "correctAnswer": "b",
+    "difficultyLevel": "medium",
+    "subjectId": "somali",
+    "chapterId": "somali_ch2"
+  },
+  {
+    "id": "Som_Ch2_Q31",
+    "question": "Sharaxaad kooban: Sheeg gaadiid loo isticmaalo in beerta lagu falo? Tixraac qoraalkii hore.",
+    "options": {
+      "a": "Baaskiil, mooto",
+      "b": "Tareen, baska",
+      "c": "Markab, dooni",
+      "d": "Cagafcagaf, dibbi"
+    },
+    "correctAnswer": "d",
+    "difficultyLevel": "medium",
+    "subjectId": "somali",
+    "chapterId": "somali_ch2"
+  },
+  {
+    "id": "Som_Ch2_Q32",
+    "question": "Sharaxaad kooban: Keebaa gardaran ninka xoolaleeyda iyo beeraleyda is haysta? Tixraac qoraalkii hore.",
+    "options": {
+      "a": "Ninka xoolaleyda ah, sababtoo ah beerta iyadaa loo yimi",
+      "b": "Ninka beeraleyda ah",
+      "c": "Garsooraha",
+      "d": "Labadaba way gardaranyihiin"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "medium",
+    "subjectId": "somali",
+    "chapterId": "somali_ch2"
+  },
+  {
+    "id": "Som_Ch2_Q33",
+    "question": "Falanqeyn: Sidee dhaqanka Soomaalida uga turjumayaa waxa dhexmaray Xirsi iyo Oday Geedoow? Maxay ula jeedaan aqoonyahannada?",
+    "options": {
+      "a": "Collaad iyo dagaal",
+      "b": "Dhaqan wanaagsan iyo iskaashi",
+      "c": "Kala tag iyo eedeyn",
+      "d": "Tartanka ciyaaraha"
+    },
+    "correctAnswer": "b",
+    "difficultyLevel": "medium",
+    "subjectId": "somali",
+    "chapterId": "somali_ch2"
+  },
+  {
+    "id": "Som_Ch2_Q34",
+    "question": "Falanqeyn: Muxuu Xirsi ka faa'iiday safarkiisii Oday Geedoow? Maxay ula jeedaan aqoonyahannada?",
+    "options": {
+      "a": "Sida loo iibiyo xoolaha",
+      "b": "Casharka beeraha iyo qalabka beeraha",
+      "c": "Dhismaha maraakiibta",
+      "d": "Habka kalluumeysiga"
+    },
+    "correctAnswer": "b",
+    "difficultyLevel": "medium",
+    "subjectId": "somali",
+    "chapterId": "somali_ch2"
+  },
+  {
+    "id": "Som_Ch2_Q35",
+    "question": "Falanqeyn: Goboladee ugu badan Soomaaliya tacbashada beeraha? Maxay ula jeedaan aqoonyahannada?",
+    "options": {
+      "a": "Gobolada saxaraha ah",
+      "b": "Gobolada webiyadu maraan",
+      "c": "Gobolada barafka leh",
+      "d": "Gobolada buuraha leh"
+    },
+    "correctAnswer": "b",
+    "difficultyLevel": "medium",
+    "subjectId": "somali",
+    "chapterId": "somali_ch2"
+  },
+  {
+    "id": "Som_Ch2_Q36",
+    "question": "Falanqeyn: Dhaqaalaha Soomaaliya keebaa u wanaagsan beerashada iyo xoolo dhaqashada? Maxay ula jeedaan aqoonyahannada?",
+    "options": {
+      "a": "Warshadaha",
+      "b": "Dalxiiska",
+      "c": "Beeraha",
+      "d": "Macdanta"
+    },
+    "correctAnswer": "c",
+    "difficultyLevel": "medium",
+    "subjectId": "somali",
+    "chapterId": "somali_ch2"
+  },
+  {
+    "id": "Som_Ch2_Q37",
+    "question": "Dersid gaaban: Sidee ugu fiican ee beer looga tabcan karaa meelaha aan webiyadu marin? Marka laga eego casharka?",
+    "options": {
+      "a": "In badda biyo laga soo dhaamiyo",
+      "b": "In dhirta la jaro",
+      "c": "In roob la sugo oo kaliya",
+      "d": "Ceelriig inaad hesho"
+    },
+    "correctAnswer": "d",
+    "difficultyLevel": "medium",
+    "subjectId": "somali",
+    "chapterId": "somali_ch2"
+  },
+  {
+    "id": "Som_Ch2_Q38",
+    "question": "Bal qeex arintan: Muxuu yahay dalaga ugu badan ee Soomaaliya lagasoo saaro? Sida ku xusan buugga?",
+    "options": {
+      "a": "Mooska",
+      "b": "Canabka",
+      "c": "Tufaaxa",
+      "d": "Qaraha"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "medium",
+    "subjectId": "somali",
+    "chapterId": "somali_ch2"
+  },
+  {
+    "id": "Som_Ch2_Q39",
+    "question": "Sharaxaad kooban: Xagee lagasoo saaraa mooska ugu badan? Tixraac qoraalkii hore.",
+    "options": {
+      "a": "Gobolka Galgaduud",
+      "b": "Gobolka Nugaal",
+      "c": "Gobolka Sanaag",
+      "d": "Gobolka Shabeelada Hoose"
+    },
+    "correctAnswer": "d",
+    "difficultyLevel": "medium",
+    "subjectId": "somali",
+    "chapterId": "somali_ch2"
+  },
+  {
+    "id": "Som_Ch2_Q40",
+    "question": "Falanqeyn: Waa maxay beer? Maxay ula jeedaan aqoonyahannada?",
+    "options": {
+      "a": "Ciyaaraha carruurta",
+      "b": "Qodista dhul, beerista geedo iyo waxsoosaar",
+      "c": "Xoolo dhaqashada",
+      "d": "Dhismaha guryaha"
+    },
+    "correctAnswer": "b",
+    "difficultyLevel": "medium",
+    "subjectId": "somali",
+    "chapterId": "somali_ch2"
+  },
+  {
+    "id": "Som_Ch2_Q41",
+    "question": "Bal qeex arintan: Waa maxay ereyga 'Diraac'? Sida ku xusan buugga?",
+    "options": {
+      "a": "Waa habeenka madow",
+      "b": "Waa xili barwaaqo ah oo guga bartamihiisa ah",
+      "c": "Waa xili abaar ah",
+      "d": "Waa xiliga jiilaalka"
+    },
+    "correctAnswer": "b",
+    "difficultyLevel": "medium",
+    "subjectId": "somali",
+    "chapterId": "somali_ch2"
+  },
+  {
+    "id": "Som_Ch2_Q42",
+    "question": "Dersid gaaban: Waa maxay macnaha 'wahab'? Marka laga eego casharka?",
+    "options": {
+      "a": "Qaboow qoyaan reeba oo habeenkii soo dhaca",
+      "b": "Qorraxda kulul",
+      "c": "Dabaysha xagaaga",
+      "d": "Roob mahiigaan ah"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "medium",
+    "subjectId": "somali",
+    "chapterId": "somali_ch2"
+  },
+  {
+    "id": "Som_Ch2_Q43",
+    "question": "Sharaxaad kooban: Waa maxay macnaha 'cashi'? Tixraac qoraalkii hore.",
+    "options": {
+      "a": "Cunto fudud",
+      "b": "Daawo dhireed ah",
+      "c": "Nooc kamid ah geedaha",
+      "d": "Cudur xoolaad kadhasha deriskunoosha oo cad iyo caano yareyn kadhasha"
+    },
+    "correctAnswer": "d",
+    "difficultyLevel": "medium",
+    "subjectId": "somali",
+    "chapterId": "somali_ch2"
+  },
+  {
+    "id": "Som_Ch2_Q44",
+    "question": "Falanqeyn: Maxaa kamid ah qalabka beeraha lagu falo? Maxay ula jeedaan aqoonyahannada?",
+    "options": {
+      "a": "Gudin, yaambo, badiil, masaar, hoole, fargeeto",
+      "b": "Kumbuyuutar, teleefan",
+      "c": "Buugaag, qalin",
+      "d": "Gawaari, diyaarado"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "medium",
+    "subjectId": "somali",
+    "chapterId": "somali_ch2"
+  },
+  {
+    "id": "Som_Ch2_Q45",
+    "question": "Bal qeex arintan: Sheeg gaadiid loo isticmaalo in beerta lagu falo? Sida ku xusan buugga?",
+    "options": {
+      "a": "Cagafcagaf, dibbi",
+      "b": "Tareen, baska",
+      "c": "Markab, dooni",
+      "d": "Baaskiil, mooto"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "medium",
+    "subjectId": "somali",
+    "chapterId": "somali_ch2"
+  },
+  {
+    "id": "Som_Ch2_Q46",
+    "question": "Sharaxaad kooban: Keebaa gardaran ninka xoolaleeyda iyo beeraleyda is haysta? Tixraac qoraalkii hore.",
+    "options": {
+      "a": "Ninka xoolaleyda ah, sababtoo ah beerta iyadaa loo yimi",
+      "b": "Labadaba way gardaranyihiin",
+      "c": "Garsooraha",
+      "d": "Ninka beeraleyda ah"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "medium",
+    "subjectId": "somali",
+    "chapterId": "somali_ch2"
+  },
+  {
+    "id": "Som_Ch2_Q47",
+    "question": "Bal qeex arintan: Sidee dhaqanka Soomaalida uga turjumayaa waxa dhexmaray Xirsi iyo Oday Geedoow? Sida ku xusan buugga?",
+    "options": {
+      "a": "Collaad iyo dagaal",
+      "b": "Dhaqan wanaagsan iyo iskaashi",
+      "c": "Tartanka ciyaaraha",
+      "d": "Kala tag iyo eedeyn"
+    },
+    "correctAnswer": "b",
+    "difficultyLevel": "medium",
+    "subjectId": "somali",
+    "chapterId": "somali_ch2"
+  },
+  {
+    "id": "Som_Ch2_Q48",
+    "question": "Bal qeex arintan: Muxuu Xirsi ka faa'iiday safarkiisii Oday Geedoow? Sida ku xusan buugga?",
+    "options": {
+      "a": "Dhismaha maraakiibta",
+      "b": "Habka kalluumeysiga",
+      "c": "Casharka beeraha iyo qalabka beeraha",
+      "d": "Sida loo iibiyo xoolaha"
+    },
+    "correctAnswer": "c",
+    "difficultyLevel": "medium",
+    "subjectId": "somali",
+    "chapterId": "somali_ch2"
+  },
+  {
+    "id": "Som_Ch2_Q49",
+    "question": "Sharaxaad kooban: Goboladee ugu badan Soomaaliya tacbashada beeraha? Tixraac qoraalkii hore.",
+    "options": {
+      "a": "Gobolada buuraha leh",
+      "b": "Gobolada saxaraha ah",
+      "c": "Gobolada barafka leh",
+      "d": "Gobolada webiyadu maraan"
+    },
+    "correctAnswer": "d",
+    "difficultyLevel": "medium",
+    "subjectId": "somali",
+    "chapterId": "somali_ch2"
+  },
+  {
+    "id": "Som_Ch2_Q50",
+    "question": "Sharaxaad kooban: Dhaqaalaha Soomaaliya keebaa u wanaagsan beerashada iyo xoolo dhaqashada? Tixraac qoraalkii hore.",
+    "options": {
+      "a": "Beeraha",
+      "b": "Macdanta",
+      "c": "Warshadaha",
+      "d": "Dalxiiska"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "medium",
+    "subjectId": "somali",
+    "chapterId": "somali_ch2"
+  },
+  {
+    "id": "Som_Ch2_Q51",
+    "question": "Bal qeex arintan: Sidee ugu fiican ee beer looga tabcan karaa meelaha aan webiyadu marin? Sida ku xusan buugga?",
+    "options": {
+      "a": "In dhirta la jaro",
+      "b": "Ceelriig inaad hesho",
+      "c": "In badda biyo laga soo dhaamiyo",
+      "d": "In roob la sugo oo kaliya"
+    },
+    "correctAnswer": "b",
+    "difficultyLevel": "medium",
+    "subjectId": "somali",
+    "chapterId": "somali_ch2"
+  },
+  {
+    "id": "Som_Ch2_Q52",
+    "question": "Sharaxaad kooban: Muxuu yahay dalaga ugu badan ee Soomaaliya lagasoo saaro? Tixraac qoraalkii hore.",
+    "options": {
+      "a": "Qaraha",
+      "b": "Tufaaxa",
+      "c": "Canabka",
+      "d": "Mooska"
+    },
+    "correctAnswer": "d",
+    "difficultyLevel": "medium",
+    "subjectId": "somali",
+    "chapterId": "somali_ch2"
+  },
+  {
+    "id": "Som_Ch2_Q53",
+    "question": "Dood cilmiyeed: Waa maxay beer? Haddii aad u fiirsato xeerka Soomaalida?",
+    "options": {
+      "a": "Dhismaha guryaha",
+      "b": "Ciyaaraha carruurta",
+      "c": "Qodista dhul, beerista geedo iyo waxsoosaar",
+      "d": "Xoolo dhaqashada"
+    },
+    "correctAnswer": "c",
+    "difficultyLevel": "hard",
+    "subjectId": "somali",
+    "chapterId": "somali_ch2"
+  },
+  {
+    "id": "Som_Ch2_Q54",
+    "question": "Falanqeyn adag: Waa maxay ereyga 'Diraac'? Muxuu yahay xiriirka ka dhexeeya arimahan?",
+    "options": {
+      "a": "Waa habeenka madow",
+      "b": "Waa xiliga jiilaalka",
+      "c": "Waa xili abaar ah",
+      "d": "Waa xili barwaaqo ah oo guga bartamihiisa ah"
+    },
+    "correctAnswer": "d",
+    "difficultyLevel": "hard",
+    "subjectId": "somali",
+    "chapterId": "somali_ch2"
+  },
+  {
+    "id": "Som_Ch2_Q55",
+    "question": "Falanqeyn adag: Waa maxay macnaha 'wahab'? Muxuu yahay xiriirka ka dhexeeya arimahan?",
+    "options": {
+      "a": "Qaboow qoyaan reeba oo habeenkii soo dhaca",
+      "b": "Qorraxda kulul",
+      "c": "Dabaysha xagaaga",
+      "d": "Roob mahiigaan ah"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "hard",
+    "subjectId": "somali",
+    "chapterId": "somali_ch2"
+  },
+  {
+    "id": "Som_Ch2_Q56",
+    "question": "Weedh qoto dheer: Waa maxay macnaha 'cashi'? Sidee bay u saameysaa dhaqaalaha?",
+    "options": {
+      "a": "Daawo dhireed ah",
+      "b": "Nooc kamid ah geedaha",
+      "c": "Cudur xoolaad kadhasha deriskunoosha oo cad iyo caano yareyn kadhasha",
+      "d": "Cunto fudud"
+    },
+    "correctAnswer": "c",
+    "difficultyLevel": "hard",
+    "subjectId": "somali",
+    "chapterId": "somali_ch2"
+  },
+  {
+    "id": "Som_Ch2_Q57",
+    "question": "Fahan dheeri ah: Maxaa kamid ah qalabka beeraha lagu falo? Maxaa lagu sababayn karaa xaaladdan?",
+    "options": {
+      "a": "Kumbuyuutar, teleefan",
+      "b": "Gudin, yaambo, badiil, masaar, hoole, fargeeto",
+      "c": "Gawaari, diyaarado",
+      "d": "Buugaag, qalin"
+    },
+    "correctAnswer": "b",
+    "difficultyLevel": "hard",
+    "subjectId": "somali",
+    "chapterId": "somali_ch2"
+  },
+  {
+    "id": "Som_Ch2_Q58",
+    "question": "Dood cilmiyeed: Sheeg gaadiid loo isticmaalo in beerta lagu falo? Haddii aad u fiirsato xeerka Soomaalida?",
+    "options": {
+      "a": "Cagafcagaf, dibbi",
+      "b": "Baaskiil, mooto",
+      "c": "Tareen, baska",
+      "d": "Markab, dooni"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "hard",
+    "subjectId": "somali",
+    "chapterId": "somali_ch2"
+  },
+  {
+    "id": "Som_Ch2_Q59",
+    "question": "Weedh qoto dheer: Keebaa gardaran ninka xoolaleeyda iyo beeraleyda is haysta? Sidee bay u saameysaa dhaqaalaha?",
+    "options": {
+      "a": "Ninka xoolaleyda ah, sababtoo ah beerta iyadaa loo yimi",
+      "b": "Ninka beeraleyda ah",
+      "c": "Garsooraha",
+      "d": "Labadaba way gardaranyihiin"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "hard",
+    "subjectId": "somali",
+    "chapterId": "somali_ch2"
+  },
+  {
+    "id": "Som_Ch2_Q60",
+    "question": "Falanqeyn adag: Sidee dhaqanka Soomaalida uga turjumayaa waxa dhexmaray Xirsi iyo Oday Geedoow? Muxuu yahay xiriirka ka dhexeeya arimahan?",
+    "options": {
+      "a": "Tartanka ciyaaraha",
+      "b": "Dhaqan wanaagsan iyo iskaashi",
+      "c": "Collaad iyo dagaal",
+      "d": "Kala tag iyo eedeyn"
+    },
+    "correctAnswer": "b",
+    "difficultyLevel": "hard",
+    "subjectId": "somali",
+    "chapterId": "somali_ch2"
+  },
+  {
+    "id": "Som_Ch2_Q61",
+    "question": "Weedh qoto dheer: Muxuu Xirsi ka faa'iiday safarkiisii Oday Geedoow? Sidee bay u saameysaa dhaqaalaha?",
+    "options": {
+      "a": "Casharka beeraha iyo qalabka beeraha",
+      "b": "Sida loo iibiyo xoolaha",
+      "c": "Dhismaha maraakiibta",
+      "d": "Habka kalluumeysiga"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "hard",
+    "subjectId": "somali",
+    "chapterId": "somali_ch2"
+  },
+  {
+    "id": "Som_Ch2_Q62",
+    "question": "Fahan dheeri ah: Goboladee ugu badan Soomaaliya tacbashada beeraha? Maxaa lagu sababayn karaa xaaladdan?",
+    "options": {
+      "a": "Gobolada saxaraha ah",
+      "b": "Gobolada webiyadu maraan",
+      "c": "Gobolada barafka leh",
+      "d": "Gobolada buuraha leh"
+    },
+    "correctAnswer": "b",
+    "difficultyLevel": "hard",
+    "subjectId": "somali",
+    "chapterId": "somali_ch2"
+  },
+  {
+    "id": "Som_Ch2_Q63",
+    "question": "Fahan dheeri ah: Dhaqaalaha Soomaaliya keebaa u wanaagsan beerashada iyo xoolo dhaqashada? Maxaa lagu sababayn karaa xaaladdan?",
+    "options": {
+      "a": "Beeraha",
+      "b": "Warshadaha",
+      "c": "Dalxiiska",
+      "d": "Macdanta"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "hard",
+    "subjectId": "somali",
+    "chapterId": "somali_ch2"
+  },
+  {
+    "id": "Som_Ch2_Q64",
+    "question": "Fahan dheeri ah: Sidee ugu fiican ee beer looga tabcan karaa meelaha aan webiyadu marin? Maxaa lagu sababayn karaa xaaladdan?",
+    "options": {
+      "a": "Ceelriig inaad hesho",
+      "b": "In roob la sugo oo kaliya",
+      "c": "In badda biyo laga soo dhaamiyo",
+      "d": "In dhirta la jaro"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "hard",
+    "subjectId": "somali",
+    "chapterId": "somali_ch2"
+  },
+  {
+    "id": "Som_Ch2_Q65",
+    "question": "Falanqeyn adag: Muxuu yahay dalaga ugu badan ee Soomaaliya lagasoo saaro? Muxuu yahay xiriirka ka dhexeeya arimahan?",
+    "options": {
+      "a": "Qaraha",
+      "b": "Canabka",
+      "c": "Mooska",
+      "d": "Tufaaxa"
+    },
+    "correctAnswer": "c",
+    "difficultyLevel": "hard",
+    "subjectId": "somali",
+    "chapterId": "somali_ch2"
+  },
+  {
+    "id": "Som_Ch2_Q66",
+    "question": "Falanqeyn adag: Xagee lagasoo saaraa mooska ugu badan? Muxuu yahay xiriirka ka dhexeeya arimahan?",
+    "options": {
+      "a": "Gobolka Sanaag",
+      "b": "Gobolka Nugaal",
+      "c": "Gobolka Galgaduud",
+      "d": "Gobolka Shabeelada Hoose"
+    },
+    "correctAnswer": "d",
+    "difficultyLevel": "hard",
+    "subjectId": "somali",
+    "chapterId": "somali_ch2"
+  },
+  {
+    "id": "Som_Ch2_Q67",
+    "question": "Weedh qoto dheer: Waa maxay beer? Sidee bay u saameysaa dhaqaalaha?",
+    "options": {
+      "a": "Dhismaha guryaha",
+      "b": "Ciyaaraha carruurta",
+      "c": "Xoolo dhaqashada",
+      "d": "Qodista dhul, beerista geedo iyo waxsoosaar"
+    },
+    "correctAnswer": "d",
+    "difficultyLevel": "hard",
+    "subjectId": "somali",
+    "chapterId": "somali_ch2"
+  },
+  {
+    "id": "Som_Ch2_Q68",
+    "question": "Falanqeyn adag: Waa maxay ereyga 'Diraac'? Muxuu yahay xiriirka ka dhexeeya arimahan?",
+    "options": {
+      "a": "Waa habeenka madow",
+      "b": "Waa xiliga jiilaalka",
+      "c": "Waa xili abaar ah",
+      "d": "Waa xili barwaaqo ah oo guga bartamihiisa ah"
+    },
+    "correctAnswer": "d",
+    "difficultyLevel": "hard",
+    "subjectId": "somali",
+    "chapterId": "somali_ch2"
+  },
+  {
+    "id": "Som_Ch2_Q69",
+    "question": "Falanqeyn adag: Waa maxay macnaha 'wahab'? Muxuu yahay xiriirka ka dhexeeya arimahan?",
+    "options": {
+      "a": "Roob mahiigaan ah",
+      "b": "Dabaysha xagaaga",
+      "c": "Qaboow qoyaan reeba oo habeenkii soo dhaca",
+      "d": "Qorraxda kulul"
+    },
+    "correctAnswer": "c",
+    "difficultyLevel": "hard",
+    "subjectId": "somali",
+    "chapterId": "somali_ch2"
+  },
+  {
+    "id": "Som_Ch2_Q70",
+    "question": "Weedh qoto dheer: Waa maxay macnaha 'cashi'? Sidee bay u saameysaa dhaqaalaha?",
+    "options": {
+      "a": "Nooc kamid ah geedaha",
+      "b": "Cunto fudud",
+      "c": "Cudur xoolaad kadhasha deriskunoosha oo cad iyo caano yareyn kadhasha",
+      "d": "Daawo dhireed ah"
+    },
+    "correctAnswer": "c",
+    "difficultyLevel": "hard",
+    "subjectId": "somali",
+    "chapterId": "somali_ch2"
+  },
+  {
+    "id": "Som_Ch2_Q71",
+    "question": "Weedh qoto dheer: Maxaa kamid ah qalabka beeraha lagu falo? Sidee bay u saameysaa dhaqaalaha?",
+    "options": {
+      "a": "Buugaag, qalin",
+      "b": "Gawaari, diyaarado",
+      "c": "Gudin, yaambo, badiil, masaar, hoole, fargeeto",
+      "d": "Kumbuyuutar, teleefan"
+    },
+    "correctAnswer": "c",
+    "difficultyLevel": "hard",
+    "subjectId": "somali",
+    "chapterId": "somali_ch2"
+  },
+  {
+    "id": "Som_Ch2_Q72",
+    "question": "Fahan dheeri ah: Sheeg gaadiid loo isticmaalo in beerta lagu falo? Maxaa lagu sababayn karaa xaaladdan?",
+    "options": {
+      "a": "Markab, dooni",
+      "b": "Baaskiil, mooto",
+      "c": "Cagafcagaf, dibbi",
+      "d": "Tareen, baska"
+    },
+    "correctAnswer": "c",
+    "difficultyLevel": "hard",
+    "subjectId": "somali",
+    "chapterId": "somali_ch2"
+  },
+  {
+    "id": "Som_Ch2_Q73",
+    "question": "Dood cilmiyeed: Keebaa gardaran ninka xoolaleeyda iyo beeraleyda is haysta? Haddii aad u fiirsato xeerka Soomaalida?",
+    "options": {
+      "a": "Labadaba way gardaranyihiin",
+      "b": "Garsooraha",
+      "c": "Ninka beeraleyda ah",
+      "d": "Ninka xoolaleyda ah, sababtoo ah beerta iyadaa loo yimi"
+    },
+    "correctAnswer": "d",
+    "difficultyLevel": "hard",
+    "subjectId": "somali",
+    "chapterId": "somali_ch2"
+  },
+  {
+    "id": "Som_Ch2_Q74",
+    "question": "Falanqeyn adag: Sidee dhaqanka Soomaalida uga turjumayaa waxa dhexmaray Xirsi iyo Oday Geedoow? Muxuu yahay xiriirka ka dhexeeya arimahan?",
+    "options": {
+      "a": "Kala tag iyo eedeyn",
+      "b": "Tartanka ciyaaraha",
+      "c": "Collaad iyo dagaal",
+      "d": "Dhaqan wanaagsan iyo iskaashi"
+    },
+    "correctAnswer": "d",
+    "difficultyLevel": "hard",
+    "subjectId": "somali",
+    "chapterId": "somali_ch2"
+  },
+  {
+    "id": "Som_Ch2_Q75",
+    "question": "Fahan dheeri ah: Muxuu Xirsi ka faa'iiday safarkiisii Oday Geedoow? Maxaa lagu sababayn karaa xaaladdan?",
+    "options": {
+      "a": "Casharka beeraha iyo qalabka beeraha",
+      "b": "Sida loo iibiyo xoolaha",
+      "c": "Habka kalluumeysiga",
+      "d": "Dhismaha maraakiibta"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "hard",
+    "subjectId": "somali",
+    "chapterId": "somali_ch2"
+  },
+  {
+    "id": "Som_Ch2_Q76",
+    "question": "Weedh qoto dheer: Goboladee ugu badan Soomaaliya tacbashada beeraha? Sidee bay u saameysaa dhaqaalaha?",
+    "options": {
+      "a": "Gobolada saxaraha ah",
+      "b": "Gobolada webiyadu maraan",
+      "c": "Gobolada barafka leh",
+      "d": "Gobolada buuraha leh"
+    },
+    "correctAnswer": "b",
+    "difficultyLevel": "hard",
+    "subjectId": "somali",
+    "chapterId": "somali_ch2"
+  },
+  {
+    "id": "Som_Ch2_Q77",
+    "question": "Weedh qoto dheer: Dhaqaalaha Soomaaliya keebaa u wanaagsan beerashada iyo xoolo dhaqashada? Sidee bay u saameysaa dhaqaalaha?",
+    "options": {
+      "a": "Warshadaha",
+      "b": "Dalxiiska",
+      "c": "Beeraha",
+      "d": "Macdanta"
+    },
+    "correctAnswer": "c",
+    "difficultyLevel": "hard",
+    "subjectId": "somali",
+    "chapterId": "somali_ch2"
+  },
+  {
+    "id": "Som_Ch2_Q78",
+    "question": "Fahan dheeri ah: Sidee ugu fiican ee beer looga tabcan karaa meelaha aan webiyadu marin? Maxaa lagu sababayn karaa xaaladdan?",
+    "options": {
+      "a": "In dhirta la jaro",
+      "b": "In badda biyo laga soo dhaamiyo",
+      "c": "Ceelriig inaad hesho",
+      "d": "In roob la sugo oo kaliya"
+    },
+    "correctAnswer": "c",
+    "difficultyLevel": "hard",
+    "subjectId": "somali",
+    "chapterId": "somali_ch2"
+  },
+  {
+    "id": "Som_Ch2_Q79",
+    "question": "Weedh qoto dheer: Muxuu yahay dalaga ugu badan ee Soomaaliya lagasoo saaro? Sidee bay u saameysaa dhaqaalaha?",
+    "options": {
+      "a": "Canabka",
+      "b": "Tufaaxa",
+      "c": "Mooska",
+      "d": "Qaraha"
+    },
+    "correctAnswer": "c",
+    "difficultyLevel": "hard",
+    "subjectId": "somali",
+    "chapterId": "somali_ch2"
+  },
+  {
+    "id": "Som_Ch2_Q80",
+    "question": "Falanqeyn adag: Xagee lagasoo saaraa mooska ugu badan? Muxuu yahay xiriirka ka dhexeeya arimahan?",
+    "options": {
+      "a": "Gobolka Nugaal",
+      "b": "Gobolka Galgaduud",
+      "c": "Gobolka Shabeelada Hoose",
+      "d": "Gobolka Sanaag"
+    },
+    "correctAnswer": "c",
+    "difficultyLevel": "hard",
+    "subjectId": "somali",
+    "chapterId": "somali_ch2"
+  },
+  {
+    "id": "Som_Ch2_Q81",
+    "question": "Fahan dheeri ah: Waa maxay beer? Maxaa lagu sababayn karaa xaaladdan?",
+    "options": {
+      "a": "Ciyaaraha carruurta",
+      "b": "Xoolo dhaqashada",
+      "c": "Qodista dhul, beerista geedo iyo waxsoosaar",
+      "d": "Dhismaha guryaha"
+    },
+    "correctAnswer": "c",
+    "difficultyLevel": "hard",
+    "subjectId": "somali",
+    "chapterId": "somali_ch2"
+  }
+]

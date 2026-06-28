@@ -1,0 +1,1136 @@
+[
+  {
+    "id": "Som_Ch1_Q01",
+    "question": "Qoraalada sharraxaada ahi maxay akhristaha u sheegaan?",
+    "options": {
+      "a": "Xilliga ay wax dhaceen",
+      "b": "Sida iyo sababta wax u dhaceen",
+      "c": "Meesha ay wax ka dhaceen",
+      "d": "Qofka wax sameeyay"
+    },
+    "correctAnswer": "b",
+    "difficultyLevel": "easy",
+    "subjectId": "somali",
+    "chapterId": "somali_ch1"
+  },
+  {
+    "id": "Som_Ch1_Q02",
+    "question": "Qoraalada sharraxaada xagee laga helaa badanaa?",
+    "options": {
+      "a": "Gabayada iyo maansooyinka",
+      "b": "Buugaagta sheekooyinka",
+      "c": "Buugaagta sayniska iyo xogaha",
+      "d": "Taariikhda madoow"
+    },
+    "correctAnswer": "c",
+    "difficultyLevel": "easy",
+    "subjectId": "somali",
+    "chapterId": "somali_ch1"
+  },
+  {
+    "id": "Som_Ch1_Q03",
+    "question": "Aragtiyaha aqoonta sayniska maxay ku dhisanyihiin badankood?",
+    "options": {
+      "a": "Male awaal",
+      "b": "Sharraxaad",
+      "c": "Sheeko xariiro",
+      "d": "Murti iyo maahmaah"
+    },
+    "correctAnswer": "b",
+    "difficultyLevel": "easy",
+    "subjectId": "somali",
+    "chapterId": "somali_ch1"
+  },
+  {
+    "id": "Som_Ch1_Q04",
+    "question": "Waa maxay macnaha ereyga 'carro - edeg'?",
+    "options": {
+      "a": "Waa badda",
+      "b": "Waa aduunka",
+      "c": "Waa xiddigaha",
+      "d": "Waa cirka"
+    },
+    "correctAnswer": "b",
+    "difficultyLevel": "easy",
+    "subjectId": "somali",
+    "chapterId": "somali_ch1"
+  },
+  {
+    "id": "Som_Ch1_Q05",
+    "question": "Waa maxay heerka koowaad ee qoraalka sharraxaada?",
+    "options": {
+      "a": "Tusaale",
+      "b": "Arar",
+      "c": "Sheegasho",
+      "d": "Gunaanad"
+    },
+    "correctAnswer": "c",
+    "difficultyLevel": "easy",
+    "subjectId": "somali",
+    "chapterId": "somali_ch1"
+  },
+  {
+    "id": "Som_Ch1_Q06",
+    "question": "Sheegashada cadeymaha xagee ayey ka imaan karaan?",
+    "options": {
+      "a": "Riyo",
+      "b": "Male",
+      "c": "Tijaabo iyo kuurgal",
+      "d": "Qiyaasid aan sal lahayn"
+    },
+    "correctAnswer": "c",
+    "difficultyLevel": "easy",
+    "subjectId": "somali",
+    "chapterId": "somali_ch1"
+  },
+  {
+    "id": "Som_Ch1_Q07",
+    "question": "Sheegashada haysata cadeymo yar iyo midda haysata cadeymo badan midkee fiican?",
+    "options": {
+      "a": "Midna ma fiicna",
+      "b": "Midda haysata cadeymo yar",
+      "c": "Midda haysata cadeymo badan",
+      "d": "Labada way isku mid yihiin"
+    },
+    "correctAnswer": "c",
+    "difficultyLevel": "easy",
+    "subjectId": "somali",
+    "chapterId": "somali_ch1"
+  },
+  {
+    "id": "Som_Ch1_Q08",
+    "question": "Maxaa isku xira sheegashada iyo cadeynta?",
+    "options": {
+      "a": "Gunaanadka",
+      "b": "Cinwaanka",
+      "c": "Sababeynta",
+      "d": "Ararta"
+    },
+    "correctAnswer": "c",
+    "difficultyLevel": "easy",
+    "subjectId": "somali",
+    "chapterId": "somali_ch1"
+  },
+  {
+    "id": "Som_Ch1_Q09",
+    "question": "Maxaa loola jeeda habka iyo hanaanka isgaarsiinta ee qoraalka?",
+    "options": {
+      "a": "Adeegsiga af sax ah oo rasmi ah",
+      "b": "Adeegsiga ereyo adag",
+      "c": "Adeegsiga af qalaad",
+      "d": "Adeegsiga af iska caadi ah"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "easy",
+    "subjectId": "somali",
+    "chapterId": "somali_ch1"
+  },
+  {
+    "id": "Som_Ch1_Q10",
+    "question": "Kolka sharraxaadaha la qoraayo imisa tuduc ayey ka koobanyihiin asaas ahaan?",
+    "options": {
+      "a": "Shan tuduc",
+      "b": "Laba tuduc",
+      "c": "Afar tuduc",
+      "d": "Saddex tuduc"
+    },
+    "correctAnswer": "d",
+    "difficultyLevel": "easy",
+    "subjectId": "somali",
+    "chapterId": "somali_ch1"
+  },
+  {
+    "id": "Som_Ch1_Q11",
+    "question": "Qoraalka sharraxaada ee abyan wuxuu ka kooban yahay?",
+    "options": {
+      "a": "Tiro, xarfo iyo calaamado",
+      "b": "Sheegasho, caddeyn iyo sababeyn",
+      "c": "Arar, duluc iyo gunaanad",
+      "d": "Qiso, halhays iyo gabay"
+    },
+    "correctAnswer": "b",
+    "difficultyLevel": "easy",
+    "subjectId": "somali",
+    "chapterId": "somali_ch1"
+  },
+  {
+    "id": "Som_Ch1_Q12",
+    "question": "Bare C/salaam muxuu ardayda ka codsaday?",
+    "options": {
+      "a": "Inay cadeeyaan labo walxood midka baruurt ah",
+      "b": "Inay qoraan gabay",
+      "c": "Inay akhriyaan buug",
+      "d": "Inay sawiraan buur"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "easy",
+    "subjectId": "somali",
+    "chapterId": "somali_ch1"
+  },
+  {
+    "id": "Som_Ch1_Q13",
+    "question": "Su'aasha 13: Qoraalada sharraxaada ahi maxay akhristaha u sheegaan?",
+    "options": {
+      "a": "Sida iyo sababta wax u dhaceen",
+      "b": "Qofka wax sameeyay",
+      "c": "Xilliga ay wax dhaceen",
+      "d": "Meesha ay wax ka dhaceen"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "easy",
+    "subjectId": "somali",
+    "chapterId": "somali_ch1"
+  },
+  {
+    "id": "Som_Ch1_Q14",
+    "question": "Su'aasha 14: Qoraalada sharraxaada xagee laga helaa badanaa?",
+    "options": {
+      "a": "Buugaagta sayniska iyo xogaha",
+      "b": "Gabayada iyo maansooyinka",
+      "c": "Buugaagta sheekooyinka",
+      "d": "Taariikhda madoow"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "easy",
+    "subjectId": "somali",
+    "chapterId": "somali_ch1"
+  },
+  {
+    "id": "Som_Ch1_Q15",
+    "question": "Su'aasha 15: Aragtiyaha aqoonta sayniska maxay ku dhisanyihiin badankood?",
+    "options": {
+      "a": "Murti iyo maahmaah",
+      "b": "Sheeko xariiro",
+      "c": "Sharraxaad",
+      "d": "Male awaal"
+    },
+    "correctAnswer": "c",
+    "difficultyLevel": "easy",
+    "subjectId": "somali",
+    "chapterId": "somali_ch1"
+  },
+  {
+    "id": "Som_Ch1_Q16",
+    "question": "Su'aasha 16: Waa maxay macnaha ereyga 'carro - edeg'?",
+    "options": {
+      "a": "Waa aduunka",
+      "b": "Waa badda",
+      "c": "Waa cirka",
+      "d": "Waa xiddigaha"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "easy",
+    "subjectId": "somali",
+    "chapterId": "somali_ch1"
+  },
+  {
+    "id": "Som_Ch1_Q17",
+    "question": "Su'aasha 17: Waa maxay heerka koowaad ee qoraalka sharraxaada?",
+    "options": {
+      "a": "Tusaale",
+      "b": "Arar",
+      "c": "Gunaanad",
+      "d": "Sheegasho"
+    },
+    "correctAnswer": "d",
+    "difficultyLevel": "easy",
+    "subjectId": "somali",
+    "chapterId": "somali_ch1"
+  },
+  {
+    "id": "Som_Ch1_Q18",
+    "question": "Su'aasha 18: Sheegashada cadeymaha xagee ayey ka imaan karaan?",
+    "options": {
+      "a": "Tijaabo iyo kuurgal",
+      "b": "Male",
+      "c": "Riyo",
+      "d": "Qiyaasid aan sal lahayn"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "easy",
+    "subjectId": "somali",
+    "chapterId": "somali_ch1"
+  },
+  {
+    "id": "Som_Ch1_Q19",
+    "question": "Su'aasha 19: Sheegashada haysata cadeymo yar iyo midda haysata cadeymo badan midkee fiican?",
+    "options": {
+      "a": "Labada way isku mid yihiin",
+      "b": "Midda haysata cadeymo yar",
+      "c": "Midna ma fiicna",
+      "d": "Midda haysata cadeymo badan"
+    },
+    "correctAnswer": "d",
+    "difficultyLevel": "easy",
+    "subjectId": "somali",
+    "chapterId": "somali_ch1"
+  },
+  {
+    "id": "Som_Ch1_Q20",
+    "question": "Su'aasha 20: Maxaa isku xira sheegashada iyo cadeynta?",
+    "options": {
+      "a": "Ararta",
+      "b": "Cinwaanka",
+      "c": "Gunaanadka",
+      "d": "Sababeynta"
+    },
+    "correctAnswer": "d",
+    "difficultyLevel": "easy",
+    "subjectId": "somali",
+    "chapterId": "somali_ch1"
+  },
+  {
+    "id": "Som_Ch1_Q21",
+    "question": "Su'aasha 21: Maxaa loola jeeda habka iyo hanaanka isgaarsiinta ee qoraalka?",
+    "options": {
+      "a": "Adeegsiga af iska caadi ah",
+      "b": "Adeegsiga ereyo adag",
+      "c": "Adeegsiga af sax ah oo rasmi ah",
+      "d": "Adeegsiga af qalaad"
+    },
+    "correctAnswer": "c",
+    "difficultyLevel": "easy",
+    "subjectId": "somali",
+    "chapterId": "somali_ch1"
+  },
+  {
+    "id": "Som_Ch1_Q22",
+    "question": "Su'aasha 22: Kolka sharraxaadaha la qoraayo imisa tuduc ayey ka koobanyihiin asaas ahaan?",
+    "options": {
+      "a": "Shan tuduc",
+      "b": "Saddex tuduc",
+      "c": "Afar tuduc",
+      "d": "Laba tuduc"
+    },
+    "correctAnswer": "b",
+    "difficultyLevel": "easy",
+    "subjectId": "somali",
+    "chapterId": "somali_ch1"
+  },
+  {
+    "id": "Som_Ch1_Q23",
+    "question": "Su'aasha 23: Qoraalka sharraxaada ee abyan wuxuu ka kooban yahay?",
+    "options": {
+      "a": "Arar, duluc iyo gunaanad",
+      "b": "Sheegasho, caddeyn iyo sababeyn",
+      "c": "Qiso, halhays iyo gabay",
+      "d": "Tiro, xarfo iyo calaamado"
+    },
+    "correctAnswer": "b",
+    "difficultyLevel": "easy",
+    "subjectId": "somali",
+    "chapterId": "somali_ch1"
+  },
+  {
+    "id": "Som_Ch1_Q24",
+    "question": "Su'aasha 24: Bare C/salaam muxuu ardayda ka codsaday?",
+    "options": {
+      "a": "Inay qoraan gabay",
+      "b": "Inay sawiraan buur",
+      "c": "Inay akhriyaan buug",
+      "d": "Inay cadeeyaan labo walxood midka baruurt ah"
+    },
+    "correctAnswer": "d",
+    "difficultyLevel": "easy",
+    "subjectId": "somali",
+    "chapterId": "somali_ch1"
+  },
+  {
+    "id": "Som_Ch1_Q25",
+    "question": "Su'aasha 25: Qoraalada sharraxaada ahi maxay akhristaha u sheegaan?",
+    "options": {
+      "a": "Sida iyo sababta wax u dhaceen",
+      "b": "Qofka wax sameeyay",
+      "c": "Meesha ay wax ka dhaceen",
+      "d": "Xilliga ay wax dhaceen"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "easy",
+    "subjectId": "somali",
+    "chapterId": "somali_ch1"
+  },
+  {
+    "id": "Som_Ch1_Q26",
+    "question": "Su'aasha 26: Qoraalada sharraxaada xagee laga helaa badanaa?",
+    "options": {
+      "a": "Taariikhda madoow",
+      "b": "Buugaagta sheekooyinka",
+      "c": "Buugaagta sayniska iyo xogaha",
+      "d": "Gabayada iyo maansooyinka"
+    },
+    "correctAnswer": "c",
+    "difficultyLevel": "medium",
+    "subjectId": "somali",
+    "chapterId": "somali_ch1"
+  },
+  {
+    "id": "Som_Ch1_Q27",
+    "question": "Su'aasha 27: Aragtiyaha aqoonta sayniska maxay ku dhisanyihiin badankood?",
+    "options": {
+      "a": "Male awaal",
+      "b": "Sharraxaad",
+      "c": "Sheeko xariiro",
+      "d": "Murti iyo maahmaah"
+    },
+    "correctAnswer": "b",
+    "difficultyLevel": "medium",
+    "subjectId": "somali",
+    "chapterId": "somali_ch1"
+  },
+  {
+    "id": "Som_Ch1_Q28",
+    "question": "Su'aasha 28: Waa maxay macnaha ereyga 'carro - edeg'?",
+    "options": {
+      "a": "Waa aduunka",
+      "b": "Waa cirka",
+      "c": "Waa badda",
+      "d": "Waa xiddigaha"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "medium",
+    "subjectId": "somali",
+    "chapterId": "somali_ch1"
+  },
+  {
+    "id": "Som_Ch1_Q29",
+    "question": "Su'aasha 29: Waa maxay heerka koowaad ee qoraalka sharraxaada?",
+    "options": {
+      "a": "Sheegasho",
+      "b": "Tusaale",
+      "c": "Gunaanad",
+      "d": "Arar"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "medium",
+    "subjectId": "somali",
+    "chapterId": "somali_ch1"
+  },
+  {
+    "id": "Som_Ch1_Q30",
+    "question": "Su'aasha 30: Sheegashada cadeymaha xagee ayey ka imaan karaan?",
+    "options": {
+      "a": "Male",
+      "b": "Qiyaasid aan sal lahayn",
+      "c": "Riyo",
+      "d": "Tijaabo iyo kuurgal"
+    },
+    "correctAnswer": "d",
+    "difficultyLevel": "medium",
+    "subjectId": "somali",
+    "chapterId": "somali_ch1"
+  },
+  {
+    "id": "Som_Ch1_Q31",
+    "question": "Su'aasha 31: Sheegashada haysata cadeymo yar iyo midda haysata cadeymo badan midkee fiican?",
+    "options": {
+      "a": "Labada way isku mid yihiin",
+      "b": "Midda haysata cadeymo badan",
+      "c": "Midda haysata cadeymo yar",
+      "d": "Midna ma fiicna"
+    },
+    "correctAnswer": "b",
+    "difficultyLevel": "medium",
+    "subjectId": "somali",
+    "chapterId": "somali_ch1"
+  },
+  {
+    "id": "Som_Ch1_Q32",
+    "question": "Su'aasha 32: Maxaa isku xira sheegashada iyo cadeynta?",
+    "options": {
+      "a": "Cinwaanka",
+      "b": "Ararta",
+      "c": "Sababeynta",
+      "d": "Gunaanadka"
+    },
+    "correctAnswer": "c",
+    "difficultyLevel": "medium",
+    "subjectId": "somali",
+    "chapterId": "somali_ch1"
+  },
+  {
+    "id": "Som_Ch1_Q33",
+    "question": "Su'aasha 33: Maxaa loola jeeda habka iyo hanaanka isgaarsiinta ee qoraalka?",
+    "options": {
+      "a": "Adeegsiga af qalaad",
+      "b": "Adeegsiga ereyo adag",
+      "c": "Adeegsiga af sax ah oo rasmi ah",
+      "d": "Adeegsiga af iska caadi ah"
+    },
+    "correctAnswer": "c",
+    "difficultyLevel": "medium",
+    "subjectId": "somali",
+    "chapterId": "somali_ch1"
+  },
+  {
+    "id": "Som_Ch1_Q34",
+    "question": "Su'aasha 34: Kolka sharraxaadaha la qoraayo imisa tuduc ayey ka koobanyihiin asaas ahaan?",
+    "options": {
+      "a": "Shan tuduc",
+      "b": "Laba tuduc",
+      "c": "Saddex tuduc",
+      "d": "Afar tuduc"
+    },
+    "correctAnswer": "c",
+    "difficultyLevel": "medium",
+    "subjectId": "somali",
+    "chapterId": "somali_ch1"
+  },
+  {
+    "id": "Som_Ch1_Q35",
+    "question": "Su'aasha 35: Qoraalka sharraxaada ee abyan wuxuu ka kooban yahay?",
+    "options": {
+      "a": "Arar, duluc iyo gunaanad",
+      "b": "Sheegasho, caddeyn iyo sababeyn",
+      "c": "Qiso, halhays iyo gabay",
+      "d": "Tiro, xarfo iyo calaamado"
+    },
+    "correctAnswer": "b",
+    "difficultyLevel": "medium",
+    "subjectId": "somali",
+    "chapterId": "somali_ch1"
+  },
+  {
+    "id": "Som_Ch1_Q36",
+    "question": "Su'aasha 36: Bare C/salaam muxuu ardayda ka codsaday?",
+    "options": {
+      "a": "Inay sawiraan buur",
+      "b": "Inay akhriyaan buug",
+      "c": "Inay cadeeyaan labo walxood midka baruurt ah",
+      "d": "Inay qoraan gabay"
+    },
+    "correctAnswer": "c",
+    "difficultyLevel": "medium",
+    "subjectId": "somali",
+    "chapterId": "somali_ch1"
+  },
+  {
+    "id": "Som_Ch1_Q37",
+    "question": "Su'aasha 37: Qoraalada sharraxaada ahi maxay akhristaha u sheegaan?",
+    "options": {
+      "a": "Meesha ay wax ka dhaceen",
+      "b": "Xilliga ay wax dhaceen",
+      "c": "Qofka wax sameeyay",
+      "d": "Sida iyo sababta wax u dhaceen"
+    },
+    "correctAnswer": "d",
+    "difficultyLevel": "medium",
+    "subjectId": "somali",
+    "chapterId": "somali_ch1"
+  },
+  {
+    "id": "Som_Ch1_Q38",
+    "question": "Su'aasha 38: Qoraalada sharraxaada xagee laga helaa badanaa?",
+    "options": {
+      "a": "Taariikhda madoow",
+      "b": "Buugaagta sayniska iyo xogaha",
+      "c": "Gabayada iyo maansooyinka",
+      "d": "Buugaagta sheekooyinka"
+    },
+    "correctAnswer": "b",
+    "difficultyLevel": "medium",
+    "subjectId": "somali",
+    "chapterId": "somali_ch1"
+  },
+  {
+    "id": "Som_Ch1_Q39",
+    "question": "Su'aasha 39: Aragtiyaha aqoonta sayniska maxay ku dhisanyihiin badankood?",
+    "options": {
+      "a": "Sheeko xariiro",
+      "b": "Male awaal",
+      "c": "Sharraxaad",
+      "d": "Murti iyo maahmaah"
+    },
+    "correctAnswer": "c",
+    "difficultyLevel": "medium",
+    "subjectId": "somali",
+    "chapterId": "somali_ch1"
+  },
+  {
+    "id": "Som_Ch1_Q40",
+    "question": "Su'aasha 40: Waa maxay macnaha ereyga 'carro - edeg'?",
+    "options": {
+      "a": "Waa cirka",
+      "b": "Waa badda",
+      "c": "Waa aduunka",
+      "d": "Waa xiddigaha"
+    },
+    "correctAnswer": "c",
+    "difficultyLevel": "medium",
+    "subjectId": "somali",
+    "chapterId": "somali_ch1"
+  },
+  {
+    "id": "Som_Ch1_Q41",
+    "question": "Su'aasha 41: Waa maxay heerka koowaad ee qoraalka sharraxaada?",
+    "options": {
+      "a": "Tusaale",
+      "b": "Sheegasho",
+      "c": "Gunaanad",
+      "d": "Arar"
+    },
+    "correctAnswer": "b",
+    "difficultyLevel": "medium",
+    "subjectId": "somali",
+    "chapterId": "somali_ch1"
+  },
+  {
+    "id": "Som_Ch1_Q42",
+    "question": "Su'aasha 42: Sheegashada cadeymaha xagee ayey ka imaan karaan?",
+    "options": {
+      "a": "Qiyaasid aan sal lahayn",
+      "b": "Male",
+      "c": "Tijaabo iyo kuurgal",
+      "d": "Riyo"
+    },
+    "correctAnswer": "c",
+    "difficultyLevel": "medium",
+    "subjectId": "somali",
+    "chapterId": "somali_ch1"
+  },
+  {
+    "id": "Som_Ch1_Q43",
+    "question": "Su'aasha 43: Sheegashada haysata cadeymo yar iyo midda haysata cadeymo badan midkee fiican?",
+    "options": {
+      "a": "Midna ma fiicna",
+      "b": "Labada way isku mid yihiin",
+      "c": "Midda haysata cadeymo badan",
+      "d": "Midda haysata cadeymo yar"
+    },
+    "correctAnswer": "c",
+    "difficultyLevel": "medium",
+    "subjectId": "somali",
+    "chapterId": "somali_ch1"
+  },
+  {
+    "id": "Som_Ch1_Q44",
+    "question": "Su'aasha 44: Maxaa isku xira sheegashada iyo cadeynta?",
+    "options": {
+      "a": "Gunaanadka",
+      "b": "Cinwaanka",
+      "c": "Ararta",
+      "d": "Sababeynta"
+    },
+    "correctAnswer": "d",
+    "difficultyLevel": "medium",
+    "subjectId": "somali",
+    "chapterId": "somali_ch1"
+  },
+  {
+    "id": "Som_Ch1_Q45",
+    "question": "Su'aasha 45: Maxaa loola jeeda habka iyo hanaanka isgaarsiinta ee qoraalka?",
+    "options": {
+      "a": "Adeegsiga af qalaad",
+      "b": "Adeegsiga af iska caadi ah",
+      "c": "Adeegsiga af sax ah oo rasmi ah",
+      "d": "Adeegsiga ereyo adag"
+    },
+    "correctAnswer": "c",
+    "difficultyLevel": "medium",
+    "subjectId": "somali",
+    "chapterId": "somali_ch1"
+  },
+  {
+    "id": "Som_Ch1_Q46",
+    "question": "Su'aasha 46: Kolka sharraxaadaha la qoraayo imisa tuduc ayey ka koobanyihiin asaas ahaan?",
+    "options": {
+      "a": "Saddex tuduc",
+      "b": "Laba tuduc",
+      "c": "Shan tuduc",
+      "d": "Afar tuduc"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "medium",
+    "subjectId": "somali",
+    "chapterId": "somali_ch1"
+  },
+  {
+    "id": "Som_Ch1_Q47",
+    "question": "Su'aasha 47: Qoraalka sharraxaada ee abyan wuxuu ka kooban yahay?",
+    "options": {
+      "a": "Tiro, xarfo iyo calaamado",
+      "b": "Sheegasho, caddeyn iyo sababeyn",
+      "c": "Arar, duluc iyo gunaanad",
+      "d": "Qiso, halhays iyo gabay"
+    },
+    "correctAnswer": "b",
+    "difficultyLevel": "medium",
+    "subjectId": "somali",
+    "chapterId": "somali_ch1"
+  },
+  {
+    "id": "Som_Ch1_Q48",
+    "question": "Su'aasha 48: Bare C/salaam muxuu ardayda ka codsaday?",
+    "options": {
+      "a": "Inay cadeeyaan labo walxood midka baruurt ah",
+      "b": "Inay qoraan gabay",
+      "c": "Inay akhriyaan buug",
+      "d": "Inay sawiraan buur"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "medium",
+    "subjectId": "somali",
+    "chapterId": "somali_ch1"
+  },
+  {
+    "id": "Som_Ch1_Q49",
+    "question": "Su'aasha 49: Qoraalada sharraxaada ahi maxay akhristaha u sheegaan?",
+    "options": {
+      "a": "Sida iyo sababta wax u dhaceen",
+      "b": "Qofka wax sameeyay",
+      "c": "Xilliga ay wax dhaceen",
+      "d": "Meesha ay wax ka dhaceen"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "medium",
+    "subjectId": "somali",
+    "chapterId": "somali_ch1"
+  },
+  {
+    "id": "Som_Ch1_Q50",
+    "question": "Su'aasha 50: Qoraalada sharraxaada xagee laga helaa badanaa?",
+    "options": {
+      "a": "Taariikhda madoow",
+      "b": "Buugaagta sheekooyinka",
+      "c": "Buugaagta sayniska iyo xogaha",
+      "d": "Gabayada iyo maansooyinka"
+    },
+    "correctAnswer": "c",
+    "difficultyLevel": "medium",
+    "subjectId": "somali",
+    "chapterId": "somali_ch1"
+  },
+  {
+    "id": "Som_Ch1_Q51",
+    "question": "Su'aasha 51: Aragtiyaha aqoonta sayniska maxay ku dhisanyihiin badankood?",
+    "options": {
+      "a": "Sheeko xariiro",
+      "b": "Murti iyo maahmaah",
+      "c": "Sharraxaad",
+      "d": "Male awaal"
+    },
+    "correctAnswer": "c",
+    "difficultyLevel": "medium",
+    "subjectId": "somali",
+    "chapterId": "somali_ch1"
+  },
+  {
+    "id": "Som_Ch1_Q52",
+    "question": "Su'aasha 52: Waa maxay macnaha ereyga 'carro - edeg'?",
+    "options": {
+      "a": "Waa badda",
+      "b": "Waa aduunka",
+      "c": "Waa cirka",
+      "d": "Waa xiddigaha"
+    },
+    "correctAnswer": "b",
+    "difficultyLevel": "medium",
+    "subjectId": "somali",
+    "chapterId": "somali_ch1"
+  },
+  {
+    "id": "Som_Ch1_Q53",
+    "question": "Su'aasha 53: Waa maxay heerka koowaad ee qoraalka sharraxaada?",
+    "options": {
+      "a": "Sheegasho",
+      "b": "Arar",
+      "c": "Tusaale",
+      "d": "Gunaanad"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "hard",
+    "subjectId": "somali",
+    "chapterId": "somali_ch1"
+  },
+  {
+    "id": "Som_Ch1_Q54",
+    "question": "Su'aasha 54: Sheegashada cadeymaha xagee ayey ka imaan karaan?",
+    "options": {
+      "a": "Tijaabo iyo kuurgal",
+      "b": "Riyo",
+      "c": "Male",
+      "d": "Qiyaasid aan sal lahayn"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "hard",
+    "subjectId": "somali",
+    "chapterId": "somali_ch1"
+  },
+  {
+    "id": "Som_Ch1_Q55",
+    "question": "Su'aasha 55: Sheegashada haysata cadeymo yar iyo midda haysata cadeymo badan midkee fiican?",
+    "options": {
+      "a": "Midna ma fiicna",
+      "b": "Midda haysata cadeymo badan",
+      "c": "Midda haysata cadeymo yar",
+      "d": "Labada way isku mid yihiin"
+    },
+    "correctAnswer": "b",
+    "difficultyLevel": "hard",
+    "subjectId": "somali",
+    "chapterId": "somali_ch1"
+  },
+  {
+    "id": "Som_Ch1_Q56",
+    "question": "Su'aasha 56: Maxaa isku xira sheegashada iyo cadeynta?",
+    "options": {
+      "a": "Gunaanadka",
+      "b": "Sababeynta",
+      "c": "Ararta",
+      "d": "Cinwaanka"
+    },
+    "correctAnswer": "b",
+    "difficultyLevel": "hard",
+    "subjectId": "somali",
+    "chapterId": "somali_ch1"
+  },
+  {
+    "id": "Som_Ch1_Q57",
+    "question": "Su'aasha 57: Maxaa loola jeeda habka iyo hanaanka isgaarsiinta ee qoraalka?",
+    "options": {
+      "a": "Adeegsiga af iska caadi ah",
+      "b": "Adeegsiga af sax ah oo rasmi ah",
+      "c": "Adeegsiga ereyo adag",
+      "d": "Adeegsiga af qalaad"
+    },
+    "correctAnswer": "b",
+    "difficultyLevel": "hard",
+    "subjectId": "somali",
+    "chapterId": "somali_ch1"
+  },
+  {
+    "id": "Som_Ch1_Q58",
+    "question": "Su'aasha 58: Kolka sharraxaadaha la qoraayo imisa tuduc ayey ka koobanyihiin asaas ahaan?",
+    "options": {
+      "a": "Shan tuduc",
+      "b": "Saddex tuduc",
+      "c": "Afar tuduc",
+      "d": "Laba tuduc"
+    },
+    "correctAnswer": "b",
+    "difficultyLevel": "hard",
+    "subjectId": "somali",
+    "chapterId": "somali_ch1"
+  },
+  {
+    "id": "Som_Ch1_Q59",
+    "question": "Su'aasha 59: Qoraalka sharraxaada ee abyan wuxuu ka kooban yahay?",
+    "options": {
+      "a": "Tiro, xarfo iyo calaamado",
+      "b": "Sheegasho, caddeyn iyo sababeyn",
+      "c": "Qiso, halhays iyo gabay",
+      "d": "Arar, duluc iyo gunaanad"
+    },
+    "correctAnswer": "b",
+    "difficultyLevel": "hard",
+    "subjectId": "somali",
+    "chapterId": "somali_ch1"
+  },
+  {
+    "id": "Som_Ch1_Q60",
+    "question": "Su'aasha 60: Bare C/salaam muxuu ardayda ka codsaday?",
+    "options": {
+      "a": "Inay akhriyaan buug",
+      "b": "Inay cadeeyaan labo walxood midka baruurt ah",
+      "c": "Inay qoraan gabay",
+      "d": "Inay sawiraan buur"
+    },
+    "correctAnswer": "b",
+    "difficultyLevel": "hard",
+    "subjectId": "somali",
+    "chapterId": "somali_ch1"
+  },
+  {
+    "id": "Som_Ch1_Q61",
+    "question": "Su'aasha 61: Qoraalada sharraxaada ahi maxay akhristaha u sheegaan?",
+    "options": {
+      "a": "Meesha ay wax ka dhaceen",
+      "b": "Sida iyo sababta wax u dhaceen",
+      "c": "Xilliga ay wax dhaceen",
+      "d": "Qofka wax sameeyay"
+    },
+    "correctAnswer": "b",
+    "difficultyLevel": "hard",
+    "subjectId": "somali",
+    "chapterId": "somali_ch1"
+  },
+  {
+    "id": "Som_Ch1_Q62",
+    "question": "Su'aasha 62: Qoraalada sharraxaada xagee laga helaa badanaa?",
+    "options": {
+      "a": "Gabayada iyo maansooyinka",
+      "b": "Taariikhda madoow",
+      "c": "Buugaagta sheekooyinka",
+      "d": "Buugaagta sayniska iyo xogaha"
+    },
+    "correctAnswer": "d",
+    "difficultyLevel": "hard",
+    "subjectId": "somali",
+    "chapterId": "somali_ch1"
+  },
+  {
+    "id": "Som_Ch1_Q63",
+    "question": "Su'aasha 63: Aragtiyaha aqoonta sayniska maxay ku dhisanyihiin badankood?",
+    "options": {
+      "a": "Male awaal",
+      "b": "Sharraxaad",
+      "c": "Murti iyo maahmaah",
+      "d": "Sheeko xariiro"
+    },
+    "correctAnswer": "b",
+    "difficultyLevel": "hard",
+    "subjectId": "somali",
+    "chapterId": "somali_ch1"
+  },
+  {
+    "id": "Som_Ch1_Q64",
+    "question": "Su'aasha 64: Waa maxay macnaha ereyga 'carro - edeg'?",
+    "options": {
+      "a": "Waa aduunka",
+      "b": "Waa cirka",
+      "c": "Waa xiddigaha",
+      "d": "Waa badda"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "hard",
+    "subjectId": "somali",
+    "chapterId": "somali_ch1"
+  },
+  {
+    "id": "Som_Ch1_Q65",
+    "question": "Su'aasha 65: Waa maxay heerka koowaad ee qoraalka sharraxaada?",
+    "options": {
+      "a": "Arar",
+      "b": "Tusaale",
+      "c": "Gunaanad",
+      "d": "Sheegasho"
+    },
+    "correctAnswer": "d",
+    "difficultyLevel": "hard",
+    "subjectId": "somali",
+    "chapterId": "somali_ch1"
+  },
+  {
+    "id": "Som_Ch1_Q66",
+    "question": "Su'aasha 66: Sheegashada cadeymaha xagee ayey ka imaan karaan?",
+    "options": {
+      "a": "Riyo",
+      "b": "Qiyaasid aan sal lahayn",
+      "c": "Tijaabo iyo kuurgal",
+      "d": "Male"
+    },
+    "correctAnswer": "c",
+    "difficultyLevel": "hard",
+    "subjectId": "somali",
+    "chapterId": "somali_ch1"
+  },
+  {
+    "id": "Som_Ch1_Q67",
+    "question": "Su'aasha 67: Sheegashada haysata cadeymo yar iyo midda haysata cadeymo badan midkee fiican?",
+    "options": {
+      "a": "Midda haysata cadeymo yar",
+      "b": "Midda haysata cadeymo badan",
+      "c": "Labada way isku mid yihiin",
+      "d": "Midna ma fiicna"
+    },
+    "correctAnswer": "b",
+    "difficultyLevel": "hard",
+    "subjectId": "somali",
+    "chapterId": "somali_ch1"
+  },
+  {
+    "id": "Som_Ch1_Q68",
+    "question": "Su'aasha 68: Maxaa isku xira sheegashada iyo cadeynta?",
+    "options": {
+      "a": "Gunaanadka",
+      "b": "Sababeynta",
+      "c": "Cinwaanka",
+      "d": "Ararta"
+    },
+    "correctAnswer": "b",
+    "difficultyLevel": "hard",
+    "subjectId": "somali",
+    "chapterId": "somali_ch1"
+  },
+  {
+    "id": "Som_Ch1_Q69",
+    "question": "Su'aasha 69: Maxaa loola jeeda habka iyo hanaanka isgaarsiinta ee qoraalka?",
+    "options": {
+      "a": "Adeegsiga af qalaad",
+      "b": "Adeegsiga af iska caadi ah",
+      "c": "Adeegsiga af sax ah oo rasmi ah",
+      "d": "Adeegsiga ereyo adag"
+    },
+    "correctAnswer": "c",
+    "difficultyLevel": "hard",
+    "subjectId": "somali",
+    "chapterId": "somali_ch1"
+  },
+  {
+    "id": "Som_Ch1_Q70",
+    "question": "Su'aasha 70: Kolka sharraxaadaha la qoraayo imisa tuduc ayey ka koobanyihiin asaas ahaan?",
+    "options": {
+      "a": "Shan tuduc",
+      "b": "Laba tuduc",
+      "c": "Afar tuduc",
+      "d": "Saddex tuduc"
+    },
+    "correctAnswer": "d",
+    "difficultyLevel": "hard",
+    "subjectId": "somali",
+    "chapterId": "somali_ch1"
+  },
+  {
+    "id": "Som_Ch1_Q71",
+    "question": "Su'aasha 71: Qoraalka sharraxaada ee abyan wuxuu ka kooban yahay?",
+    "options": {
+      "a": "Arar, duluc iyo gunaanad",
+      "b": "Tiro, xarfo iyo calaamado",
+      "c": "Qiso, halhays iyo gabay",
+      "d": "Sheegasho, caddeyn iyo sababeyn"
+    },
+    "correctAnswer": "d",
+    "difficultyLevel": "hard",
+    "subjectId": "somali",
+    "chapterId": "somali_ch1"
+  },
+  {
+    "id": "Som_Ch1_Q72",
+    "question": "Su'aasha 72: Bare C/salaam muxuu ardayda ka codsaday?",
+    "options": {
+      "a": "Inay cadeeyaan labo walxood midka baruurt ah",
+      "b": "Inay sawiraan buur",
+      "c": "Inay qoraan gabay",
+      "d": "Inay akhriyaan buug"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "hard",
+    "subjectId": "somali",
+    "chapterId": "somali_ch1"
+  },
+  {
+    "id": "Som_Ch1_Q73",
+    "question": "Su'aasha 73: Qoraalada sharraxaada ahi maxay akhristaha u sheegaan?",
+    "options": {
+      "a": "Qofka wax sameeyay",
+      "b": "Xilliga ay wax dhaceen",
+      "c": "Sida iyo sababta wax u dhaceen",
+      "d": "Meesha ay wax ka dhaceen"
+    },
+    "correctAnswer": "c",
+    "difficultyLevel": "hard",
+    "subjectId": "somali",
+    "chapterId": "somali_ch1"
+  },
+  {
+    "id": "Som_Ch1_Q74",
+    "question": "Su'aasha 74: Qoraalada sharraxaada xagee laga helaa badanaa?",
+    "options": {
+      "a": "Taariikhda madoow",
+      "b": "Buugaagta sheekooyinka",
+      "c": "Gabayada iyo maansooyinka",
+      "d": "Buugaagta sayniska iyo xogaha"
+    },
+    "correctAnswer": "d",
+    "difficultyLevel": "hard",
+    "subjectId": "somali",
+    "chapterId": "somali_ch1"
+  },
+  {
+    "id": "Som_Ch1_Q75",
+    "question": "Su'aasha 75: Aragtiyaha aqoonta sayniska maxay ku dhisanyihiin badankood?",
+    "options": {
+      "a": "Murti iyo maahmaah",
+      "b": "Sheeko xariiro",
+      "c": "Sharraxaad",
+      "d": "Male awaal"
+    },
+    "correctAnswer": "c",
+    "difficultyLevel": "hard",
+    "subjectId": "somali",
+    "chapterId": "somali_ch1"
+  },
+  {
+    "id": "Som_Ch1_Q76",
+    "question": "Su'aasha 76: Waa maxay macnaha ereyga 'carro - edeg'?",
+    "options": {
+      "a": "Waa badda",
+      "b": "Waa cirka",
+      "c": "Waa aduunka",
+      "d": "Waa xiddigaha"
+    },
+    "correctAnswer": "c",
+    "difficultyLevel": "hard",
+    "subjectId": "somali",
+    "chapterId": "somali_ch1"
+  },
+  {
+    "id": "Som_Ch1_Q77",
+    "question": "Su'aasha 77: Waa maxay heerka koowaad ee qoraalka sharraxaada?",
+    "options": {
+      "a": "Sheegasho",
+      "b": "Tusaale",
+      "c": "Arar",
+      "d": "Gunaanad"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "hard",
+    "subjectId": "somali",
+    "chapterId": "somali_ch1"
+  },
+  {
+    "id": "Som_Ch1_Q78",
+    "question": "Su'aasha 78: Sheegashada cadeymaha xagee ayey ka imaan karaan?",
+    "options": {
+      "a": "Tijaabo iyo kuurgal",
+      "b": "Riyo",
+      "c": "Qiyaasid aan sal lahayn",
+      "d": "Male"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "hard",
+    "subjectId": "somali",
+    "chapterId": "somali_ch1"
+  },
+  {
+    "id": "Som_Ch1_Q79",
+    "question": "Su'aasha 79: Sheegashada haysata cadeymo yar iyo midda haysata cadeymo badan midkee fiican?",
+    "options": {
+      "a": "Midda haysata cadeymo badan",
+      "b": "Midna ma fiicna",
+      "c": "Labada way isku mid yihiin",
+      "d": "Midda haysata cadeymo yar"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "hard",
+    "subjectId": "somali",
+    "chapterId": "somali_ch1"
+  },
+  {
+    "id": "Som_Ch1_Q80",
+    "question": "Su'aasha 80: Maxaa isku xira sheegashada iyo cadeynta?",
+    "options": {
+      "a": "Ararta",
+      "b": "Sababeynta",
+      "c": "Cinwaanka",
+      "d": "Gunaanadka"
+    },
+    "correctAnswer": "b",
+    "difficultyLevel": "hard",
+    "subjectId": "somali",
+    "chapterId": "somali_ch1"
+  },
+  {
+    "id": "Som_Ch1_Q81",
+    "question": "Su'aasha 81: Maxaa loola jeeda habka iyo hanaanka isgaarsiinta ee qoraalka?",
+    "options": {
+      "a": "Adeegsiga ereyo adag",
+      "b": "Adeegsiga af qalaad",
+      "c": "Adeegsiga af sax ah oo rasmi ah",
+      "d": "Adeegsiga af iska caadi ah"
+    },
+    "correctAnswer": "c",
+    "difficultyLevel": "hard",
+    "subjectId": "somali",
+    "chapterId": "somali_ch1"
+  }
+]

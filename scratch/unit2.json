@@ -1,0 +1,1150 @@
+[
+  {
+    "id": "Tar_Ch2_Q01",
+    "question": "كم صفة لعباد الرحمن ذُكرت في الدرس بالإجمال؟",
+    "options": {
+      "a": "تسع صفات",
+      "b": "عشر صفات",
+      "c": "إحدى عشرة صفة",
+      "d": "اثنتا عشرة صفة"
+    },
+    "correctAnswer": "c",
+    "difficultyLevel": "easy",
+    "subjectId": "tarbiyo",
+    "chapterId": "tarbiyo_ch2"
+  },
+  {
+    "id": "Tar_Ch2_Q02",
+    "question": "أي من التالية يعتبر من صفات عباد الرحمن؟",
+    "options": {
+      "a": "التكبر على الناس",
+      "b": "التواضع والطاعة لله",
+      "c": "الإسراف في الإنفاق",
+      "d": "الجهر بالسوء"
+    },
+    "correctAnswer": "b",
+    "difficultyLevel": "easy",
+    "subjectId": "tarbiyo",
+    "chapterId": "tarbiyo_ch2"
+  },
+  {
+    "id": "Tar_Ch2_Q03",
+    "question": "ما معنى كلمة (هونا) في قوله تعالى (يمشون على الأرض هونا)؟",
+    "options": {
+      "a": "سكينة ووقار",
+      "b": "بسرعة",
+      "c": "بخوف",
+      "d": "بتكبر"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "easy",
+    "subjectId": "tarbiyo",
+    "chapterId": "tarbiyo_ch2"
+  },
+  {
+    "id": "Tar_Ch2_Q04",
+    "question": "ما هو مفرد كلمة (عباد)؟",
+    "options": {
+      "a": "عبادة",
+      "b": "عبد",
+      "c": "معبود",
+      "d": "عابد"
+    },
+    "correctAnswer": "b",
+    "difficultyLevel": "easy",
+    "subjectId": "tarbiyo",
+    "chapterId": "tarbiyo_ch2"
+  },
+  {
+    "id": "Tar_Ch2_Q05",
+    "question": "كيف يواجه عباد الرحمن الجاهلين؟",
+    "options": {
+      "a": "بالصمت",
+      "b": "بالغضب",
+      "c": "يخاطبونهم خطابا يسلمون فيه من الإثم",
+      "d": "بالقتال"
+    },
+    "correctAnswer": "c",
+    "difficultyLevel": "easy",
+    "subjectId": "tarbiyo",
+    "chapterId": "tarbiyo_ch2"
+  },
+  {
+    "id": "Tar_Ch2_Q06",
+    "question": "كيف يكون إنفاق عباد الرحمن؟",
+    "options": {
+      "a": "إسراف شديد",
+      "b": "تقتير شديد",
+      "c": "لا ينفقون أبداً",
+      "d": "وسط بين التبذير والتضييق"
+    },
+    "correctAnswer": "d",
+    "difficultyLevel": "easy",
+    "subjectId": "tarbiyo",
+    "chapterId": "tarbiyo_ch2"
+  },
+  {
+    "id": "Tar_Ch2_Q07",
+    "question": "الدعاء سبب للفوز في الدنيا والآخرة، ومن أسبابه أيضاً:",
+    "options": {
+      "a": "سعة الرزق",
+      "b": "صلاح الأولاد",
+      "c": "كل ما سبق",
+      "d": "لا شيء مما سبق"
+    },
+    "correctAnswer": "c",
+    "difficultyLevel": "easy",
+    "subjectId": "tarbiyo",
+    "chapterId": "tarbiyo_ch2"
+  },
+  {
+    "id": "Tar_Ch2_Q08",
+    "question": "أي من التالية ليس من صفات عباد الرحمن؟",
+    "options": {
+      "a": "الحلم",
+      "b": "اجتناب القتل",
+      "c": "الكبر",
+      "d": "التهجد ليلا"
+    },
+    "correctAnswer": "c",
+    "difficultyLevel": "easy",
+    "subjectId": "tarbiyo",
+    "chapterId": "tarbiyo_ch2"
+  },
+  {
+    "id": "Tar_Ch2_Q09",
+    "question": "ما هي الصفة التي تمنع عباد الرحمن من التبذير؟",
+    "options": {
+      "a": "التوسط في الإنفاق",
+      "b": "البخل",
+      "c": "الفقر",
+      "d": "الجهل"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "easy",
+    "subjectId": "tarbiyo",
+    "chapterId": "tarbiyo_ch2"
+  },
+  {
+    "id": "Tar_Ch2_Q10",
+    "question": "قوله تعالى (والذين يبيتون لربهم سجدا وقياما) يشير إلى صفة:",
+    "options": {
+      "a": "الصيام",
+      "b": "التهجد ليلا",
+      "c": "الزكاة",
+      "d": "الحج"
+    },
+    "correctAnswer": "b",
+    "difficultyLevel": "easy",
+    "subjectId": "tarbiyo",
+    "chapterId": "tarbiyo_ch2"
+  },
+  {
+    "id": "Tar_Ch2_Q11",
+    "question": "هل الصدق والأمانة من صفات عباد الرحمن المذكورة؟",
+    "options": {
+      "a": "نعم",
+      "b": "لا",
+      "c": "الصدق فقط",
+      "d": "الأمانة فقط"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "easy",
+    "subjectId": "tarbiyo",
+    "chapterId": "tarbiyo_ch2"
+  },
+  {
+    "id": "Tar_Ch2_Q12",
+    "question": "أي الكلمات التالية هي جمع (الأرض)؟",
+    "options": {
+      "a": "أراضي",
+      "b": "أروض",
+      "c": "أراضيات",
+      "d": "رياض"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "easy",
+    "subjectId": "tarbiyo",
+    "chapterId": "tarbiyo_ch2"
+  },
+  {
+    "id": "Tar_Ch2_Q13",
+    "question": "ترك الإسراف والتقتير في الإنفاق يعبر عن صورة من صور:",
+    "options": {
+      "a": "الصلاة",
+      "b": "الوفاء",
+      "c": "الصوم",
+      "d": "الحج"
+    },
+    "correctAnswer": "b",
+    "difficultyLevel": "easy",
+    "subjectId": "tarbiyo",
+    "chapterId": "tarbiyo_ch2"
+  },
+  {
+    "id": "Tar_Ch2_Q14",
+    "question": "ما هي الدار التي أعدها الله في الآخرة للمتقين؟",
+    "options": {
+      "a": "الدنيا",
+      "b": "البرزخ",
+      "c": "الجنة",
+      "d": "النار"
+    },
+    "correctAnswer": "c",
+    "difficultyLevel": "easy",
+    "subjectId": "tarbiyo",
+    "chapterId": "tarbiyo_ch2"
+  },
+  {
+    "id": "Tar_Ch2_Q15",
+    "question": "من أسماء الجنة المذكورة في الدرس:",
+    "options": {
+      "a": "جهنم",
+      "b": "دار السلام",
+      "c": "السعير",
+      "d": "الجحيم"
+    },
+    "correctAnswer": "b",
+    "difficultyLevel": "easy",
+    "subjectId": "tarbiyo",
+    "chapterId": "tarbiyo_ch2"
+  },
+  {
+    "id": "Tar_Ch2_Q16",
+    "question": "كم عدد أبواب الجنة؟",
+    "options": {
+      "a": "سبعة",
+      "b": "ثمانية",
+      "c": "تسعة",
+      "d": "عشرة"
+    },
+    "correctAnswer": "b",
+    "difficultyLevel": "easy",
+    "subjectId": "tarbiyo",
+    "chapterId": "tarbiyo_ch2"
+  },
+  {
+    "id": "Tar_Ch2_Q17",
+    "question": "كم عدد أبواب النار؟",
+    "options": {
+      "a": "ستة",
+      "b": "سبعة",
+      "c": "ثمانية",
+      "d": "تسعة"
+    },
+    "correctAnswer": "b",
+    "difficultyLevel": "easy",
+    "subjectId": "tarbiyo",
+    "chapterId": "tarbiyo_ch2"
+  },
+  {
+    "id": "Tar_Ch2_Q18",
+    "question": "ما هو الباب الذي يدخل منه الصائمون في الجنة؟",
+    "options": {
+      "a": "باب الجهاد",
+      "b": "باب الصدقة",
+      "c": "باب الريان",
+      "d": "باب الصلاة"
+    },
+    "correctAnswer": "c",
+    "difficultyLevel": "easy",
+    "subjectId": "tarbiyo",
+    "chapterId": "tarbiyo_ch2"
+  },
+  {
+    "id": "Tar_Ch2_Q19",
+    "question": "ما هو الضريع؟",
+    "options": {
+      "a": "شوك مر منتن لا ينفع آكليه",
+      "b": "شجرة ذات منظر قبيح",
+      "c": "شراب أهل النار",
+      "d": "طعام أهل الجنة"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "easy",
+    "subjectId": "tarbiyo",
+    "chapterId": "tarbiyo_ch2"
+  },
+  {
+    "id": "Tar_Ch2_Q20",
+    "question": "شجرة ذات منظر قبيح ومخيف وذات طعم مر هي:",
+    "options": {
+      "a": "الضريع",
+      "b": "الزقوم",
+      "c": "الغسلين",
+      "d": "الريحان"
+    },
+    "correctAnswer": "b",
+    "difficultyLevel": "easy",
+    "subjectId": "tarbiyo",
+    "chapterId": "tarbiyo_ch2"
+  },
+  {
+    "id": "Tar_Ch2_Q21",
+    "question": "ما هو الدعاء الذي إذا دعا به المسلم حلت له شفاعة الرسول؟",
+    "options": {
+      "a": "دعاء السفر",
+      "b": "دعاء الوسيلة والفضيلة بعد الأذان",
+      "c": "دعاء الاستخارة",
+      "d": "دعاء النوم"
+    },
+    "correctAnswer": "b",
+    "difficultyLevel": "easy",
+    "subjectId": "tarbiyo",
+    "chapterId": "tarbiyo_ch2"
+  },
+  {
+    "id": "Tar_Ch2_Q22",
+    "question": "كيف تكون التوبة مقبولة؟",
+    "options": {
+      "a": "بالكلام فقط",
+      "b": "بالندم دون عمل",
+      "c": "توبة نصوحا وإيمانا جازما وعملا صالحا",
+      "d": "بتأخيرها"
+    },
+    "correctAnswer": "c",
+    "difficultyLevel": "easy",
+    "subjectId": "tarbiyo",
+    "chapterId": "tarbiyo_ch2"
+  },
+  {
+    "id": "Tar_Ch2_Q23",
+    "question": "أي من التالية يعتبر من أسماء النار؟",
+    "options": {
+      "a": "الفردوس",
+      "b": "النعيم",
+      "c": "عدن",
+      "d": "الجحيم"
+    },
+    "correctAnswer": "d",
+    "difficultyLevel": "easy",
+    "subjectId": "tarbiyo",
+    "chapterId": "tarbiyo_ch2"
+  },
+  {
+    "id": "Tar_Ch2_Q24",
+    "question": "هل الجنة ثمن للعمل وحده؟",
+    "options": {
+      "a": "نعم",
+      "b": "لا، لأن عمل الإنسان لا يتكافأ مع نعم الله",
+      "c": "الجنة ليست للمؤمنين",
+      "d": "لا يوجد جنة"
+    },
+    "correctAnswer": "b",
+    "difficultyLevel": "easy",
+    "subjectId": "tarbiyo",
+    "chapterId": "tarbiyo_ch2"
+  },
+  {
+    "id": "Tar_Ch2_Q25",
+    "question": "لماذا يتمنى أهل النار الموت؟",
+    "options": {
+      "a": "من شدة ما ينزل بهم من العذاب",
+      "b": "لأنهم يحبون الموت",
+      "c": "لأنهم تعبوا",
+      "d": "لا يتمنون الموت"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "easy",
+    "subjectId": "tarbiyo",
+    "chapterId": "tarbiyo_ch2"
+  },
+  {
+    "id": "Tar_Ch2_Q26",
+    "question": "يدخل الجنة بعض أمة نبينا محمد من الباب:",
+    "options": {
+      "a": "الأيسر",
+      "b": "الأيمن",
+      "c": "الخلفي",
+      "d": "الأمامي"
+    },
+    "correctAnswer": "b",
+    "difficultyLevel": "medium",
+    "subjectId": "tarbiyo",
+    "chapterId": "tarbiyo_ch2"
+  },
+  {
+    "id": "Tar_Ch2_Q27",
+    "question": "الابتعاد عن الفواحش يعتبر سبباً من أسباب:",
+    "options": {
+      "a": "دخول الجنة",
+      "b": "دخول النار",
+      "c": "الفقر",
+      "d": "المرض"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "medium",
+    "subjectId": "tarbiyo",
+    "chapterId": "tarbiyo_ch2"
+  },
+  {
+    "id": "Tar_Ch2_Q28",
+    "question": "من هو أبرز من دوّن وحفظ الحديث في زمانه؟",
+    "options": {
+      "a": "عمر بن الخطاب",
+      "b": "محمد بن شهاب الزهري",
+      "c": "علي بن أبي طالب",
+      "d": "عثمان بن عفان"
+    },
+    "correctAnswer": "b",
+    "difficultyLevel": "medium",
+    "subjectId": "tarbiyo",
+    "chapterId": "tarbiyo_ch2"
+  },
+  {
+    "id": "Tar_Ch2_Q29",
+    "question": "من هو مؤلف كتاب (سنن أبي داود)؟",
+    "options": {
+      "a": "سليمان بن أشعث",
+      "b": "محمد بن عيسى",
+      "c": "محمد بن شعيب",
+      "d": "أحمد بن حنبل"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "medium",
+    "subjectId": "tarbiyo",
+    "chapterId": "tarbiyo_ch2"
+  },
+  {
+    "id": "Tar_Ch2_Q30",
+    "question": "مؤلف كتاب (سنن الترمذي) هو:",
+    "options": {
+      "a": "أحمد بن حنبل",
+      "b": "مالك بن أنس",
+      "c": "محمد بن عيسى الترمذي",
+      "d": "سليمان بن أشعث"
+    },
+    "correctAnswer": "c",
+    "difficultyLevel": "medium",
+    "subjectId": "tarbiyo",
+    "chapterId": "tarbiyo_ch2"
+  },
+  {
+    "id": "Tar_Ch2_Q31",
+    "question": "مؤلف (سنن النسائي) هو:",
+    "options": {
+      "a": "محمد بن شعيب الخراساني",
+      "b": "محمد بن إدريس",
+      "c": "أحمد بن شعيب",
+      "d": "علي بن أبي طالب"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "medium",
+    "subjectId": "tarbiyo",
+    "chapterId": "tarbiyo_ch2"
+  },
+  {
+    "id": "Tar_Ch2_Q32",
+    "question": "كيف رتب الإمام البخاري أحاديثه؟",
+    "options": {
+      "a": "حسب الشيوخ",
+      "b": "حسب الموضوعات تحت كتب وأبواب",
+      "c": "حسب الحروف",
+      "d": "لم يرتبها"
+    },
+    "correctAnswer": "b",
+    "difficultyLevel": "medium",
+    "subjectId": "tarbiyo",
+    "chapterId": "tarbiyo_ch2"
+  },
+  {
+    "id": "Tar_Ch2_Q33",
+    "question": "ما هي طريقة الإمام مسلم في ترتيب الأحاديث؟",
+    "options": {
+      "a": "جمع الأحاديث المتعلقة بموضوع واحد فأثبتها في موضع واحد",
+      "b": "فرق الأحاديث",
+      "c": "رتبها حسب الصحابة",
+      "d": "رتبها عشوائيا"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "medium",
+    "subjectId": "tarbiyo",
+    "chapterId": "tarbiyo_ch2"
+  },
+  {
+    "id": "Tar_Ch2_Q34",
+    "question": "من هو الخليفة الذي أمر بجمع السنة وتدوينها؟",
+    "options": {
+      "a": "أبو بكر الصديق",
+      "b": "عمر بن الخطاب",
+      "c": "عمر بن عبد العزيز",
+      "d": "علي بن أبي طالب"
+    },
+    "correctAnswer": "c",
+    "difficultyLevel": "medium",
+    "subjectId": "tarbiyo",
+    "chapterId": "tarbiyo_ch2"
+  },
+  {
+    "id": "Tar_Ch2_Q35",
+    "question": "ما الذي تضمنه كتاب الموطأ؟",
+    "options": {
+      "a": "أحاديث رسول الله فقط",
+      "b": "حديث رسول الله وقول الصحابة والتابعين",
+      "c": "فقه الشافعي",
+      "d": "تفسير القرآن"
+    },
+    "correctAnswer": "b",
+    "difficultyLevel": "medium",
+    "subjectId": "tarbiyo",
+    "chapterId": "tarbiyo_ch2"
+  },
+  {
+    "id": "Tar_Ch2_Q36",
+    "question": "من مؤلف كتاب الموطأ؟",
+    "options": {
+      "a": "الإمام أحمد",
+      "b": "الإمام الشافعي",
+      "c": "الإمام مالك بن أنس",
+      "d": "الإمام أبو حنيفة"
+    },
+    "correctAnswer": "c",
+    "difficultyLevel": "medium",
+    "subjectId": "tarbiyo",
+    "chapterId": "tarbiyo_ch2"
+  },
+  {
+    "id": "Tar_Ch2_Q37",
+    "question": "من مؤلف كتاب المسند؟",
+    "options": {
+      "a": "الإمام أحمد بن حنبل",
+      "b": "الإمام الشافعي",
+      "c": "الإمام مالك",
+      "d": "الإمام أبو حنيفة"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "medium",
+    "subjectId": "tarbiyo",
+    "chapterId": "tarbiyo_ch2"
+  },
+  {
+    "id": "Tar_Ch2_Q38",
+    "question": "ما هي فائدة المصنفات في السنة؟",
+    "options": {
+      "a": "تسهل للباحث الوصول إلى الحديث",
+      "b": "تصعب الوصول للحديث",
+      "c": "لا فائدة لها",
+      "d": "تطيل الوقت"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "medium",
+    "subjectId": "tarbiyo",
+    "chapterId": "tarbiyo_ch2"
+  },
+  {
+    "id": "Tar_Ch2_Q39",
+    "question": "أي من الكتب التالية ليس من أشهر كتب السنة الستة/المشهورة؟",
+    "options": {
+      "a": "صحيح البخاري",
+      "b": "صحيح مسلم",
+      "c": "الموطأ",
+      "d": "كتاب الأم"
+    },
+    "correctAnswer": "d",
+    "difficultyLevel": "medium",
+    "subjectId": "tarbiyo",
+    "chapterId": "tarbiyo_ch2"
+  },
+  {
+    "id": "Tar_Ch2_Q40",
+    "question": "هل الإمام أحمد بن حنبل هو مؤلف المدونة؟",
+    "options": {
+      "a": "نعم",
+      "b": "لا",
+      "c": "ألفها مع الشافعي",
+      "d": "غير معروف"
+    },
+    "correctAnswer": "b",
+    "difficultyLevel": "medium",
+    "subjectId": "tarbiyo",
+    "chapterId": "tarbiyo_ch2"
+  },
+  {
+    "id": "Tar_Ch2_Q41",
+    "question": "مؤلف صحيح مسلم هو الإمام مسلم بن الحجاج، وطريقته تشبه:",
+    "options": {
+      "a": "توزيع الأحاديث",
+      "b": "جمع الأحاديث المتعلقة بموضوع واحد في مكان واحد",
+      "c": "ترتيب الأحاديث أبجديا",
+      "d": "ترتيبها حسب البلدان"
+    },
+    "correctAnswer": "b",
+    "difficultyLevel": "medium",
+    "subjectId": "tarbiyo",
+    "chapterId": "tarbiyo_ch2"
+  },
+  {
+    "id": "Tar_Ch2_Q42",
+    "question": "ما هو تعريف الفقه؟",
+    "options": {
+      "a": "العلم بالأحكام الشرعية العملية المكتسبة من أدلتها",
+      "b": "العلم بالعقيدة",
+      "c": "العلم باللغة",
+      "d": "العلم بالتاريخ"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "medium",
+    "subjectId": "tarbiyo",
+    "chapterId": "tarbiyo_ch2"
+  },
+  {
+    "id": "Tar_Ch2_Q43",
+    "question": "ما هو تعريف أصول الفقه؟",
+    "options": {
+      "a": "الأحكام الجزئية",
+      "b": "القواعد والأسس لاستنباط الأحكام الشرعية",
+      "c": "قصص الأنبياء",
+      "d": "تفسير القرآن"
+    },
+    "correctAnswer": "b",
+    "difficultyLevel": "medium",
+    "subjectId": "tarbiyo",
+    "chapterId": "tarbiyo_ch2"
+  },
+  {
+    "id": "Tar_Ch2_Q44",
+    "question": "علم يبحث في استنباط الأحكام الشرعية الجزئية هو:",
+    "options": {
+      "a": "علم العقيدة",
+      "b": "علم أصول الفقه",
+      "c": "علم الفقه",
+      "d": "علم التفسير"
+    },
+    "correctAnswer": "c",
+    "difficultyLevel": "medium",
+    "subjectId": "tarbiyo",
+    "chapterId": "tarbiyo_ch2"
+  },
+  {
+    "id": "Tar_Ch2_Q45",
+    "question": "نشأ علم الفقه متلازما مع أي العلوم؟",
+    "options": {
+      "a": "التفسير",
+      "b": "أصول الفقه",
+      "c": "الحديث الشريف",
+      "d": "النحو العربي"
+    },
+    "correctAnswer": "b",
+    "difficultyLevel": "medium",
+    "subjectId": "tarbiyo",
+    "chapterId": "tarbiyo_ch2"
+  },
+  {
+    "id": "Tar_Ch2_Q46",
+    "question": "من القائل: (الناس عيال في الفقه على أبي حنيفة)؟",
+    "options": {
+      "a": "الطبري",
+      "b": "أحمد بن حنبل",
+      "c": "مالك بن أنس",
+      "d": "الشافعي"
+    },
+    "correctAnswer": "d",
+    "difficultyLevel": "medium",
+    "subjectId": "tarbiyo",
+    "chapterId": "tarbiyo_ch2"
+  },
+  {
+    "id": "Tar_Ch2_Q47",
+    "question": "طريقة الإمام أبو حنيفة في الاستنباط تعتمد أولاً على:",
+    "options": {
+      "a": "القياس",
+      "b": "الكتاب",
+      "c": "السنة",
+      "d": "أقوال الصحابة"
+    },
+    "correctAnswer": "b",
+    "difficultyLevel": "medium",
+    "subjectId": "tarbiyo",
+    "chapterId": "tarbiyo_ch2"
+  },
+  {
+    "id": "Tar_Ch2_Q48",
+    "question": "الإمام مالك كان يبحث عن الحكم في الكتاب ثم السنة ثم:",
+    "options": {
+      "a": "القياس",
+      "b": "الإجماع",
+      "c": "أقوال الصحابة وما أجمع عليه أهل المدينة",
+      "d": "العرف"
+    },
+    "correctAnswer": "c",
+    "difficultyLevel": "medium",
+    "subjectId": "tarbiyo",
+    "chapterId": "tarbiyo_ch2"
+  },
+  {
+    "id": "Tar_Ch2_Q49",
+    "question": "الإمام الشافعي ألف كتابين مشهورين هما:",
+    "options": {
+      "a": "المدونة والموطأ",
+      "b": "الأم والرسالة",
+      "c": "المسند والسنن",
+      "d": "المحلى والمغني"
+    },
+    "correctAnswer": "b",
+    "difficultyLevel": "medium",
+    "subjectId": "tarbiyo",
+    "chapterId": "tarbiyo_ch2"
+  },
+  {
+    "id": "Tar_Ch2_Q50",
+    "question": "من أشهر علماء المذهب الحنفي:",
+    "options": {
+      "a": "أبو يوسف ومحمد بن الحسن",
+      "b": "الشافعي ومالك",
+      "c": "أحمد بن حنبل",
+      "d": "النووي وابن حجر"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "medium",
+    "subjectId": "tarbiyo",
+    "chapterId": "tarbiyo_ch2"
+  },
+  {
+    "id": "Tar_Ch2_Q51",
+    "question": "الإمام أحمد بن حنبل سار على طريقة شيخه:",
+    "options": {
+      "a": "أبو حنيفة",
+      "b": "مالك",
+      "c": "الشافعي",
+      "d": "الزهري"
+    },
+    "correctAnswer": "c",
+    "difficultyLevel": "medium",
+    "subjectId": "tarbiyo",
+    "chapterId": "tarbiyo_ch2"
+  },
+  {
+    "id": "Tar_Ch2_Q52",
+    "question": "هل اشتغل الإمام أحمد بالتجارة والحديث الشريف؟",
+    "options": {
+      "a": "نعم",
+      "b": "لا، اشتغل بالحديث فقط",
+      "c": "اشتغل بالتجارة فقط",
+      "d": "لم يشتغل بشيء"
+    },
+    "correctAnswer": "b",
+    "difficultyLevel": "medium",
+    "subjectId": "tarbiyo",
+    "chapterId": "tarbiyo_ch2"
+  },
+  {
+    "id": "Tar_Ch2_Q53",
+    "question": "متى توفي الإمام الشافعي؟",
+    "options": {
+      "a": "سنة 150 هجرية",
+      "b": "سنة 204 هجرية",
+      "c": "سنة 300 هجرية",
+      "d": "سنة 100 هجرية"
+    },
+    "correctAnswer": "b",
+    "difficultyLevel": "hard",
+    "subjectId": "tarbiyo",
+    "chapterId": "tarbiyo_ch2"
+  },
+  {
+    "id": "Tar_Ch2_Q54",
+    "question": "ما أهمية الفقه وأصوله؟",
+    "options": {
+      "a": "معرفة التاريخ",
+      "b": "يعالج مختلف مسائل الحياة من عبادات ومعاملات وغيرها",
+      "c": "تعلم اللغة",
+      "d": "معرفة الجغرافيا"
+    },
+    "correctAnswer": "b",
+    "difficultyLevel": "hard",
+    "subjectId": "tarbiyo",
+    "chapterId": "tarbiyo_ch2"
+  },
+  {
+    "id": "Tar_Ch2_Q55",
+    "question": "رتب المذاهب الفقهية حسب التسلسل الزمني:",
+    "options": {
+      "a": "الحنفي، المالكي، الشافعي، الحنبلي",
+      "b": "المالكي، الشافعي، الحنبلي، الحنفي",
+      "c": "الشافعي، الحنبلي، الحنفي، المالكي",
+      "d": "الحنبلي، الحنفي، المالكي، الشافعي"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "hard",
+    "subjectId": "tarbiyo",
+    "chapterId": "tarbiyo_ch2"
+  },
+  {
+    "id": "Tar_Ch2_Q56",
+    "question": "من هم الحواريون؟",
+    "options": {
+      "a": "أعداء عيسى",
+      "b": "أصحاب عيسى بن مريم وأنصاره",
+      "c": "إخوة عيسى",
+      "d": "أنبياء آخرون"
+    },
+    "correctAnswer": "b",
+    "difficultyLevel": "hard",
+    "subjectId": "tarbiyo",
+    "chapterId": "tarbiyo_ch2"
+  },
+  {
+    "id": "Tar_Ch2_Q57",
+    "question": "من معجزات عيسى عليه السلام:",
+    "options": {
+      "a": "خلق الطير من الطين",
+      "b": "إبراء الأكمه والأبرص",
+      "c": "إحياء الموتى",
+      "d": "كل ما سبق"
+    },
+    "correctAnswer": "d",
+    "difficultyLevel": "hard",
+    "subjectId": "tarbiyo",
+    "chapterId": "tarbiyo_ch2"
+  },
+  {
+    "id": "Tar_Ch2_Q58",
+    "question": "المراد بكلمة (الوفاة) في قوله (إني متوفيك) عند ابن كثير:",
+    "options": {
+      "a": "الموت",
+      "b": "النوم",
+      "c": "القتل",
+      "d": "الصلب"
+    },
+    "correctAnswer": "b",
+    "difficultyLevel": "hard",
+    "subjectId": "tarbiyo",
+    "chapterId": "tarbiyo_ch2"
+  },
+  {
+    "id": "Tar_Ch2_Q59",
+    "question": "لماذا طلب الحواريون نزول المائدة؟",
+    "options": {
+      "a": "للتحدي",
+      "b": "لإظهار العجز",
+      "c": "للاطمئنان",
+      "d": "للعب"
+    },
+    "correctAnswer": "c",
+    "difficultyLevel": "hard",
+    "subjectId": "tarbiyo",
+    "chapterId": "tarbiyo_ch2"
+  },
+  {
+    "id": "Tar_Ch2_Q60",
+    "question": "هل لليهود علاقة في محاولة قتل عيسى؟",
+    "options": {
+      "a": "نعم",
+      "b": "لا",
+      "c": "كانوا يحمونه",
+      "d": "لا يعرف"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "hard",
+    "subjectId": "tarbiyo",
+    "chapterId": "tarbiyo_ch2"
+  },
+  {
+    "id": "Tar_Ch2_Q61",
+    "question": "بماذا اجتهد عيسى عليه السلام؟",
+    "options": {
+      "a": "بالدعوة إلى التوحيد",
+      "b": "بجمع المال",
+      "c": "بالحرب",
+      "d": "ببناء المدن"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "hard",
+    "subjectId": "tarbiyo",
+    "chapterId": "tarbiyo_ch2"
+  },
+  {
+    "id": "Tar_Ch2_Q62",
+    "question": "هل اليهود أهل افتراء وبهتان؟",
+    "options": {
+      "a": "نعم",
+      "b": "لا",
+      "c": "أحيانا",
+      "d": "نادرا"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "hard",
+    "subjectId": "tarbiyo",
+    "chapterId": "tarbiyo_ch2"
+  },
+  {
+    "id": "Tar_Ch2_Q63",
+    "question": "ولادة عيسى عليه السلام من غير أب هي:",
+    "options": {
+      "a": "مستحيلة",
+      "b": "برهان على مشيئة الله ودليل على كمال قدرته",
+      "c": "صدفة",
+      "d": "خرافة"
+    },
+    "correctAnswer": "b",
+    "difficultyLevel": "hard",
+    "subjectId": "tarbiyo",
+    "chapterId": "tarbiyo_ch2"
+  },
+  {
+    "id": "Tar_Ch2_Q64",
+    "question": "من تكفل برعاية مريم عليها السلام؟",
+    "options": {
+      "a": "يحيى",
+      "b": "زكريا",
+      "c": "عيسى",
+      "d": "موسى"
+    },
+    "correctAnswer": "b",
+    "difficultyLevel": "hard",
+    "subjectId": "tarbiyo",
+    "chapterId": "tarbiyo_ch2"
+  },
+  {
+    "id": "Tar_Ch2_Q65",
+    "question": "لماذا تكفل زكريا برعاية مريم؟",
+    "options": {
+      "a": "لتقتبس منه علما نافعا وعملا صالحا",
+      "b": "لأنها غنية",
+      "c": "لأنها يتيمة فقط",
+      "d": "ليأخذ مالها"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "hard",
+    "subjectId": "tarbiyo",
+    "chapterId": "tarbiyo_ch2"
+  },
+  {
+    "id": "Tar_Ch2_Q66",
+    "question": "هل هناك غرابة من أن يولد عيسى من غير أب؟",
+    "options": {
+      "a": "نعم",
+      "b": "لا، لأن قدرة الله مطلقة",
+      "c": "ربما",
+      "d": "مستحيل"
+    },
+    "correctAnswer": "b",
+    "difficultyLevel": "hard",
+    "subjectId": "tarbiyo",
+    "chapterId": "tarbiyo_ch2"
+  },
+  {
+    "id": "Tar_Ch2_Q67",
+    "question": "هل نجح اليهود في قتل عيسى عليه السلام؟",
+    "options": {
+      "a": "نعم",
+      "b": "لا، رفعه الله إليه",
+      "c": "قتلوه وصلبوه",
+      "d": "سجنوه"
+    },
+    "correctAnswer": "b",
+    "difficultyLevel": "hard",
+    "subjectId": "tarbiyo",
+    "chapterId": "tarbiyo_ch2"
+  },
+  {
+    "id": "Tar_Ch2_Q68",
+    "question": "معجزات عيسى عليه السلام كلها كانت:",
+    "options": {
+      "a": "بقوته الشخصية",
+      "b": "بإذن الله",
+      "c": "بالسحر",
+      "d": "بالعلم"
+    },
+    "correctAnswer": "b",
+    "difficultyLevel": "hard",
+    "subjectId": "tarbiyo",
+    "chapterId": "tarbiyo_ch2"
+  },
+  {
+    "id": "Tar_Ch2_Q69",
+    "question": "من الصفات الذميمة التي اتصف بها قارون:",
+    "options": {
+      "a": "التواضع",
+      "b": "عدم الشكر والتكبر على القوم",
+      "c": "الكرم",
+      "d": "الصدق"
+    },
+    "correctAnswer": "b",
+    "difficultyLevel": "hard",
+    "subjectId": "tarbiyo",
+    "chapterId": "tarbiyo_ch2"
+  },
+  {
+    "id": "Tar_Ch2_Q70",
+    "question": "ما هي نهاية قارون؟",
+    "options": {
+      "a": "أصبح ملكا",
+      "b": "تاب إلى الله",
+      "c": "ابتلعته الأرض جزاء ببطره",
+      "d": "هاجر"
+    },
+    "correctAnswer": "c",
+    "difficultyLevel": "hard",
+    "subjectId": "tarbiyo",
+    "chapterId": "tarbiyo_ch2"
+  },
+  {
+    "id": "Tar_Ch2_Q71",
+    "question": "هل يجوز للغني أن يتمتع بماله كيفما شاء بلا حدود؟",
+    "options": {
+      "a": "نعم",
+      "b": "لا، حدوده أن لا يستخدم بماله على ما حرمه الله",
+      "c": "يجوز في السر",
+      "d": "يجوز للرجال فقط"
+    },
+    "correctAnswer": "b",
+    "difficultyLevel": "hard",
+    "subjectId": "tarbiyo",
+    "chapterId": "tarbiyo_ch2"
+  },
+  {
+    "id": "Tar_Ch2_Q72",
+    "question": "متى يكون المال نعمة؟",
+    "options": {
+      "a": "إذا بخل به",
+      "b": "إذا شكر صاحب المال",
+      "c": "إذا أسرف فيه",
+      "d": "إذا كفر بنعم الله"
+    },
+    "correctAnswer": "b",
+    "difficultyLevel": "hard",
+    "subjectId": "tarbiyo",
+    "chapterId": "tarbiyo_ch2"
+  },
+  {
+    "id": "Tar_Ch2_Q73",
+    "question": "متى يكون المال نقمة؟",
+    "options": {
+      "a": "إذا أنفقه في الخير",
+      "b": "إذا شكر الله",
+      "c": "إذا كفر صاحبه بنعم الله",
+      "d": "إذا تصدق به"
+    },
+    "correctAnswer": "c",
+    "difficultyLevel": "hard",
+    "subjectId": "tarbiyo",
+    "chapterId": "tarbiyo_ch2"
+  },
+  {
+    "id": "Tar_Ch2_Q74",
+    "question": "ما هي العلاقة بين موسى عليه السلام وقارون؟",
+    "options": {
+      "a": "كان أخاه",
+      "b": "كان ابن عمه",
+      "c": "كان خاله",
+      "d": "كان جاره"
+    },
+    "correctAnswer": "b",
+    "difficultyLevel": "hard",
+    "subjectId": "tarbiyo",
+    "chapterId": "tarbiyo_ch2"
+  },
+  {
+    "id": "Tar_Ch2_Q75",
+    "question": "بماذا رد قارون على نصيحة قومه؟",
+    "options": {
+      "a": "بالقبول",
+      "b": "بالرفض والتكبر",
+      "c": "بالبكاء",
+      "d": "بالتوبة"
+    },
+    "correctAnswer": "b",
+    "difficultyLevel": "hard",
+    "subjectId": "tarbiyo",
+    "chapterId": "tarbiyo_ch2"
+  },
+  {
+    "id": "Tar_Ch2_Q76",
+    "question": "قال قارون إنما أوتيته على:",
+    "options": {
+      "a": "رحمة من ربي",
+      "b": "علم عندي",
+      "c": "حظي",
+      "d": "ورثته"
+    },
+    "correctAnswer": "b",
+    "difficultyLevel": "hard",
+    "subjectId": "tarbiyo",
+    "chapterId": "tarbiyo_ch2"
+  },
+  {
+    "id": "Tar_Ch2_Q77",
+    "question": "جعل القرآن قارون نموذجا لبيان:",
+    "options": {
+      "a": "خطر المال على النفس البشرية حينما تتملكه",
+      "b": "فضل المال",
+      "c": "أهمية التجارة",
+      "d": "كيفية جمع المال"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "hard",
+    "subjectId": "tarbiyo",
+    "chapterId": "tarbiyo_ch2"
+  },
+  {
+    "id": "Tar_Ch2_Q78",
+    "question": "قارون خرج على قومه في:",
+    "options": {
+      "a": "ثياب ممزقة",
+      "b": "زينته",
+      "c": "خفية",
+      "d": "الليل"
+    },
+    "correctAnswer": "b",
+    "difficultyLevel": "hard",
+    "subjectId": "tarbiyo",
+    "chapterId": "tarbiyo_ch2"
+  },
+  {
+    "id": "Tar_Ch2_Q79",
+    "question": "ماذا فعل قارون عندما نصحه قومه؟",
+    "options": {
+      "a": "رفض وأراد أن يختال أمامهم وينشر الفتنة",
+      "b": "شكرهم",
+      "c": "أعطاهم من ماله",
+      "d": "هرب"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "hard",
+    "subjectId": "tarbiyo",
+    "chapterId": "tarbiyo_ch2"
+  },
+  {
+    "id": "Tar_Ch2_Q80",
+    "question": "من الصفات التي أدت لهلاك قارون:",
+    "options": {
+      "a": "الفخر بكثرة المال والبغي",
+      "b": "مساعدة الفقراء",
+      "c": "الزهد",
+      "d": "الصلاة"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "hard",
+    "subjectId": "tarbiyo",
+    "chapterId": "tarbiyo_ch2"
+  },
+  {
+    "id": "Tar_Ch2_Q81",
+    "question": "المال يعطى للإنسان:",
+    "options": {
+      "a": "دائما مكافأة",
+      "b": "اختبارا وابتلاء",
+      "c": "لأنه الأفضل",
+      "d": "عقابا فقط"
+    },
+    "correctAnswer": "b",
+    "difficultyLevel": "hard",
+    "subjectId": "tarbiyo",
+    "chapterId": "tarbiyo_ch2"
+  },
+  {
+    "id": "Tar_Ch2_Q82",
+    "question": "قصة قارون تعطي درسا في:",
+    "options": {
+      "a": "الكيمياء",
+      "b": "عاقبة الغرور والبطر",
+      "c": "التاريخ القديم فقط",
+      "d": "كيفية بناء القصور"
+    },
+    "correctAnswer": "b",
+    "difficultyLevel": "hard",
+    "subjectId": "tarbiyo",
+    "chapterId": "tarbiyo_ch2"
+  }
+]

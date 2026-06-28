@@ -1,0 +1,1136 @@
+[
+  {
+    "id": "Som_Ch3_Q01",
+    "question": "Maxaa kamid ah tiirarka maansada soomaaliyeed?",
+    "options": {
+      "a": "Qaafiyada",
+      "b": "Tuduca",
+      "c": "Alanka",
+      "d": "Xarafka"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "easy",
+    "subjectId": "somali",
+    "chapterId": "somali_ch3"
+  },
+  {
+    "id": "Som_Ch3_Q02",
+    "question": "Maansadu maxay ka koobantahay?",
+    "options": {
+      "a": "Tuducyo kala qaafiyad ah",
+      "b": "Meerisyo isku qaafiyad ah",
+      "c": "Ereyo aan xiriir lahayn",
+      "d": "Lugood aan miisaan lahayn"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "easy",
+    "subjectId": "somali",
+    "chapterId": "somali_ch3"
+  },
+  {
+    "id": "Som_Ch3_Q03",
+    "question": "Codka habdhaca leh maxaa sameeya?",
+    "options": {
+      "a": "Tuduca",
+      "b": "Xarafka qaafiyada",
+      "c": "Hakadka",
+      "d": "Shaqalka dheer"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "easy",
+    "subjectId": "somali",
+    "chapterId": "somali_ch3"
+  },
+  {
+    "id": "Som_Ch3_Q04",
+    "question": "Waa maxay qaafiyad?",
+    "options": {
+      "a": "Adeegsiga iyo soo celcelinta xaraf isku mid ah",
+      "b": "Xubnaha dhawaaqa yaryar ee meeriska",
+      "c": "Dhowr meeris ama sadar",
+      "d": "Erey lagu suubistay maansada"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "easy",
+    "subjectId": "somali",
+    "chapterId": "somali_ch3"
+  },
+  {
+    "id": "Som_Ch3_Q05",
+    "question": "Hal xaraf qaafiyadeed iyo hal lug maxay ku kala duwanyihiin?",
+    "options": {
+      "a": "Lugta ayaa ka weyn",
+      "b": "Xarafka ayaa ka weyn",
+      "c": "Waa isku mid",
+      "d": "Waa labo shay oo kala duwan dhamaantood"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "easy",
+    "subjectId": "somali",
+    "chapterId": "somali_ch3"
+  },
+  {
+    "id": "Som_Ch3_Q06",
+    "question": "Maxaa loola jeedaa meerisjab ama deelqaaf?",
+    "options": {
+      "a": "Erey lagu suubistay xarafka qaafiyada ee gabaygu kusocdo",
+      "b": "Habdhaca sargoan ee meeriska",
+      "c": "Shaqal gaab oo meeriska ku jira",
+      "d": "Lugta hore ee gabayga"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "easy",
+    "subjectId": "somali",
+    "chapterId": "somali_ch3"
+  },
+  {
+    "id": "Som_Ch3_Q07",
+    "question": "Waa maxay tuduc?",
+    "options": {
+      "a": "Hal erey oo maansada kamid ah",
+      "b": "Dhowr meeris ama sadar",
+      "c": "Xarafka ugu dambeeya meeriska",
+      "d": "Codka habdhaca leh ee maansada"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "easy",
+    "subjectId": "somali",
+    "chapterId": "somali_ch3"
+  },
+  {
+    "id": "Som_Ch3_Q08",
+    "question": "Maxaa loola jeedaa miisaanka maansada?",
+    "options": {
+      "a": "Adeegsiga xaraf isku mid ah",
+      "b": "Habdhaca sargoan ee meeriska",
+      "c": "Kala qaybinta lugaha maansada",
+      "d": "Tirada ereyada ku jira maansada"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "easy",
+    "subjectId": "somali",
+    "chapterId": "somali_ch3"
+  },
+  {
+    "id": "Som_Ch3_Q09",
+    "question": "Hab alan shaqal waa maxay?",
+    "options": {
+      "a": "Miisaanka maansada",
+      "b": "Meerisjab",
+      "c": "Qaafiyad",
+      "d": "Tuduc"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "easy",
+    "subjectId": "somali",
+    "chapterId": "somali_ch3"
+  },
+  {
+    "id": "Som_Ch3_Q10",
+    "question": "Miisaanka maansada muxuu qeexayaa?",
+    "options": {
+      "a": "Wuxuu qeexayaa xeerarka ay ku fadhido maansada",
+      "b": "Wuxuu qeexayaa magaca abwaanka",
+      "c": "Wuxuu qeexayaa xilliga la tiriyey",
+      "d": "Wuxuu qeexayaa dhererka maansada oo dhan"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "easy",
+    "subjectId": "somali",
+    "chapterId": "somali_ch3"
+  },
+  {
+    "id": "Som_Ch3_Q11",
+    "question": "Maxaa kamid ah godadka maansada?",
+    "options": {
+      "a": "Guban, oogo, dooxo",
+      "b": "Gabayga, guurowga, geeraarka, jiiftada, buranburka, saarka",
+      "c": "Saddexda libaax ee kala ah aar, baranbarqo iyo gaani",
+      "d": "Dhambalan iyo hooris"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "easy",
+    "subjectId": "somali",
+    "chapterId": "somali_ch3"
+  },
+  {
+    "id": "Som_Ch3_Q12",
+    "question": "Maansada maxaa lagu miisaamaa?",
+    "options": {
+      "a": "Inta tuduc ay leedahay",
+      "b": "Inta erey ay ka koobantahay",
+      "c": "Inta alan ay ka koobantahay",
+      "d": "Inta xaraf ay ka koobantahay"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "easy",
+    "subjectId": "somali",
+    "chapterId": "somali_ch3"
+  },
+  {
+    "id": "Som_Ch3_Q13",
+    "question": "Waa maxay alan?",
+    "options": {
+      "a": "Xubnaha dhawaaqa yaryar ee meerisku ka koobanyahay",
+      "b": "Dhowr meeris ama sadar oo is raacsan",
+      "c": "Lugta dambe ee gabayga",
+      "d": "Ereyada shisheeye ee maansada ku jira"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "easy",
+    "subjectId": "somali",
+    "chapterId": "somali_ch3"
+  },
+  {
+    "id": "Som_Ch3_Q14",
+    "question": "Alanka imisa shibane ayaa raaci kara?",
+    "options": {
+      "a": "Saddex shibane",
+      "b": "Afar shibane",
+      "c": "Hal ama labo shibane",
+      "d": "Xitaa hal shibane ma raaci karo"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "easy",
+    "subjectId": "somali",
+    "chapterId": "somali_ch3"
+  },
+  {
+    "id": "Som_Ch3_Q15",
+    "question": "Waa maxay alan gaab?",
+    "options": {
+      "a": "Waa shaqal gaab",
+      "b": "Waa shaqal dheer",
+      "c": "Waa labo shibane",
+      "d": "Waa xarafka qaafiyada"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "easy",
+    "subjectId": "somali",
+    "chapterId": "somali_ch3"
+  },
+  {
+    "id": "Som_Ch3_Q16",
+    "question": "Waa maxay alan dheer?",
+    "options": {
+      "a": "Waa shaqal dheer",
+      "b": "Waa shaqal gaab",
+      "c": "Waa erey ka kooban dhowr shibane",
+      "d": "Waa meeris dhameystiran"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "easy",
+    "subjectId": "somali",
+    "chapterId": "somali_ch3"
+  },
+  {
+    "id": "Som_Ch3_Q17",
+    "question": "Maxaa loo dhaxeysiiyaa labada lugood ee meeriska?",
+    "options": {
+      "a": "Erey cusub",
+      "b": "Shaqal dheer",
+      "c": "Hakad",
+      "d": "Xaraf qaafiyadeed kale"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "easy",
+    "subjectId": "somali",
+    "chapterId": "somali_ch3"
+  },
+  {
+    "id": "Som_Ch3_Q18",
+    "question": "Lugta hore maxaa loo yaqaanaa?",
+    "options": {
+      "a": "Hooris / dambeed",
+      "b": "Hojis / horaad",
+      "c": "Dhambalan",
+      "d": "Deelqaaf"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "easy",
+    "subjectId": "somali",
+    "chapterId": "somali_ch3"
+  },
+  {
+    "id": "Som_Ch3_Q19",
+    "question": "Lugta dambe maxaa loo yaqaanaa?",
+    "options": {
+      "a": "Hojis / horaad",
+      "b": "Hooris / dambeed",
+      "c": "Dhambalan",
+      "d": "Meerisjab"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "easy",
+    "subjectId": "somali",
+    "chapterId": "somali_ch3"
+  },
+  {
+    "id": "Som_Ch3_Q20",
+    "question": "Waa maxay dhambalan?",
+    "options": {
+      "a": "Lugta hore ee hojiska oo ku dhamaada shaqal dheer oo kala jabaya",
+      "b": "Waa dhowr meeris oo hal tuduc noqday",
+      "c": "Waa qaafiyad isbedeshay",
+      "d": "Waa meerisjab ama deelqaaf"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "easy",
+    "subjectId": "somali",
+    "chapterId": "somali_ch3"
+  },
+  {
+    "id": "Som_Ch3_Q21",
+    "question": "Meeriska salsalka kabdaha iyo gabayada qaar waa imisa lugood?",
+    "options": {
+      "a": "Hal lug keliya",
+      "b": "Labo lugood",
+      "c": "3 luggood",
+      "d": "Afar lugood"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "easy",
+    "subjectId": "somali",
+    "chapterId": "somali_ch3"
+  },
+  {
+    "id": "Som_Ch3_Q22",
+    "question": "Meerisyada gabayga, buraanburka iyo guurowga waa imisa lugood?",
+    "options": {
+      "a": "Hal lug keliya",
+      "b": "Labo lugood",
+      "c": "3 luggood",
+      "d": "Lug ma laha"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "easy",
+    "subjectId": "somali",
+    "chapterId": "somali_ch3"
+  },
+  {
+    "id": "Som_Ch3_Q23",
+    "question": "Meerisyada geeraarka, saarka, iyo jiiftada waa imisa lug?",
+    "options": {
+      "a": "Hal lug keliya",
+      "b": "Labo lugood",
+      "c": "3 luggood",
+      "d": "Lugoodkoodu waa isbedbedelaa"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "easy",
+    "subjectId": "somali",
+    "chapterId": "somali_ch3"
+  },
+  {
+    "id": "Som_Ch3_Q24",
+    "question": "Labada xaraf marna shaqalka noqda marna shibanaha waa kuwee?",
+    "options": {
+      "a": "b iyo t",
+      "b": "m iyo n",
+      "c": "w iyo y",
+      "d": "k iyo q"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "easy",
+    "subjectId": "somali",
+    "chapterId": "somali_ch3"
+  },
+  {
+    "id": "Som_Ch3_Q25",
+    "question": "Xarfaha (w/y) goorma ayey hab dhaqanka shaqalka qaataan?",
+    "options": {
+      "a": "Marka ay ugu horreeyaan meeriska",
+      "b": "Kolka ay ugu dambeeyaan alan shaqal gaab ah",
+      "c": "Marka ay isxigaan",
+      "d": "Marka ay ku dhex jiraan shaqal dheer"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "easy",
+    "subjectId": "somali",
+    "chapterId": "somali_ch3"
+  },
+  {
+    "id": "Som_Ch3_Q26",
+    "question": "Gabayga waa imisa alan ugu badnaan?",
+    "options": {
+      "a": "18 alan",
+      "b": "19 alan",
+      "c": "20 alan",
+      "d": "21 alan"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "medium",
+    "subjectId": "somali",
+    "chapterId": "somali_ch3"
+  },
+  {
+    "id": "Som_Ch3_Q27",
+    "question": "Gabayga waa imisa alan ugu yaraan?",
+    "options": {
+      "a": "18 alan",
+      "b": "19 alan",
+      "c": "20 alan",
+      "d": "21 alan"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "medium",
+    "subjectId": "somali",
+    "chapterId": "somali_ch3"
+  },
+  {
+    "id": "Som_Ch3_Q28",
+    "question": "Gabayga waa imisa alan inta badan (caadiyan)?",
+    "options": {
+      "a": "18 alan",
+      "b": "19 alan",
+      "c": "20 alan",
+      "d": "21 alan"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "medium",
+    "subjectId": "somali",
+    "chapterId": "somali_ch3"
+  },
+  {
+    "id": "Som_Ch3_Q29",
+    "question": "Lugta hore ee gabayga had iyo goor imisa alan ayey ka koobantahay?",
+    "options": {
+      "a": "8 alan",
+      "b": "10 alan",
+      "c": "12 alan",
+      "d": "14 alan"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "medium",
+    "subjectId": "somali",
+    "chapterId": "somali_ch3"
+  },
+  {
+    "id": "Som_Ch3_Q30",
+    "question": "Lugta dambe ee gabayga imisa alan ayey ka koobantahay?",
+    "options": {
+      "a": "6 alan",
+      "b": "8 alan",
+      "c": "10 alan",
+      "d": "12 alan"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "medium",
+    "subjectId": "somali",
+    "chapterId": "somali_ch3"
+  },
+  {
+    "id": "Som_Ch3_Q31",
+    "question": "Gabayga buraanburka waa imisa alan?",
+    "options": {
+      "a": "18 alan",
+      "b": "20 alan",
+      "c": "25 alan",
+      "d": "9 alan"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "medium",
+    "subjectId": "somali",
+    "chapterId": "somali_ch3"
+  },
+  {
+    "id": "Som_Ch3_Q32",
+    "question": "Gabayga geeraarka waa imisa alan?",
+    "options": {
+      "a": "8 alan",
+      "b": "9 alan",
+      "c": "10 alan",
+      "d": "12 alan"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "medium",
+    "subjectId": "somali",
+    "chapterId": "somali_ch3"
+  },
+  {
+    "id": "Som_Ch3_Q33",
+    "question": "Gabayga jiiftada waa imisa alan?",
+    "options": {
+      "a": "8 alan",
+      "b": "9 alan",
+      "c": "10 alan",
+      "d": "18 alan"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "medium",
+    "subjectId": "somali",
+    "chapterId": "somali_ch3"
+  },
+  {
+    "id": "Som_Ch3_Q34",
+    "question": "Gabayga saarka waa imisa alan?",
+    "options": {
+      "a": "8 alan",
+      "b": "9 alan",
+      "c": "10 alan",
+      "d": "12 alan"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "medium",
+    "subjectId": "somali",
+    "chapterId": "somali_ch3"
+  },
+  {
+    "id": "Som_Ch3_Q35",
+    "question": "Gabayga salsalka kabdaha waa imisa alan?",
+    "options": {
+      "a": "18-20 alan",
+      "b": "20-22 alan",
+      "c": "27-25 alan",
+      "d": "30-35 alan"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "medium",
+    "subjectId": "somali",
+    "chapterId": "somali_ch3"
+  },
+  {
+    "id": "Som_Ch3_Q36",
+    "question": "Meerisyada guurowga waa imisa lugood?",
+    "options": {
+      "a": "Hal lug",
+      "b": "Labo lugood",
+      "c": "Saddex lugood",
+      "d": "Afar lugood"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "medium",
+    "subjectId": "somali",
+    "chapterId": "somali_ch3"
+  },
+  {
+    "id": "Som_Ch3_Q37",
+    "question": "Meerisyada heesaha waa imisa lug?",
+    "options": {
+      "a": "Hal lug keliya",
+      "b": "Labo lugood",
+      "c": "Saddex lugood",
+      "d": "Wax lug ah ma laha"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "medium",
+    "subjectId": "somali",
+    "chapterId": "somali_ch3"
+  },
+  {
+    "id": "Som_Ch3_Q38",
+    "question": "Gabayada qaar waa imisa lugood meeriskoodu?",
+    "options": {
+      "a": "1 lug",
+      "b": "2 lugood",
+      "c": "3 luggood",
+      "d": "4 lugood"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "medium",
+    "subjectId": "somali",
+    "chapterId": "somali_ch3"
+  },
+  {
+    "id": "Som_Ch3_Q39",
+    "question": "Salsalka kabdaha labada lugood ee hore maxaa loo yaqaanaa?",
+    "options": {
+      "a": "Hooris",
+      "b": "Hojis",
+      "c": "Dhambalan",
+      "d": "Tuduc"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "medium",
+    "subjectId": "somali",
+    "chapterId": "somali_ch3"
+  },
+  {
+    "id": "Som_Ch3_Q40",
+    "question": "Salsalka kabdaha lugta dambe maxaa loo yaqaanaa?",
+    "options": {
+      "a": "Hooris",
+      "b": "Hojis",
+      "c": "Alan gaab",
+      "d": "Deelqaaf"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "medium",
+    "subjectId": "somali",
+    "chapterId": "somali_ch3"
+  },
+  {
+    "id": "Som_Ch3_Q41",
+    "question": "Maxaa qayb kamid ah raacaya hojiska qaybna hooriska marka dhambalan dhaco?",
+    "options": {
+      "a": "Xarafka qaafiyada",
+      "b": "Dhawaaqii shaqalka dheeraa ee kala jabay",
+      "c": "Ereyga ugu dambeeya meeriska",
+      "d": "Hakadka u dhexeeya lugaha"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "medium",
+    "subjectId": "somali",
+    "chapterId": "somali_ch3"
+  },
+  {
+    "id": "Som_Ch3_Q42",
+    "question": "Xubnaha dhawaaqa yaryar ee meeriska maxaa la yiraahdaa?",
+    "options": {
+      "a": "Alan",
+      "b": "Lug",
+      "c": "Tuduc",
+      "d": "Qaafiyad"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "medium",
+    "subjectId": "somali",
+    "chapterId": "somali_ch3"
+  },
+  {
+    "id": "Som_Ch3_Q43",
+    "question": "Adeegsiga iyo soo celcelinta xaraf isku mid ah maansada maxaa la yiraahdaa?",
+    "options": {
+      "a": "Meeris",
+      "b": "Lug",
+      "c": "Qaafiyad",
+      "d": "Alan"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "medium",
+    "subjectId": "somali",
+    "chapterId": "somali_ch3"
+  },
+  {
+    "id": "Som_Ch3_Q44",
+    "question": "Dhowr meeris ama sadar oo isku xiga maxaa loo yaqaanaa?",
+    "options": {
+      "a": "Alan",
+      "b": "Tuduc",
+      "c": "Lug",
+      "d": "Dhambalan"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "medium",
+    "subjectId": "somali",
+    "chapterId": "somali_ch3"
+  },
+  {
+    "id": "Som_Ch3_Q45",
+    "question": "Ereyga lagu suubistay xarafka qaafiyada ee gabaygu ku socdo waa maxay?",
+    "options": {
+      "a": "Meerisjab ama deelqaaf",
+      "b": "Hooris",
+      "c": "Hojis",
+      "d": "Alan dheer"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "medium",
+    "subjectId": "somali",
+    "chapterId": "somali_ch3"
+  },
+  {
+    "id": "Som_Ch3_Q46",
+    "question": "Xeerarka ay ku fadhido maansada maxaa qeexa?",
+    "options": {
+      "a": "Miisaanka maansada",
+      "b": "Godadka maansada",
+      "c": "Xarafka qaafiyada",
+      "d": "Tirada tuducyada"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "medium",
+    "subjectId": "somali",
+    "chapterId": "somali_ch3"
+  },
+  {
+    "id": "Som_Ch3_Q47",
+    "question": "Maansada maxaa lagu qiyaasaa inta ay le'eg tahay dhanka miisaanka?",
+    "options": {
+      "a": "Inta alan ee ay ka koobantahay",
+      "b": "Inta erey ee ku jirta",
+      "c": "Inta abwaan ee tiriyey",
+      "d": "Inta xaraf ee shaqalka ah"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "medium",
+    "subjectId": "somali",
+    "chapterId": "somali_ch3"
+  },
+  {
+    "id": "Som_Ch3_Q48",
+    "question": "Maxaa isku mid ah dhanka maansada?",
+    "options": {
+      "a": "Hal xaraf qaafiyadeed iyo hal lug",
+      "b": "Gabayga iyo geeraarka",
+      "c": "Alan dheer iyo alan gaab",
+      "d": "Hojis iyo hooris"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "medium",
+    "subjectId": "somali",
+    "chapterId": "somali_ch3"
+  },
+  {
+    "id": "Som_Ch3_Q49",
+    "question": "Codka habdhaca leh ee maansada maxaa sameeya?",
+    "options": {
+      "a": "Xarafka qaafiyada",
+      "b": "Abwaanka",
+      "c": "Codka qofka tirinaya",
+      "d": "Dhererka meeriska"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "medium",
+    "subjectId": "somali",
+    "chapterId": "somali_ch3"
+  },
+  {
+    "id": "Som_Ch3_Q50",
+    "question": "Tiirka ugu muhiimsan maansada Soomaaliyeed maxaa kamid ah?",
+    "options": {
+      "a": "Qaafiyada",
+      "b": "Laxanka",
+      "c": "Da'da abwaanka",
+      "d": "Xilliga la tiriyey"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "medium",
+    "subjectId": "somali",
+    "chapterId": "somali_ch3"
+  },
+  {
+    "id": "Som_Ch3_Q51",
+    "question": "Hojis iyo Hooris maxay kala yihiin?",
+    "options": {
+      "a": "Lugta hore iyo lugta dambe",
+      "b": "Alan dheer iyo alan gaab",
+      "c": "Gabay iyo jiifto",
+      "d": "Qaafiyad iyo meeris"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "medium",
+    "subjectId": "somali",
+    "chapterId": "somali_ch3"
+  },
+  {
+    "id": "Som_Ch3_Q52",
+    "question": "Maxaa loo dhaxeysiiyaa hakad?",
+    "options": {
+      "a": "Labada lugood ee meeriska",
+      "b": "Labada tuduc ee gabayga",
+      "c": "Labada abwaan ee doodaya",
+      "d": "Shaqalka iyo shibanaha"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "medium",
+    "subjectId": "somali",
+    "chapterId": "somali_ch3"
+  },
+  {
+    "id": "Som_Ch3_Q53",
+    "question": "Haddii gabaygu leeyahay 20 alan, imisa ayaa lugta hore ah inta badan?",
+    "options": {
+      "a": "8 alan",
+      "b": "10 alan",
+      "c": "12 alan",
+      "d": "14 alan"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "hard",
+    "subjectId": "somali",
+    "chapterId": "somali_ch3"
+  },
+  {
+    "id": "Som_Ch3_Q54",
+    "question": "Haddii gabaygu leeyahay 20 alan, imisa ayaa lugta dambe ah?",
+    "options": {
+      "a": "8 alan",
+      "b": "10 alan",
+      "c": "12 alan",
+      "d": "14 alan"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "hard",
+    "subjectId": "somali",
+    "chapterId": "somali_ch3"
+  },
+  {
+    "id": "Som_Ch3_Q55",
+    "question": "Maxay ku kala duwan yihiin Geeraarka iyo Jiiftada dhanka alanka?",
+    "options": {
+      "a": "Labaduba waa isku mid oo waa 9 alan",
+      "b": "Geeraarku waa 10, jiiftaduna waa 9",
+      "c": "Jiiftada ayaa ka alan badan",
+      "d": "Labaduba waa min labo lugood"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "hard",
+    "subjectId": "somali",
+    "chapterId": "somali_ch3"
+  },
+  {
+    "id": "Som_Ch3_Q56",
+    "question": "Alanka maansada muxuu ka samaysmaa?",
+    "options": {
+      "a": "Shaqal oo uu ku laranyahay hal ama labo shibane",
+      "b": "Saddex shibane oo isku xiga",
+      "c": "Keliya shaqalo isku xiga",
+      "d": "Xarfo aan la dhawaaqin"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "hard",
+    "subjectId": "somali",
+    "chapterId": "somali_ch3"
+  },
+  {
+    "id": "Som_Ch3_Q57",
+    "question": "Intee in le'eg ayuu qaafiyada meerisku isbedeli karaa gabayga dhexdiisa?",
+    "options": {
+      "a": "Lug kasta wuu isbedeli karaa",
+      "b": "Tuduc kasta wuu isbedeli karaa",
+      "c": "Maba isbedeli karo, gabaygu waa hal qaafiyad",
+      "d": "Abwaanka ayaa go'aan ka gaaraya mar walba"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "hard",
+    "subjectId": "somali",
+    "chapterId": "somali_ch3"
+  },
+  {
+    "id": "Som_Ch3_Q58",
+    "question": "Waa maxay sababta (w) iyo (y) ay shaqal u noqdaan mararka qaar?",
+    "options": {
+      "a": "Kolka ay ugu dambeeyaan alan shaqal gaab ah",
+      "b": "Marka ay xarafka qaafiyada yihiin",
+      "c": "Marka ay meeriska ugu horreeyaan",
+      "d": "Sabab la'aan ayey isku bedelaan"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "hard",
+    "subjectId": "somali",
+    "chapterId": "somali_ch3"
+  },
+  {
+    "id": "Som_Ch3_Q59",
+    "question": "Waa maxay faraqa u dhexeeya Buraanburka iyo Gabayga dhanka alanka?",
+    "options": {
+      "a": "Gabaygu waa 20 alan, Buraanburkuna waa 18 alan",
+      "b": "Gabaygu waa 18 alan, Buraanburkuna waa 20 alan",
+      "c": "Labaduba waa 20 alan",
+      "d": "Buraanburku waa 27 alan"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "hard",
+    "subjectId": "somali",
+    "chapterId": "somali_ch3"
+  },
+  {
+    "id": "Som_Ch3_Q60",
+    "question": "Waa maxay maansada ugu alanka badan ee la xusay?",
+    "options": {
+      "a": "Gabayga",
+      "b": "Salsalka kabdaha oo ah 27-25 alan",
+      "c": "Buraanburka",
+      "d": "Guurowga"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "hard",
+    "subjectId": "somali",
+    "chapterId": "somali_ch3"
+  },
+  {
+    "id": "Som_Ch3_Q61",
+    "question": "Waa maxay maansada alankeedu ugu yaryahay ee godadka la xusay?",
+    "options": {
+      "a": "Gabayga iyo Guurowga",
+      "b": "Geeraarka iyo Jiiftada oo ah 9 alan",
+      "c": "Saarka oo ah 10 alan",
+      "d": "Buraanburka"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "hard",
+    "subjectId": "somali",
+    "chapterId": "somali_ch3"
+  },
+  {
+    "id": "Som_Ch3_Q62",
+    "question": "Sidee buu u dhacaa \"dhambalan\"?",
+    "options": {
+      "a": "Marka lugta hore ku dhamaato shaqal dheer oo kala jabaya labada lugood dhexdooda",
+      "b": "Marka ereygu uusan ku jirin afsoomaaliga",
+      "c": "Marka xarafka qaafiyada la waayo",
+      "d": "Marka abwaanku illaawo meeriska"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "hard",
+    "subjectId": "somali",
+    "chapterId": "somali_ch3"
+  },
+  {
+    "id": "Som_Ch3_Q63",
+    "question": "Muxuu yahay shaqalka gaaban marka loo eego alanka?",
+    "options": {
+      "a": "Waa alan gaab",
+      "b": "Waa alan dheer",
+      "c": "Waa lug dambeed",
+      "d": "Waa meerisjab"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "hard",
+    "subjectId": "somali",
+    "chapterId": "somali_ch3"
+  },
+  {
+    "id": "Som_Ch3_Q64",
+    "question": "Muxuu yahay shaqalka dheer marka loo eego alanka?",
+    "options": {
+      "a": "Waa alan gaab",
+      "b": "Waa alan dheer",
+      "c": "Waa lug horaad",
+      "d": "Waa hakad"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "hard",
+    "subjectId": "somali",
+    "chapterId": "somali_ch3"
+  },
+  {
+    "id": "Som_Ch3_Q65",
+    "question": "Waa imisa tirada shaqallada ee alanku qaadan karo?",
+    "options": {
+      "a": "Hal shaqal gaab ama hal shaqal dheer",
+      "b": "Saddex shaqal",
+      "c": "Afar shaqal",
+      "d": "Tiro aan xad lahayn"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "hard",
+    "subjectId": "somali",
+    "chapterId": "somali_ch3"
+  },
+  {
+    "id": "Som_Ch3_Q66",
+    "question": "Salsalka kabdaha imisa hojis ayuu leeyahay?",
+    "options": {
+      "a": "Hal hojis",
+      "b": "Labo hojis",
+      "c": "Saddex hojis",
+      "d": "Hojis ma leeyahay"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "hard",
+    "subjectId": "somali",
+    "chapterId": "somali_ch3"
+  },
+  {
+    "id": "Som_Ch3_Q67",
+    "question": "Salsalka kabdaha imisa hooris ayuu leeyahay?",
+    "options": {
+      "a": "Hal hooris",
+      "b": "Labo hooris",
+      "c": "Saddex hooris",
+      "d": "Hooris ma leeyahay"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "hard",
+    "subjectId": "somali",
+    "chapterId": "somali_ch3"
+  },
+  {
+    "id": "Som_Ch3_Q68",
+    "question": "Muxuu sargooyaa habdhaca miisaanka maansada?",
+    "options": {
+      "a": "Meeriska",
+      "b": "Magaca maansada",
+      "c": "Xilliga guga",
+      "d": "Dareenka abwaanka"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "hard",
+    "subjectId": "somali",
+    "chapterId": "somali_ch3"
+  },
+  {
+    "id": "Som_Ch3_Q69",
+    "question": "Maansada \"Saarka\" imisa lugood ayey ka kooban tahay meeriskiisu?",
+    "options": {
+      "a": "Hal lug keliya",
+      "b": "Labo lugood",
+      "c": "Saddex lugood",
+      "d": "Afar lugood"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "hard",
+    "subjectId": "somali",
+    "chapterId": "somali_ch3"
+  },
+  {
+    "id": "Som_Ch3_Q70",
+    "question": "Maansada \"Guurowga\" imisa lugood ayey ka kooban tahay meeriskiisu?",
+    "options": {
+      "a": "Hal lug keliya",
+      "b": "Labo lugood",
+      "c": "Saddex lugood",
+      "d": "Afar lugood"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "hard",
+    "subjectId": "somali",
+    "chapterId": "somali_ch3"
+  },
+  {
+    "id": "Som_Ch3_Q71",
+    "question": "Haddii meeriska gabaygu ka kooban yahay labo lugood, maxaa kala qaybiya?",
+    "options": {
+      "a": "Hakad",
+      "b": "Xaraf weyn",
+      "c": "Tuduc",
+      "d": "Qaafiyad cusub"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "hard",
+    "subjectId": "somali",
+    "chapterId": "somali_ch3"
+  },
+  {
+    "id": "Som_Ch3_Q72",
+    "question": "Meerisjabku goormuu dhacaa?",
+    "options": {
+      "a": "Marka erey lagu suubiyo xarafka qaafiyada oo uusan la jaanqaadayn gabayga haray",
+      "b": "Marka luguhu bataan",
+      "c": "Marka gabaygu dhammaado",
+      "d": "Marka abwaanku daalo"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "hard",
+    "subjectId": "somali",
+    "chapterId": "somali_ch3"
+  },
+  {
+    "id": "Som_Ch3_Q73",
+    "question": "Maansadu waa maxay ugu dambayn?",
+    "options": {
+      "a": "Meerisyo isku qaafiyad ah oo miisaaman",
+      "b": "Ereyo iska daba qoran",
+      "c": "Sheeko faneed dheer",
+      "d": "Maahmaahyo la isku geeyey"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "hard",
+    "subjectId": "somali",
+    "chapterId": "somali_ch3"
+  },
+  {
+    "id": "Som_Ch3_Q74",
+    "question": "Godadka maansada miyey ka mid tahay heestu?",
+    "options": {
+      "a": "Haa, lugta heesaha ayaa casharka lagu xusay oo ah hal lug",
+      "b": "Maya, heestu maansada kuma jirto",
+      "c": "Haa, laakiin waa 4 lugood",
+      "d": "Maya, heestu waa buraanbur"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "hard",
+    "subjectId": "somali",
+    "chapterId": "somali_ch3"
+  },
+  {
+    "id": "Som_Ch3_Q75",
+    "question": "Waa maxay tirada ugu badan ee alan ee gabay yeelan karo sida casharka ku xusan?",
+    "options": {
+      "a": "19 alan",
+      "b": "20 alan",
+      "c": "21 alan",
+      "d": "22 alan"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "hard",
+    "subjectId": "somali",
+    "chapterId": "somali_ch3"
+  },
+  {
+    "id": "Som_Ch3_Q76",
+    "question": "Xarfaha W iyo Y maxay yihiin asal ahaan?",
+    "options": {
+      "a": "Shibane, balse marna shaqal ayey noqdaan",
+      "b": "Shaqal, balse marna shibane ayey noqdaan",
+      "c": "Had iyo jeer waa shaqal",
+      "d": "Had iyo jeer waa shibane"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "hard",
+    "subjectId": "somali",
+    "chapterId": "somali_ch3"
+  },
+  {
+    "id": "Som_Ch3_Q77",
+    "question": "Waa maxay lugta dambeed ee meeriska?",
+    "options": {
+      "a": "Hooris",
+      "b": "Hojis",
+      "c": "Dhambalan",
+      "d": "Alan gaab"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "hard",
+    "subjectId": "somali",
+    "chapterId": "somali_ch3"
+  },
+  {
+    "id": "Som_Ch3_Q78",
+    "question": "Waa maxay lugta horaad ee meeriska?",
+    "options": {
+      "a": "Hooris",
+      "b": "Hojis",
+      "c": "Deelqaaf",
+      "d": "Alan dheer"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "hard",
+    "subjectId": "somali",
+    "chapterId": "somali_ch3"
+  },
+  {
+    "id": "Som_Ch3_Q79",
+    "question": "Maansada Salsalka Kabdaha tirada alankeedu waay isbedbedeshaa, intee u dhaxaysaa?",
+    "options": {
+      "a": "10 ilaa 15 alan",
+      "b": "18 ilaa 20 alan",
+      "c": "25 ilaa 27 alan",
+      "d": "30 ilaa 35 alan"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "hard",
+    "subjectId": "somali",
+    "chapterId": "somali_ch3"
+  },
+  {
+    "id": "Som_Ch3_Q80",
+    "question": "Gabayga, Guurowga iyo Buraanburka maxay wadaagaan dhanka lugaha?",
+    "options": {
+      "a": "Dhammaantood waa min hal lug",
+      "b": "Dhammaantood waa min labo lugood",
+      "c": "Dhammaantood waa min saddex lugood",
+      "d": "Lugohoodu waa kala duwan yihiin"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "hard",
+    "subjectId": "somali",
+    "chapterId": "somali_ch3"
+  },
+  {
+    "id": "Som_Ch3_Q81",
+    "question": "Geeraarka, Jiiftada iyo Saarka maxay wadaagaan dhanka lugaha?",
+    "options": {
+      "a": "Dhammaantood waa min hal lug keliya",
+      "b": "Dhammaantood waa min labo lugood",
+      "c": "Dhammaantood waa isku qaafiyad",
+      "d": "Dhammaantood waa min 20 alan"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "hard",
+    "subjectId": "somali",
+    "chapterId": "somali_ch3"
+  }
+]

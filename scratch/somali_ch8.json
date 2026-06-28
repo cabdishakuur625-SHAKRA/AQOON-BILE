@@ -1,0 +1,1136 @@
+[
+  {
+    "id": "Som_Ch8_Q01",
+    "question": "Waa maxay Sahan?",
+    "options": {
+      "a": "Ciyaar hiddo ah",
+      "b": "Gabay soomaaliyeed",
+      "c": "Cunto dhaqameed",
+      "d": "Hanaan lagu uruuriyo xog"
+    },
+    "correctAnswer": "d",
+    "difficultyLevel": "easy",
+    "subjectId": "somali",
+    "chapterId": "somali_ch8"
+  },
+  {
+    "id": "Som_Ch8_Q02",
+    "question": "Yaa curiyey heesta 'Soomaali baan ahay'?",
+    "options": {
+      "a": "C/qaadir Xirsi YamYam",
+      "b": "Xasan Ganeey",
+      "c": "Hadraawi",
+      "d": "Cali Sugulle"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "easy",
+    "subjectId": "somali",
+    "chapterId": "somali_ch8"
+  },
+  {
+    "id": "Som_Ch8_Q03",
+    "question": "Xagee ayuu ku dhashay abwaan Xasan Ganeey?",
+    "options": {
+      "a": "Hargeysa",
+      "b": "Duleedka Bullaxaar",
+      "c": "Muqdisho",
+      "d": "Kismaayo"
+    },
+    "correctAnswer": "b",
+    "difficultyLevel": "easy",
+    "subjectId": "somali",
+    "chapterId": "somali_ch8"
+  },
+  {
+    "id": "Som_Ch8_Q04",
+    "question": "Goorma ayuu Xasan Ganeey ku biiray ciidamadii kumaandooska?",
+    "options": {
+      "a": "1970 kii",
+      "b": "1960 kii",
+      "c": "1967 kii",
+      "d": "1980 kii"
+    },
+    "correctAnswer": "c",
+    "difficultyLevel": "easy",
+    "subjectId": "somali",
+    "chapterId": "somali_ch8"
+  },
+  {
+    "id": "Som_Ch8_Q05",
+    "question": "Goorma ayuu Xasan Ganeey ku biiray kooxdii baanbayda?",
+    "options": {
+      "a": "1967 kii",
+      "b": "1980 kii",
+      "c": "1960 kii",
+      "d": "1970 kii"
+    },
+    "correctAnswer": "d",
+    "difficultyLevel": "easy",
+    "subjectId": "somali",
+    "chapterId": "somali_ch8"
+  },
+  {
+    "id": "Som_Ch8_Q06",
+    "question": "Maxaa loola jeedaa 'barkhadaystayaal'?",
+    "options": {
+      "a": "Dadka rajo fiican kunoolka ah",
+      "b": "Dadka xoola dhaqatada ah",
+      "c": "Dadka xunxun",
+      "d": "Dadka beeraleyda ah"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "easy",
+    "subjectId": "somali",
+    "chapterId": "somali_ch8"
+  },
+  {
+    "id": "Som_Ch8_Q07",
+    "question": "Maxaa loola jeedaa 'baasaystayaal'?",
+    "options": {
+      "a": "Dadka rajo fiican kunoolka ah",
+      "b": "Dadka caqliga badan",
+      "c": "Dadka dagaalyahanada ah",
+      "d": "Dadka rajo xun kunoolka ah"
+    },
+    "correctAnswer": "d",
+    "difficultyLevel": "easy",
+    "subjectId": "somali",
+    "chapterId": "somali_ch8"
+  },
+  {
+    "id": "Som_Ch8_Q08",
+    "question": "Yaa curiyey maansada 'Dhaqan'?",
+    "options": {
+      "a": "C/qaadir Xirsi YamYam",
+      "b": "Xasan Xaaji C/laahi (Xasan Ganeey)",
+      "c": "Hadraawi",
+      "d": "Cali Xuseen"
+    },
+    "correctAnswer": "b",
+    "difficultyLevel": "easy",
+    "subjectId": "somali",
+    "chapterId": "somali_ch8"
+  },
+  {
+    "id": "Som_Ch8_Q09",
+    "question": "Waa kuma cidda keliya ee ay soomaalidu u taqaanay sokeeye?",
+    "options": {
+      "a": "Reer galbeedka",
+      "b": "Carabta muslimiinta ah",
+      "c": "Aasiyaanka",
+      "d": "Afrikaanka kale"
+    },
+    "correctAnswer": "b",
+    "difficultyLevel": "easy",
+    "subjectId": "somali",
+    "chapterId": "somali_ch8"
+  },
+  {
+    "id": "Som_Ch8_Q10",
+    "question": "Maxaa kamid ah waxyaabaha bulshada ka leexiya danta guud?",
+    "options": {
+      "a": "Waxbarashada",
+      "b": "Wadashaqeynta",
+      "c": "Anshax xumada",
+      "d": "Run sheegida"
+    },
+    "correctAnswer": "c",
+    "difficultyLevel": "easy",
+    "subjectId": "somali",
+    "chapterId": "somali_ch8"
+  },
+  {
+    "id": "Som_Ch8_Q11",
+    "question": "Maxay ka dhigan tahay 'adigu ma istaqaan'?",
+    "options": {
+      "a": "In qofku is qiimeeyo oo fahmo qofka uu yahay",
+      "b": "In qofku dadka kale barto",
+      "c": "In qofku xoolo raadiyo",
+      "d": "In qofku safro"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "easy",
+    "subjectId": "somali",
+    "chapterId": "somali_ch8"
+  },
+  {
+    "id": "Som_Ch8_Q12",
+    "question": "Waa maxay danta guud?",
+    "options": {
+      "a": "In qof kasta danihiisa gaarka ah raadsado",
+      "b": "In sharciga la jebiyo",
+      "c": "Dhawrista iyo ilaalinta waxyaabaha bulshada ka dhexeeya",
+      "d": "In la dagaalamo"
+    },
+    "correctAnswer": "c",
+    "difficultyLevel": "easy",
+    "subjectId": "somali",
+    "chapterId": "somali_ch8"
+  },
+  {
+    "id": "Som_Ch8_Q13",
+    "question": "Waa maxay Anshax?",
+    "options": {
+      "a": "Cunto fudud",
+      "b": "Xeerarka kala garata waxa wanaagsan iyo xun",
+      "c": "Nooc kamid ah dharka",
+      "d": "Qalab dagaal"
+    },
+    "correctAnswer": "b",
+    "difficultyLevel": "easy",
+    "subjectId": "somali",
+    "chapterId": "somali_ch8"
+  },
+  {
+    "id": "Som_Ch8_Q14",
+    "question": "Yaa xil ka saaran yahay ilaalinta waxyaabaha inaga dhexeeya?",
+    "options": {
+      "a": "Madaxda oo kaliya",
+      "b": "Dhammaan xilbaa naga wada saaran",
+      "c": "Odayaasha oo kaliya",
+      "d": "Dhalinyarada oo kaliya"
+    },
+    "correctAnswer": "b",
+    "difficultyLevel": "easy",
+    "subjectId": "somali",
+    "chapterId": "somali_ch8"
+  },
+  {
+    "id": "Som_Ch8_Q15",
+    "question": "Waa maxay qumanayaal?",
+    "options": {
+      "a": "Waxyaabaha qofnimada ka sameysan tahay",
+      "b": "Buuro dhaadheer",
+      "c": "Magaalooyin qadiimi ah",
+      "d": "Cudurro khatar ah"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "easy",
+    "subjectId": "somali",
+    "chapterId": "somali_ch8"
+  },
+  {
+    "id": "Som_Ch8_Q16",
+    "question": "Fikrada ah in dadka isku mid noqdaan goorma ayey soo ifbaxday?",
+    "options": {
+      "a": "Qarnigii 19aad",
+      "b": "Qarnigii 18aad",
+      "c": "Qarnigii 20aad",
+      "d": "Qarnigii 21aad"
+    },
+    "correctAnswer": "c",
+    "difficultyLevel": "easy",
+    "subjectId": "somali",
+    "chapterId": "somali_ch8"
+  },
+  {
+    "id": "Som_Ch8_Q17",
+    "question": "Sidee ku ogaan kartaa qofnimada cid kasta ay leedahay?",
+    "options": {
+      "a": "Inaad wejigiisa eegto oo kaliya",
+      "b": "Jid inaad la marto, jabad inaad la degto, ama cunto inuu idin dhexmaro",
+      "c": "Inaad magiciisa weydiiso",
+      "d": "Inaad xoolahiisa tiriso"
+    },
+    "correctAnswer": "b",
+    "difficultyLevel": "easy",
+    "subjectId": "somali",
+    "chapterId": "somali_ch8"
+  },
+  {
+    "id": "Som_Ch8_Q18",
+    "question": "Maxaa loola jeedaa deegaanka qofka?",
+    "options": {
+      "a": "Qoyskaaga, wadaayadaada, gurigaaga, rugaha waxbarashada, bulshadaada",
+      "b": "Dhirta iyo ugaarta oo kaliya",
+      "c": "Xoolaha iyo beelaha oo kaliya",
+      "d": "Cimilada iyo buuraha oo kaliya"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "easy",
+    "subjectId": "somali",
+    "chapterId": "somali_ch8"
+  },
+  {
+    "id": "Som_Ch8_Q19",
+    "question": "Waa maxay aanooyinka qofka?",
+    "options": {
+      "a": "Waayo aragnimada iyo waxyaabaha deegaanku ku kordhiyay qofnimadiisa",
+      "b": "Cudurada qofka ku dhaca",
+      "c": "Dhaqaalaha qofka",
+      "d": "Taariikhda qoyskiisa"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "easy",
+    "subjectId": "somali",
+    "chapterId": "somali_ch8"
+  },
+  {
+    "id": "Som_Ch8_Q20",
+    "question": "Maxaa loola jeedaa 'waano abuuris baa ka horeysay'?",
+    "options": {
+      "a": "Qofka waa in la waaniyo markasta",
+      "b": "Abuurista dadka isku mid maaha",
+      "c": "Qof dabeecad xun waano waxba kama tarto",
+      "d": "Waano waa furaha guusha"
+    },
+    "correctAnswer": "c",
+    "difficultyLevel": "easy",
+    "subjectId": "somali",
+    "chapterId": "somali_ch8"
+  },
+  {
+    "id": "Som_Ch8_Q21",
+    "question": "Muxuu kahadlayaa casharka Q8?",
+    "options": {
+      "a": "Barashada xiddigaha",
+      "b": "Ilaalinta danta guud",
+      "c": "Dhaqashada xoolaha",
+      "d": "Sameynta doomo"
+    },
+    "correctAnswer": "b",
+    "difficultyLevel": "easy",
+    "subjectId": "somali",
+    "chapterId": "somali_ch8"
+  },
+  {
+    "id": "Som_Ch8_Q22",
+    "question": "Sahan waa hanaan lagu uruuriyo maxay?",
+    "options": {
+      "a": "Biyo",
+      "b": "Xog, war iyo wacaal",
+      "c": "Geedo",
+      "d": "Qalab"
+    },
+    "correctAnswer": "b",
+    "difficultyLevel": "easy",
+    "subjectId": "somali",
+    "chapterId": "somali_ch8"
+  },
+  {
+    "id": "Som_Ch8_Q23",
+    "question": "Maxay soomaalidu ka aaminsan tahay sooyaalkeeda?",
+    "options": {
+      "a": "Si fiican ayey u taqaan",
+      "b": "Way qortay",
+      "c": "Ma taqaan",
+      "d": "Way u heestaa"
+    },
+    "correctAnswer": "c",
+    "difficultyLevel": "easy",
+    "subjectId": "somali",
+    "chapterId": "somali_ch8"
+  },
+  {
+    "id": "Som_Ch8_Q24",
+    "question": "Maxaa inagu kalifaaya in aynu wax wada ilaashano?",
+    "options": {
+      "a": "Cagajugleyn shisheeye",
+      "b": "Dal, calan, af iyo diin baa inaga dhexeeya",
+      "c": "Dhaqaale raadis",
+      "d": "Cabsida cudurada"
+    },
+    "correctAnswer": "b",
+    "difficultyLevel": "easy",
+    "subjectId": "somali",
+    "chapterId": "somali_ch8"
+  },
+  {
+    "id": "Som_Ch8_Q25",
+    "question": "Qofnimada qofka sidee loo qiimeeyaa?",
+    "options": {
+      "a": "Dhererkiisa",
+      "b": "Midabkiisa",
+      "c": "Hantidiisa",
+      "d": "Siduu isu haysto/arko iyo xogta dadka kale bixiyaan"
+    },
+    "correctAnswer": "d",
+    "difficultyLevel": "easy",
+    "subjectId": "somali",
+    "chapterId": "somali_ch8"
+  },
+  {
+    "id": "Som_Ch8_Q26",
+    "question": "Imisa qodob ayaa loo baahan yahay si loo diyaariyo sahan?",
+    "options": {
+      "a": "In ka badan 5 qodob",
+      "b": "2 qodob",
+      "c": "1 qodob",
+      "d": "3 qodob"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "medium",
+    "subjectId": "somali",
+    "chapterId": "somali_ch8"
+  },
+  {
+    "id": "Som_Ch8_Q27",
+    "question": "Qodobadan kee baa ka mid ah ciwaanada sahanka?",
+    "options": {
+      "a": "Dhaqaalaha sahanka",
+      "b": "Talo bixinta sahanka",
+      "c": "Da'da sahanka",
+      "d": "Magaca sahanka"
+    },
+    "correctAnswer": "b",
+    "difficultyLevel": "medium",
+    "subjectId": "somali",
+    "chapterId": "somali_ch8"
+  },
+  {
+    "id": "Som_Ch8_Q28",
+    "question": "Maxaa loola jeedaa 'soomaalidu ma istaqaan' marka laga hadlayo casharka?",
+    "options": {
+      "a": "Ma taqaan luqado kale",
+      "b": "Ma taqaan dalal kale",
+      "c": "Sooyaalkeeda, sokeeyaheeda, soohdinteeda ma taqaan",
+      "d": "Ma taqaan cuntooyinka qalaad"
+    },
+    "correctAnswer": "c",
+    "difficultyLevel": "medium",
+    "subjectId": "somali",
+    "chapterId": "somali_ch8"
+  },
+  {
+    "id": "Som_Ch8_Q29",
+    "question": "Sida ay aaminsan yihiin sahamiyayaashii reer galbeedka, Soomaalidu maxay u fiicnaayeen?",
+    "options": {
+      "a": "Sooyaalka",
+      "b": "Dhismaha buundooyinka",
+      "c": "Sameynta gawaarida",
+      "d": "Barashada sayniska"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "medium",
+    "subjectId": "somali",
+    "chapterId": "somali_ch8"
+  },
+  {
+    "id": "Som_Ch8_Q30",
+    "question": "Tilmaamaha reer galbeedku isku raaceen ee Soomaalida leedahay waxaa ka mid ah:",
+    "options": {
+      "a": "Dad gaagaaban",
+      "b": "Dad martisoor wacan",
+      "c": "Dad xishood badan",
+      "d": "Dad aan safin"
+    },
+    "correctAnswer": "b",
+    "difficultyLevel": "medium",
+    "subjectId": "somali",
+    "chapterId": "somali_ch8"
+  },
+  {
+    "id": "Som_Ch8_Q31",
+    "question": "Tilmaam kale oo reer galbeedku Soomaalida ku tilmaameen waa?",
+    "options": {
+      "a": "Dhul yaqaan ayey ahaayeen",
+      "b": "Badmareeno ayey ahaayeen",
+      "c": "Beeraley waaweyn ayey ahaayeen",
+      "d": "Ganacsato kaliya ayey ahaayeen"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "medium",
+    "subjectId": "somali",
+    "chapterId": "somali_ch8"
+  },
+  {
+    "id": "Som_Ch8_Q32",
+    "question": "Isbedelada nolosha qofka imisa ayey u qaybsamaan?",
+    "options": {
+      "a": "Saddex (3)",
+      "b": "Laba (2)",
+      "c": "Afar (4)",
+      "d": "Shan (5)"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "medium",
+    "subjectId": "somali",
+    "chapterId": "somali_ch8"
+  },
+  {
+    "id": "Som_Ch8_Q33",
+    "question": "Isbedelada qaar waxba lagama bedeli karo, tusaale ahaan:",
+    "options": {
+      "a": "Ilig kaa dhacay",
+      "b": "Nabar ku gaaray",
+      "c": "Muuqaalka iyo Hidaha",
+      "d": "Caqiidada"
+    },
+    "correctAnswer": "c",
+    "difficultyLevel": "medium",
+    "subjectId": "somali",
+    "chapterId": "somali_ch8"
+  },
+  {
+    "id": "Som_Ch8_Q34",
+    "question": "Isbedelada wax laga bedeli karo waxaa tusaale u ah:",
+    "options": {
+      "a": "Ilig kaa dhacay ama nabar",
+      "b": "Muuqaalka asalka ah",
+      "c": "Hidde sidayaasha (DNA)",
+      "d": "Dhererka qofka"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "medium",
+    "subjectId": "somali",
+    "chapterId": "somali_ch8"
+  },
+  {
+    "id": "Som_Ch8_Q35",
+    "question": "Isbedel adag in la bedelo laakiin suuragal ah waa:",
+    "options": {
+      "a": "Caqiidada",
+      "b": "Muuqaalka",
+      "c": "Hidaha",
+      "d": "Da'da qofka"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "medium",
+    "subjectId": "somali",
+    "chapterId": "somali_ch8"
+  },
+  {
+    "id": "Som_Ch8_Q36",
+    "question": "Qumanayaasha qofka waxaa ka mid ah:",
+    "options": {
+      "a": "Cuntada uu cuno",
+      "b": "Dharka uu xirto",
+      "c": "Guriga uu degan yahay",
+      "d": "Siduu isu arko, hab dhaqankiisa, dareenkiisa, fekerkiisa"
+    },
+    "correctAnswer": "d",
+    "difficultyLevel": "medium",
+    "subjectId": "somali",
+    "chapterId": "somali_ch8"
+  },
+  {
+    "id": "Som_Ch8_Q37",
+    "question": "Qumanayaasha hidaysiga ah ee waalidka laga dhaxlo waxaa ka mid ah:",
+    "options": {
+      "a": "Caqiidada iyo luqada",
+      "b": "Dhaqaalaha iyo hantida",
+      "c": "Waxbarashada iyo xirfada",
+      "d": "Jismiga, dabeecada, muuqaalka, midabka"
+    },
+    "correctAnswer": "d",
+    "difficultyLevel": "medium",
+    "subjectId": "somali",
+    "chapterId": "somali_ch8"
+  },
+  {
+    "id": "Som_Ch8_Q38",
+    "question": "Maxaa loola jeedaa 'basar xun' ama 'basar fiican'?",
+    "options": {
+      "a": "Dabeecad xun ama dabeecad wanaagsan",
+      "b": "Cunto xun ama cunto fiican",
+      "c": "Muuqaal xun ama muuqaal fiican",
+      "d": "Dhul xun ama dhul fiican"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "medium",
+    "subjectId": "somali",
+    "chapterId": "somali_ch8"
+  },
+  {
+    "id": "Som_Ch8_Q39",
+    "question": "Abwaan Xasan Ganeey, muxuu tusaale ahaan usoo qaatay maansadiisii Dhaqan?",
+    "options": {
+      "a": "Magaalooyin casri ah",
+      "b": "Bado waaweyn iyo jasiirado",
+      "c": "Xoolo aad u farabadan",
+      "d": "Dhul kayn iyo buuro qurux badan leh oo roob fiican helay"
+    },
+    "correctAnswer": "d",
+    "difficultyLevel": "medium",
+    "subjectId": "somali",
+    "chapterId": "somali_ch8"
+  },
+  {
+    "id": "Som_Ch8_Q40",
+    "question": "Arrimaha sahanka loo baahan yahay marka la diyaarinayo waxaa ka mid ah:",
+    "options": {
+      "a": "In sheeko la iska allifo",
+      "b": "In aan xogta cidna lala wadaagin",
+      "c": "In xogta oo dhan la iska tuuro",
+      "d": "In natiijada kasoo baxda la abla-ableeyo"
+    },
+    "correctAnswer": "d",
+    "difficultyLevel": "medium",
+    "subjectId": "somali",
+    "chapterId": "somali_ch8"
+  },
+  {
+    "id": "Som_Ch8_Q41",
+    "question": "Marka laga reebo Carabta muslimiinta ah, Soomaalidu ma u taqaanay sokeeye ummado kale xilligii hore?",
+    "options": {
+      "a": "Maya",
+      "b": "Haa, reer yurub",
+      "c": "Haa, Aasiyaanka",
+      "d": "Haa, dhammaan dadka madow"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "medium",
+    "subjectId": "somali",
+    "chapterId": "somali_ch8"
+  },
+  {
+    "id": "Som_Ch8_Q42",
+    "question": "Dhinaca soohdinta, tilmaamaha reer galbeedku ee Soomaalida waxay sheegayaan:",
+    "options": {
+      "a": "Soohdinta ma aqoon",
+      "b": "Soohdinta cadowga ayey u dhiibeen",
+      "c": "Soohdinta way ilaashan jireen",
+      "d": "Soohdintu muhiim uma ahayn"
+    },
+    "correctAnswer": "c",
+    "difficultyLevel": "medium",
+    "subjectId": "somali",
+    "chapterId": "somali_ch8"
+  },
+  {
+    "id": "Som_Ch8_Q43",
+    "question": "Qaabka qofka loo qiimeeyo waxaa tiir u ah:",
+    "options": {
+      "a": "Xogta ay dadku isaga ka bixiyaan iyo sida ay u arkaan",
+      "b": "Lacagtiisa bankiga ku jirta",
+      "c": "Nooca baabuurka uu wato",
+      "d": "Tirada xoolihiisa"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "medium",
+    "subjectId": "somali",
+    "chapterId": "somali_ch8"
+  },
+  {
+    "id": "Som_Ch8_Q44",
+    "question": "Waa maxay qaybta ugu dambeysa ee warbixinta sahanka?",
+    "options": {
+      "a": "Tixraaca",
+      "b": "Talo bixinta sahanka",
+      "c": "Ararta",
+      "d": "Hilinka"
+    },
+    "correctAnswer": "b",
+    "difficultyLevel": "medium",
+    "subjectId": "somali",
+    "chapterId": "somali_ch8"
+  },
+  {
+    "id": "Som_Ch8_Q45",
+    "question": "Maxaa inagu kalifa in aan si wadajir ah u ilaashano danta guud?",
+    "options": {
+      "a": "Cabsida abaaraha",
+      "b": "Mushaar inaan ku helno",
+      "c": "Hal soohdin, hal af iyo hal diin baynu wada haysanaa",
+      "d": "Inaan dalal kale qabsano"
+    },
+    "correctAnswer": "c",
+    "difficultyLevel": "medium",
+    "subjectId": "somali",
+    "chapterId": "somali_ch8"
+  },
+  {
+    "id": "Som_Ch8_Q46",
+    "question": "Waxyaabaha danta guud leexiya ee ummada dhibaatada ku ah waa maxay?",
+    "options": {
+      "a": "Ganacsiga xorta ah",
+      "b": "Waxbarashada casriga ah",
+      "c": "Qabyaalad la'aanta",
+      "d": "Anshax xumo kasta"
+    },
+    "correctAnswer": "d",
+    "difficultyLevel": "medium",
+    "subjectId": "somali",
+    "chapterId": "somali_ch8"
+  },
+  {
+    "id": "Som_Ch8_Q47",
+    "question": "Ereyga 'baasaystayaal' wuxuu inta badan tilmaamayaa dadka:",
+    "options": {
+      "a": "Wax kasta dhanka xun ka arka",
+      "b": "Wax kasta dhanka fiican ka arka",
+      "c": "Xoolaha badan",
+      "d": "Safarka badan"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "medium",
+    "subjectId": "somali",
+    "chapterId": "somali_ch8"
+  },
+  {
+    "id": "Som_Ch8_Q48",
+    "question": "Cidda diyaarinaysa weydiimaha sahanka waa inay:",
+    "options": {
+      "a": "Qariyaan xogta dhabta ah",
+      "b": "Jawaabaha sii qiyaasaan iska bedelaan",
+      "c": "Buunbuuniyaan warbixinta",
+      "d": "Abla-ableeyaan natiijada kasoo baxda"
+    },
+    "correctAnswer": "d",
+    "difficultyLevel": "medium",
+    "subjectId": "somali",
+    "chapterId": "somali_ch8"
+  },
+  {
+    "id": "Som_Ch8_Q49",
+    "question": "Tixraaca sahanka macnaheedu waa maxay?",
+    "options": {
+      "a": "Halka laga soo xigtay xogta iyo macluumaadka",
+      "b": "Gunaanadka warbixinta",
+      "c": "Waqtiga la bilaabay sahanka",
+      "d": "Ujeedada sahanka"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "medium",
+    "subjectId": "somali",
+    "chapterId": "somali_ch8"
+  },
+  {
+    "id": "Som_Ch8_Q50",
+    "question": "Waa maxay ujeedka laga leeyahay 'sooyaalkeeda ma taqaan'?",
+    "options": {
+      "a": "Dadka oo aad u yaqaan taariikhda",
+      "b": "in taariikhda la bedelay",
+      "c": "Ummada oo aan aqoon u lahayn taariikhdeedii hore",
+      "d": "In la diiday taariikhda"
+    },
+    "correctAnswer": "c",
+    "difficultyLevel": "medium",
+    "subjectId": "somali",
+    "chapterId": "somali_ch8"
+  },
+  {
+    "id": "Som_Ch8_Q51",
+    "question": "Reer galbeedku waxay Soomaalida ku tilmaameen dad dhuudhuuban oo:",
+    "options": {
+      "a": "Dhaadheer",
+      "b": "Gaagaaban",
+      "c": "Cayilan",
+      "d": "Madow"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "medium",
+    "subjectId": "somali",
+    "chapterId": "somali_ch8"
+  },
+  {
+    "id": "Som_Ch8_Q52",
+    "question": "Curiyaha maansada Dhaqan waa:",
+    "options": {
+      "a": "Cabdi Qays",
+      "b": "Maxamed Ibraahim Warsame",
+      "c": "Xasan Xaaji C/laahi",
+      "d": "Cali Sugulle"
+    },
+    "correctAnswer": "c",
+    "difficultyLevel": "medium",
+    "subjectId": "somali",
+    "chapterId": "somali_ch8"
+  },
+  {
+    "id": "Som_Ch8_Q53",
+    "question": "Marka la diyaarinayo warbixin sahan, waa in si cad loo xuso:",
+    "options": {
+      "a": "Cidda codsatay iyo amminta kama dambeysta ah",
+      "b": "Kharashka baxay oo kaliya",
+      "c": "Magacyada dhamaan dadka la wareystay",
+      "d": "Halka laga soo iibsaday qalabka"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "hard",
+    "subjectId": "somali",
+    "chapterId": "somali_ch8"
+  },
+  {
+    "id": "Som_Ch8_Q54",
+    "question": "Waa maxay ujeedada ugu weyn ee loo diyaariyo weydiimaha sahanka?",
+    "options": {
+      "a": "In dadka la isku diro",
+      "b": "In si nidaamsan loogu uruuriyo xog iyo wacaal si warbixin loo dhammaystiro",
+      "c": "In waqtiga la iska lumiyo",
+      "d": "In lacag lagu raadiyo"
+    },
+    "correctAnswer": "b",
+    "difficultyLevel": "hard",
+    "subjectId": "somali",
+    "chapterId": "somali_ch8"
+  },
+  {
+    "id": "Som_Ch8_Q55",
+    "question": "Ararta guud ee sahanka maxay ka tarjumaysaa?",
+    "options": {
+      "a": "Waa hordhaca muujinaya nuxurka iyo ujeedada warbixinta",
+      "b": "Waa qodobada u dambeeya warbixinta",
+      "c": "Waa liiska dadka sahanka fuliyay",
+      "d": "Waa magaca mashruuca"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "hard",
+    "subjectId": "somali",
+    "chapterId": "somali_ch8"
+  },
+  {
+    "id": "Som_Ch8_Q56",
+    "question": "Hilinka xog uruurinta maxaa loola jeedaa?",
+    "options": {
+      "a": "Halka laga bilaabay safarka",
+      "b": "Wadada ama habka loo maray si loo helo xogta sahanka",
+      "c": "Qalabka sahanka",
+      "d": "Natiijada ugu dambaysa"
+    },
+    "correctAnswer": "b",
+    "difficultyLevel": "hard",
+    "subjectId": "somali",
+    "chapterId": "somali_ch8"
+  },
+  {
+    "id": "Som_Ch8_Q57",
+    "question": "Abla-ableynta natiijada kasoo baxda sahanku waa:",
+    "options": {
+      "a": "Akhrinta warbixinta oo kaliya",
+      "b": "Gubida xogaha aan loo baahnayn",
+      "c": "Kaydinta xogta qarsoon",
+      "d": "Kala hufidda iyo lafo-gurka xogta si go'aan looga gaaro"
+    },
+    "correctAnswer": "d",
+    "difficultyLevel": "hard",
+    "subjectId": "somali",
+    "chapterId": "somali_ch8"
+  },
+  {
+    "id": "Som_Ch8_Q58",
+    "question": "Sidee bay 'adigu ma istaqaan' ula xiriirtaa is-qiimeynta qofka?",
+    "options": {
+      "a": "Waxay qofka ku dhiirigelinaysaa inuu si dhab ah u fahmo awoodihiisa iyo daciifnimooyinkiisa",
+      "b": "Waxay ku guubaabinaysaa inuu dadka kale eedeeyo",
+      "c": "Waxay u sheegaysaa inuu ka aamuso xaqiisa",
+      "d": "Waxay tusinaysaa inuusan muhiim ahayn"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "hard",
+    "subjectId": "somali",
+    "chapterId": "somali_ch8"
+  },
+  {
+    "id": "Som_Ch8_Q59",
+    "question": "Sababta isbedelada caqiidada ay u adag tahay in la bedelo laakiin macquul ay u tahay ayaa ah:",
+    "options": {
+      "a": "In ay ku saleysan tahay rumaysi qoto dheer oo waqti badan qaatay",
+      "b": "In la iibsan karo rumaysiga",
+      "c": "In hidde ahaan la isku gudbiyo",
+      "d": "In dadku aysan waxba akhrin"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "hard",
+    "subjectId": "somali",
+    "chapterId": "somali_ch8"
+  },
+  {
+    "id": "Som_Ch8_Q60",
+    "question": "Sida casharku qabo, qumanayaasha qofnimada ee ku saleysan 'fekerkiisa' iyo 'dareenkiisa' waa kuwa:",
+    "options": {
+      "a": "Aan weligood la bedeli karin",
+      "b": "Laga bedeli karo iyadoo la eegayo deegaanka iyo waxbarashada",
+      "c": "La mid ah hidda sidayaasha muuqaalka",
+      "d": "Qofka iskiis ugu soo dhasho"
+    },
+    "correctAnswer": "b",
+    "difficultyLevel": "hard",
+    "subjectId": "somali",
+    "chapterId": "somali_ch8"
+  },
+  {
+    "id": "Som_Ch8_Q61",
+    "question": "Goorma ayey ahayd markii ugu horraysay ee si weyn loo falanqeeyo in dadku isku mid noqon karaan adduunka?",
+    "options": {
+      "a": "Qarnigii 15aad",
+      "b": "Qarnigii 20aad iyadoo is-dhexgal ballaaran yimid",
+      "c": "Xilligii casrigii dhagaxa",
+      "d": "Qarnigii 21aad kaligiis"
+    },
+    "correctAnswer": "b",
+    "difficultyLevel": "hard",
+    "subjectId": "somali",
+    "chapterId": "somali_ch8"
+  },
+  {
+    "id": "Som_Ch8_Q62",
+    "question": "Tijaabinta qofnimada dadka iyadoo la marayo jid, jabad, iyo cunto maxay tusinaysaa?",
+    "options": {
+      "a": "In dhaqanka soomaalidu aaminsan yahay in dabeecadda qofka lagu barto safarka iyo wax-wada-qaybsiga",
+      "b": "In qofka aan lagu aamini karin cunto",
+      "c": "In socdaalku khatar yahay",
+      "d": "In qof kasta oo cunto lala cuno uu yahay qof xun"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "hard",
+    "subjectId": "somali",
+    "chapterId": "somali_ch8"
+  },
+  {
+    "id": "Som_Ch8_Q63",
+    "question": "Muxuu ula jeedaa qoraagu marka uu yiraahdo 'waano abuuris baa ka horeysay'?",
+    "options": {
+      "a": "Haddii dabeecadda aasaasiga ah ee qofku xun tahay, wacyigelin iyo waano saameyn kuma yeeshaan",
+      "b": "Waano waa in la bixiyaa ka hor inta aan la dhalan",
+      "c": "Abuurista dadka ayaa la waaniyaa",
+      "d": "Qof walba wuu qaataa waanada"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "hard",
+    "subjectId": "somali",
+    "chapterId": "somali_ch8"
+  },
+  {
+    "id": "Som_Ch8_Q64",
+    "question": "Sida loo qeexo 'Aanooyinka qofka' waxay muujinaysaa:",
+    "options": {
+      "a": "In qofku leeyahay aanooyin uusan iska gudi karin",
+      "b": "In qofka qoyskiisa uun laga aarguto",
+      "c": "Saamaynta culus ee deegaanka, waayo-aragnimada, iyo waxa uu rumeysan yahay ay ku leeyihiin shakhsiyaddiisa",
+      "d": "Taariikhda dhiigga ee qoyska"
+    },
+    "correctAnswer": "c",
+    "difficultyLevel": "hard",
+    "subjectId": "somali",
+    "chapterId": "somali_ch8"
+  },
+  {
+    "id": "Som_Ch8_Q65",
+    "question": "Ereyga 'danta guud' kuma koobna oo kaliya hantida dawladda, balse wuxuu ku qotomaa:",
+    "options": {
+      "a": "Uruurinta canshuuraha",
+      "b": "Ilaalinta amniga madaxda",
+      "c": "Nadiifinta waddooyinka oo kaliya",
+      "d": "Dhawrista iyo ilaalinta dhammaan waxyaabaha masiiriga ah ee bulshada ka dhexeeya"
+    },
+    "correctAnswer": "d",
+    "difficultyLevel": "hard",
+    "subjectId": "somali",
+    "chapterId": "somali_ch8"
+  },
+  {
+    "id": "Som_Ch8_Q66",
+    "question": "Xasan Ganeey kumaandooska buu ku biiray 1967, baanbaydana 1970, maxay tani ina tuseysaa taariikhdiisa?",
+    "options": {
+      "a": "Inuu isaga baxay ciidamada dhaqso",
+      "b": "Inuu lahaa waayo-aragnimo ciidan iyo mid farshaxan/muusig isku dhafan",
+      "c": "Inuusan weligii ciidan noqon",
+      "d": "Inuu asaasay kumaandooska"
+    },
+    "correctAnswer": "b",
+    "difficultyLevel": "hard",
+    "subjectId": "somali",
+    "chapterId": "somali_ch8"
+  },
+  {
+    "id": "Som_Ch8_Q67",
+    "question": "Tilmaanta ay reer galbeedku ku sifeeyeen Soomaalida ee 'sooyaalka way ku fiicnaayeen' waxay liddi ku tahay:",
+    "options": {
+      "a": "Weeraha ah in Soomaalidu uusan 'sooyaalkeeda aqoon'",
+      "b": "Fikradda ah in Soomaalidu badmareeno ahaayeen",
+      "c": "Taariikhdii gumeysiga ee Afrika",
+      "d": "Xiriirkii Soomaalida iyo Carabta"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "hard",
+    "subjectId": "somali",
+    "chapterId": "somali_ch8"
+  },
+  {
+    "id": "Som_Ch8_Q68",
+    "question": "Xilka ilaalinta waxa naga dhexeeya ee 'dhammaan naga wada saaran' wuxuu la micno yahay:",
+    "options": {
+      "a": "Waajib wadareed dusha ka saaran muwaadin kasta oo Soomaaliyeed",
+      "b": "In dawladda oo kaliya lagu eedeeyo dib-u-dhaca",
+      "c": "In odayaasha dhaqanka ay qaadaan mas'uuliyadda fashilka",
+      "d": "In qof walba iska aamuso"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "hard",
+    "subjectId": "somali",
+    "chapterId": "somali_ch8"
+  },
+  {
+    "id": "Som_Ch8_Q69",
+    "question": "Muxuu Xasan Ganeey u soo qaatay 'dhul kayn iyo buuro qurux badan oo roob fiican da'ay' maansadiisa Dhaqan?",
+    "options": {
+      "a": "Wuxuu doonayey inuu beero iibsado",
+      "b": "Waa tusaale bilicsan oo sawiraya hufnaanta, kheyraadka iyo qiimaha dalka iyo dhaqanka",
+      "c": "Waa tusaale muujinaya abaarta",
+      "d": "Wuxuu dadka ugu yeerayay xaalufinta"
+    },
+    "correctAnswer": "b",
+    "difficultyLevel": "hard",
+    "subjectId": "somali",
+    "chapterId": "somali_ch8"
+  },
+  {
+    "id": "Som_Ch8_Q70",
+    "question": "Marka la leeyahay qumanayaasha qofka waxa kamid ah 'hab dhaqankiisa', tan macnaheedu waa:",
+    "options": {
+      "a": "Sida uu ula falgalo deegaanka, dadka, iyo xaaladaha kala duwan",
+      "b": "Dharka uu jecel yahay inuu xirto uun",
+      "c": "Nooca shaqada uu qabto oo kaliya",
+      "d": "Sida uu u hadlo kaliya"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "hard",
+    "subjectId": "somali",
+    "chapterId": "somali_ch8"
+  },
+  {
+    "id": "Som_Ch8_Q71",
+    "question": "Isbedelada aan wax laga bedeli karin ee 'Muuqaalka iyo Hidaha' waxay tilmaamayaan:",
+    "options": {
+      "a": "Nidaamka dabiiciga ah ee Eebbe qofka ku abuuray, hidde-sideyaashiisa, iyo isirkiisa",
+      "b": "Midabka dharka uu xirto qofka",
+      "c": "Dabeecadaha uu deegaanka ka barto",
+      "d": "Fikirada siyaasadeed ee uu qaato"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "hard",
+    "subjectId": "somali",
+    "chapterId": "somali_ch8"
+  },
+  {
+    "id": "Som_Ch8_Q72",
+    "question": "Sidee 'Anshax xumada' ay ugu tahay khatar ilaalinta danta guud?",
+    "options": {
+      "a": "Waxay kordhisaa dhaqaalaha dalka balse dhaqanka ayay yareyneysaa",
+      "b": "Khatar kuma aha ilaalinta danta guud",
+      "c": "Waxay dadka barta u oggolaataa inay kaligood noolaadaan",
+      "d": "Waxay wiiqdaa kalsoonida bulshada, xeerarkii wanaagsanaa, iyo masuuliyadii wadajirka ahayd"
+    },
+    "correctAnswer": "d",
+    "difficultyLevel": "hard",
+    "subjectId": "somali",
+    "chapterId": "somali_ch8"
+  },
+  {
+    "id": "Som_Ch8_Q73",
+    "question": "Ereyga 'sokeeyaheeda ma taqaan' wuxuu xambaarsan yahay fekerka ah in:",
+    "options": {
+      "a": "Ummaddu aysan aqoon dhab ah u lahayn cidda ay is-xigaan ee danta wadaaga",
+      "b": "Soomaalidu dhammaan caalamka nacab la tahay",
+      "c": "Qof kasta oo shisheeye ah uu sokeeye yahay",
+      "d": "Dawladaha jaarka ah ay yihiin sokeeyaha kaliya"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "hard",
+    "subjectId": "somali",
+    "chapterId": "somali_ch8"
+  },
+  {
+    "id": "Som_Ch8_Q74",
+    "question": "Arrimaha sahanka ku saabsan ee la weydiiyo cidda codsatay iyo ujeedada warbixinta waxay muujinayaan:",
+    "options": {
+      "a": "In sahanku leeyahay hanaan cilmiyeysan, qorsheysan, oo jawaab u raadinaya su'aal gaar ah",
+      "b": "In sahanku yahay olole aan ujeedo lahayn",
+      "c": "In natiijada sahanka mar hore la sii ogaa",
+      "d": "In qof kasta iska codsan karo sahan aan la fahmin"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "hard",
+    "subjectId": "somali",
+    "chapterId": "somali_ch8"
+  },
+  {
+    "id": "Som_Ch8_Q75",
+    "question": "Muxuu yahay xiriirka ka dhexeeya 'barkhadaystayaal' iyo horumarka qofka?",
+    "options": {
+      "a": "Rajadu kuma xirna horumarka qofka",
+      "b": "Rajada wanaagsan waxay horseedaa himilo sare, dhiirigelin joogto ah, iyo horumar",
+      "c": "Rajada fiican waxay qofka ka dhigtaa mid caajis ah",
+      "d": "Qofka rajo xun uun baa guuleysta"
+    },
+    "correctAnswer": "b",
+    "difficultyLevel": "hard",
+    "subjectId": "somali",
+    "chapterId": "somali_ch8"
+  },
+  {
+    "id": "Som_Ch8_Q76",
+    "question": "Qiimeynta qofka oo lagu saleeyo xogta ay dadku ka bixiyaan waxay tusinaysaa:",
+    "options": {
+      "a": "In qofku xaq u lahayn inuu is-qiimeeyo",
+      "b": "In dadka kale had iyo jeer ku qaldan yihiin qofka",
+      "c": "In qofnimadu aysan ku ekeyn aragtida isaga uun balse ay tahay mid bulshadu ka marqaati kacdo",
+      "d": "In qofku qariyo dabeecaddiisa rasmiga ah"
+    },
+    "correctAnswer": "c",
+    "difficultyLevel": "hard",
+    "subjectId": "somali",
+    "chapterId": "somali_ch8"
+  },
+  {
+    "id": "Som_Ch8_Q77",
+    "question": "Maxay tahay sababta dabeecada, muuqaalka iyo midabka loogu tixgeliyo qumanayaasha hidaysiga ee laga dhaxlo waalidka?",
+    "options": {
+      "a": "Waayo waa wax iskuulka lagu barto",
+      "b": "Sababtoo ah bulshada ayaa go'aamisa dhaxalkaas",
+      "c": "Waa arrimo ay dawladdu qeybiso",
+      "d": "Waa arrimo hidde-sideyaasha waalidku toos ugu gudbiyaan carruurta dhalasho ahaan"
+    },
+    "correctAnswer": "d",
+    "difficultyLevel": "hard",
+    "subjectId": "somali",
+    "chapterId": "somali_ch8"
+  },
+  {
+    "id": "Som_Ch8_Q78",
+    "question": "Deegaanka qofka oo ay ka mid yihiin rugaha waxbarashada iyo wadaayadaada sidee bay saameyn ugu yeeshaan?",
+    "options": {
+      "a": "Waxay qaabeeyaan fikirkiisa, dabeecaddiisa, iyo dhaqankiisa bulsho",
+      "b": "Waxba kuma kordhiyaan qofnimadiisa asalka ah",
+      "c": "Waxay wax ka bedelaan muuqaalkiisa jireed (hidaysiga)",
+      "d": "Waxay yareeyaan fahamkiisa sooyaalka"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "hard",
+    "subjectId": "somali",
+    "chapterId": "somali_ch8"
+  },
+  {
+    "id": "Som_Ch8_Q79",
+    "question": "Sida casharku caddeeyay, haddii hal af, hal diin, iyo hal soohdin inaga dhexeeyaan, waa maxay natiijada waajibka ah?",
+    "options": {
+      "a": "Inaan ku faanno oo kaliya iyadoon fal la socon",
+      "b": "Inay nagu qasab tahay inaan danteena guud si adag u wada ilaashano",
+      "c": "Inaan u oggolaano dadka kale inay maamulaan",
+      "d": "In la kala qeybiyo si loo maamulo"
+    },
+    "correctAnswer": "b",
+    "difficultyLevel": "hard",
+    "subjectId": "somali",
+    "chapterId": "somali_ch8"
+  },
+  {
+    "id": "Som_Ch8_Q80",
+    "question": "Waa maxay macnaha fog ee 'waano abuuris baa ka horeysay' marka la eego anshaxa bulshada?",
+    "options": {
+      "a": "In waano kasta ay si iskeed ah u shaqeyso haddii la badiyo",
+      "b": "In aadanuhu uusan lahayn dabeecad dabiici ah",
+      "c": "In abuuristu aysan lahayn muhiimad",
+      "d": "In isbedelada asaasiga ah ee dabeecadda aadanaha ay ka adag yihiin tababar ama naseexo dambe"
+    },
+    "correctAnswer": "d",
+    "difficultyLevel": "hard",
+    "subjectId": "somali",
+    "chapterId": "somali_ch8"
+  },
+  {
+    "id": "Som_Ch8_Q81",
+    "question": "Baanbayda uu Xasan Ganeey ku biiray 1970-kii waxay ahayd:",
+    "options": {
+      "a": "Koox faneed/muusig oo ciidamada ka tirsan oo soo bandhigtay suugaantiisa iyo kartidiisa faneed",
+      "b": "Koox siyaasadeed oo dowladda diidanayd",
+      "c": "Koox isboorti oo caalami ah",
+      "d": "Urur iskaa-wax-u-qabso ah oo bulshada caawiya"
+    },
+    "correctAnswer": "a",
+    "difficultyLevel": "hard",
+    "subjectId": "somali",
+    "chapterId": "somali_ch8"
+  }
+]

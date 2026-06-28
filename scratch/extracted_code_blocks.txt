@@ -1,0 +1,191 @@
+================ LINE 664 ================
+Created At: 2026-06-11T05:41:29Z
+Completed At: 2026-06-11T05:41:29Z
+File Path: `file:///c:/flutterApp/Aqoon_Bile/scratch/generate_arabic_subject.py`
+Total Lines: 653
+Total Bytes: 250141
+Showing lines 365 to 445
+The following code has been modified to include a line number before every line, in the format: <line_number>: <original_line>. Please note that any changes targeting the original code should remove the line number, colon, and leading space.
+365: def create_ch5_questions():
+366:     # Chapter 5: Unit 5: Social Issues & Health (القبلية وأضرار المخدرات)
+367:     # 22 Easy, 25 Medium, 30 Hard (Total 77)
+368:     easy = [
+369:         {"q": "ما هو الموقف الإسلامي العام من 'القبلية والتعصب القبلي'؟", "opts": {"a": "محاربتها والنهي عنها لأنها تفرق المسلمين وتدعو للجاهلية والتفاخر بالأنساب", "b": "تشجيعها واعتبارها الركيزة الوحيدة لبناء الدولة الإسلامية", "c": "فرضها كشرط أساسي لدخول الجنة ونيل الثواب والأجر", "d": "تجاهلها تماماً وعدم التطرق لها في الكتاب والسنة"}, "ans": "a"},
+370:         {"q": "ما هي المخدرات باختصار من الناحية الطبية والنفسية؟", "opts": {"a": "مواد كيميائية تؤثر على الجهاز العصبي المركزي وتسبب الإدمان والضرر الصحي", "b": "أدوية فيتامينية مفيدة لتنشيط العقل والذاكرة والدراسة", "c": "مشروبات طبيعية منعشة تزيد من كفاءة العمل البدني اليومي", "d": "توابل طبيعية تضاف للأطعمة لتحسين المذاق والنكهة"}, "ans": "a"},
+371:         {"q": "ما هو أثر المخدرات على صحة الإنسان البدنية؟", "opts": {"a": "تدمير الخلايا العصبية وتسبب أمراض القلب والك
+<truncated 45283 bytes>
+ته، الإنفاق المالي الباهظ، وتدمير صحة الفم والقلب والدماغ", "b": "يسهم في تنشيط الاقتصاد الزراعي وتوفير مياه الري وزيادة الإنتاج العام وتوفير طاقة عمل هائلة للشباب", "c": "يعد من النباتات الطبية المفيدة والخالية تماماً من الإدمان أو أي تأثير سلبي على الخلايا العصبية والدماغ البشري", "d": "يساعد في حل الخلافات القبلية والصلح الاجتماعي من خلال مجالس القات التي تجمع الخصوم برعاية شيوخ العشائر"}, "ans": "a"},
+437:         {"q": "كيف تؤثر المخدرات على السلوك العدواني للمدمن داخل الأسرة وتفشي العنف الأسري؟", "opts": {"a": "تسبب العنف الأسري، الاعتداء على الزوجة والأبناء، والسرقة من المنزل لطلب المال لشراء المخدرات والسموم", "b": "تمنح متعاطيها هدوءاً وسلاماً داخلياً يمنع الخلافات الأسرية ويساعد في تربية الأبناء تربية صالحة هادئة", "c": "تزيد من حب المدمن لعائلته وحرصه على تأمين مستقبلهم المالي والتعليمي وتوفير الرعاية الصحية الكاملة لهم", "d": "لا تؤثر على السلوك الأسري أو تعامل الفرد مع زوجته وأبنائه ووالديه بأي شكل من الأشكال في المنزل"}, "ans": "a"},
+438:         {"q": "ما هي علاقة القبلية بظاهرة الثأر المستمرة في بعض المجتمعات المتأخرة والبادية؟", "opts": {"a": "تغذي العنف، تمنع الل
+<truncated 2210 bytes>
+
+NOTE: The output was truncated because it was too long. Use a more targeted query or a smaller range to get the information you need.
+
+================ LINE 674 ================
+Created At: 2026-06-11T05:42:03Z
+Completed At: 2026-06-11T05:42:03Z
+File Path: `file:///c:/flutterApp/Aqoon_Bile/scratch/generate_arabic_subject.py`
+Total Lines: 653
+Total Bytes: 250141
+Showing lines 415 to 445
+The following code has been modified to include a line number before every line, in the format: <line_number>: <original_line>. Please note that any changes targeting the original code should remove the line number, colon, and leading space.
+415:         {"q": "كيف يتعامل المجتمع المسلم مع المدمن التائب الذي يسعى للتخلص من الإدمان؟", "opts": {"a": "بالقبول والدعم النفسي والاجتماعي والمساعدة على الاندماج والابتعاد عن رفقاء السوء والانتكاسة", "b": "بالتشهير والعزل الاجتماعي وحرمانه من حقوقه المدنية والوظائف الحكومية نهائياً", "c": "بسجنه ونفيه إلى الصحراء البعيدة ليتأكد من توبته ودون علاج طبي مساند", "d": "بإعطائه جرعات مخففة من مواد مخدرة أخرى ليظل في حالة استرخاء دائم"}, "ans": "a"},
+416:         {"q": "ما هي خطورة المخدرات على الدماغ والخلايا العصبية للإنسان؟", "opts": {"a": "تسبب تلف الخلايا العصبية وضعف الذاكرة والهلوسة والاضطرابات العقلية المزمنة والموت", "b": "تنشط الدماغ وتزيد من كفاءة الخلايا العصبية وتحميها من التصلب والأورام", "c": "تمنح متعاطيها ذكاء خارقاً وذاكرة قوية تسهل حفظ القرآن الكريم والكتب العلمية", "d": "لا تؤثر على الخلايا الدماغية أو الجهاز العصبي المركزي بأي شكل من الأشكال"}, "ans": "a"},
+417:         {"q": "كيف تسهم الأسرة في وقاية الأبناء من خط
+<truncated 15907 bytes>
+", "b": "تساعد في حل المشاكل الجنائية وتحقيق العدالة السريعة وحقن الدماء وتفادي الحروب الطويلة بين العشائر", "c": "تلتزم بتطبيق أحكام الشريعة الإسلامية والقوانين المدنية المعاصرة وفصل السلطات القضائية والتنفيذية بانتظام", "d": "تقتصر على توجيه النصح والإرشاد للقاتل لتسليم نفسه للعدالة طوعاً ودون تدخل من أفراد وعشيرة قبيلته"}, "ans": "a"},
+439:         {"q": "كيف يسهم الوعي الديني الصحيح في تحصين المجتمع والأفراد من المخدرات والقبلية؟", "opts": {"a": "بترسيخ قيم التقوى، المسؤولية الكاملة أمام الله، الأخوة الإنسانية والإسلامية، ونبذ التعصب والسموم والخبائث", "b": "بتشجيع الصراعات القبلية الصغيرة لإشغال الرعية عن المطالبة بالحقوق والتنمية والخدمات التعليمية والصحية العامة", "c": "بإلغاء جميع القوانين المدنية والعودة للتحكيم العشائري الجاهلي الموروث لحل النزاعات والخلافات الجنائية والمالية", "d": "بتقسيم المجتمع إلى فئات طائفية وعرقية وقبلية متناحرة تتنافس على طمس عادات وتقاليد الآخرين الضعفاء واليتامى"}, "ans": "a"}
+440:     ]
+441:     return easy, medium, hard
+442: 
+443: def create_ch6_questions():
+444:     # Chapter 6: Unit 6: Folktales & Anecdotes (نوادر أشعب وحكايات صومالية)
+445:     # 22 Easy, 25 Medium, 30 Hard (Total 77)
+The above content does NOT show the entire file contents. If you need to view any lines of the file which were not shown to complete your task, call this tool again to view those lines.
+
+
+================ LINE 777 ================
+Created At: 2026-06-11T05:57:29Z
+Completed At: 2026-06-11T05:57:29Z
+File Path: `file:///c:/flutterApp/Aqoon_Bile/scratch/generate_arabic_subject.py`
+Total Lines: 664
+Total Bytes: 274322
+Showing lines 454 to 531
+The following code has been modified to include a line number before every line, in the format: <line_number>: <original_line>. Please note that any changes targeting the original code should remove the line number, colon, and leading space.
+454: def create_ch6_questions():
+455:     # Chapter 6: Unit 6: Folktales & Anecdotes (نوادر أشعب وحكايات صومالية)
+456:     # 22 Easy, 25 Medium, 30 Hard (Total 77)
+457:     easy = [
+458:         {"q": "من هي الشخصية التراثية العربية المشهورة بالطمع الشديد والنوادر المضحكة؟", "opts": {"a": "أشعب", "b": "جحا", "c": "أبو نواس", "d": "عنترة"}, "ans": "a"},
+459:         {"q": "ما هي الصفة الأبرز التي ارتبطت بـ 'أشعب' في التراث والنوادر؟", "opts": {"a": "الطمع الشديد (طمع أشعب)", "b": "الكرم والشجاعة والفروسية", "c": "الزهد والعبادة والتقشف", "d": "الصدق والأمانة وحفظ الأسرار"}, "ans": "a"},
+460:         {"q": "ما معنى كلمة 'النوادر' في الأدب العربي التراثي القديم؟", "opts": {"a": "القصص والحكايات الطريفة والمضحكة والغريبة التي تروح عن النفس", "b": "القصائد الطويلة في الفخر والهجاء والمدح", "c": "الأحاديث النبوية الصحيحة المتعلقة بالأحكام الفقهية", "d": "الرسائل الرسمية الديوانية المكتوبة للخلفاء والأمراء"}, "ans": "a"},
+461:         {"q": "لماذا كان الناس يحبون الاستماع إلى نوادر وحكايات أشعب طوال العصور؟", "opts": {"a": "لأنها تشتمل على الطراف
+<truncated 43605 bytes>
+ز التراث والقصص الصومالية قيمة الصداقة الحقيقية والوفاء بين الأصدقاء في البادية؟", "opts": {"a": "من خلال قصص الرفاق الذين واجهوا المخاطر والوحوش معاً ورفضوا التخلي عن صديقهم المصاب أو الضعيف", "b": "بإجازة خيانة الصديق والتخلي عنه في وقت الشدة والأزمات الطبيعية والجفاف لحماية النفس فقط", "c": "بفرض رسوم مالية ودية على الصديق مقابل حمايته وصحبته في السفر والتنقل في البادية الشاسعة", "d": "باعتبار الصداقة رابطة مؤقتة ومصلحة تجارية تنتهي بانتهاء البيع والشراء وتبادل الإبل والماشية"}, "ans": "a"},
+528:         {"q": "ما هي أهمية دمج الفكاهة والنوادر والقصص الطريفة في المناهج التعليمية والكتب المدرسية الحديثة؟", "opts": {"a": "لجذب انتباه الطلاب وتسهيل فهم الدروس وتنمية حب التعلم واللغة العربية وتخفيف عبء المواد الجافة", "b": "لإفساد عقول الطلاب وتشجيعهم على الاستهتار والكسل والضحك داخل الفصول المدرسية ودون انضباط", "c": "لتقليل كفاءة المعلمين وهيبة التعليم وتأخير إنجاز المقررات الدراسية السنوية المعتمدة بالدولة", "d": "لا أهمية تربوية لدمج الفكاهة وتقتصر الكتب المدرسية على الحقائق والنظريات الجافة والنحو الصعب"}, "ans": "a"}
+529:     ]
+530:     return easy, medium, hard
+531: 
+The above content does NOT show the entire file contents. If you need to view any lines of the file which were not shown to complete your task, call this tool again to view those lines.
+
+
+================ LINE 853 ================
+Created At: 2026-06-11T06:01:47Z
+Completed At: 2026-06-11T06:01:47Z
+File Path: `file:///c:/flutterApp/Aqoon_Bile/scratch/rebuild_arabic_generator.py`
+Total Lines: 239
+Total Bytes: 61847
+Showing lines 150 to 239
+The following code has been modified to include a line number before every line, in the format: <line_number>: <original_line>. Please note that any changes targeting the original code should remove the line number, colon, and leading space.
+150:         {"q": "ما المقصود بمصطلح 'التشخيص المزدوج' (Dual Diagnosis) في مجال علاج الإدمان؟", "opts": {"a": "إصابة الشخص باضطراب نفسي (كالاكتئاب أو الفصام) متزامن مع معاناته من إدمان المواد المخدرة", "b": "فحص الطبيب للمريض مرتين متتاليتين للتأكد من خلو جسمه من السموم العضوية تماماً", "c": "وجود صراع قبلي بين عشيرة المدمن وعشيرة الطبيب المعالج يعوق تقديم الخدمة الصحية", "d": "إدمان المريض لنوعين مختلفين من المخدرات الطبيعية كالحشيش والأفيون في نفس الوقت"}, "ans": "a"},
+151:         {"q": "كيف يرتبط تحريم المخدرات بمبدأ حفظ 'الضروريات الخمس' في مقاصد الشريعة الإسلامية؟", "opts": {"a": "لأن المخدرات تدمر العقل والنفس والمال والنسل والدين، وهي الكليات الخمس التي أوجب الإسلام حفظها وحمايتها", "b": "لأنها تمنع المسلم من السفر والتنقل لأداء فريضة الحج والجهاد والتجارة الدولية المشروعة", "c": "لأنها تؤدي للخلط بين الأنساب والقبائل وتعرقل تطبيق نظام الدية والقصاص الجنائي العشائري", "d": "لأنها تزيد من كفاءة حفظ هذه الضروريات وتساع
+<truncated 12262 bytes>
+ = [
+191: {ch4_easy_raw.strip()}
+192: {q22_completed}
+193:     ]
+194:     
+195:     medium = {json.dumps(ch4_medium_questions, indent=8, ensure_ascii=False)}
+196:     
+197:     hard = {json.dumps(ch4_hard_questions, indent=8, ensure_ascii=False)}
+198:     
+199:     return easy, medium, hard
+200: """
+201: 
+202:     ch5_code = f"""def create_ch5_questions():
+203:     # Chapter 5: Unit 5: Tribalism & Drug Harms (القبلية وأضرار المخدرات)
+204:     # 22 Easy, 25 Medium, 30 Hard (Total 77)
+205:     easy = {json.dumps(ch5_easy_questions, indent=8, ensure_ascii=False)}
+206:     
+207:     medium = {json.dumps(ch5_medium_questions, indent=8, ensure_ascii=False)}
+208:     
+209:     hard = {json.dumps(ch5_hard_questions, indent=8, ensure_ascii=False)}
+210:     
+211:     return easy, medium, hard
+212: """
+213: 
+214:     ch6_code = f"""def create_ch6_questions():
+215:     # Chapter 6: Unit 6: Folktales & Anecdotes (نوادر أشعب وحكايات صومالية)
+216:     # 22 Easy, 25 Medium, 30 Hard (Total 77)
+217:     easy = {json.dumps(ch6_easy_questions, indent=8, ensure_ascii=False)}
+218:     
+219:     medium = {json.dumps(ch6_medium_questions, indent=8, ensure_ascii=False)}
+220:     
+221:     hard = {json.dumps(ch6_hard_questions, indent=8, ensure_ascii=False)}
+222:     
+223:     return easy, medium, hard
+224: """
+225: 
+226:     # Let's find main() in lines
+227:     main_code = "".join(lines[531:])
+228: 
+229:     # Recombine everything
+230:     final_content = ch1_to_ch3_code + "\n" + ch4_code + "\n" + ch5_code + "\n" + ch6_code + "\n" + main_code
+231: 
+232:     with open('scratch/generate_arabic_subject.py', 'w', encoding='utf-8') as f_out:
+233:         f_out.write(final_content)
+234:     
+235:     print("rebuild_arabic_generator completed successfully!")
+236: 
+237: if __name__ == '__main__':
+238:     main()
+239: 
+The above content does NOT show the entire file contents. If you need to view any lines of the file which were not shown to complete your task, call this tool again to view those lines.
+
+
+================ LINE 879 ================
+Created At: 2026-06-11T06:02:19Z
+Completed At: 2026-06-11T06:02:19Z
+File Path: `file:///c:/flutterApp/Aqoon_Bile/scratch/generate_arabic_subject.py`
+Total Lines: 3938
+Total Bytes: 428411
+Showing lines 1030 to 1829
+The following code has been modified to include a line number before every line, in the format: <line_number>: <original_line>. Please note that any changes targeting the original code should remove the line number, colon, and leading space.
+1030:                 "ans": "a"
+1031:         },
+1032:         {
+1033:                 "q": "كيف يرتبط تحريم المخدرات بمبدأ حفظ 'الضروريات الخمس' في مقاصد الشريعة الإسلامية؟",
+1034:                 "opts": {
+1035:                         "a": "لأن المخدرات تدمر العقل والنفس والمال والنسل والدين، وهي الكليات الخمس التي أوجب الإسلام حفظها وحمايتها",
+1036:                         "b": "لأنها تمنع المسلم من السفر والتنقل لأداء فريضة الحج والجهاد والتجارة الدولية المشروعة",
+1037:                         "c": "لأنها تؤدي للخلط بين الأنساب والقبائل وتعرقل تطبيق نظام الدية والقصاص الجنائي العشائري",
+1038:                         "d": "لأنها تزيد من كفاءة حفظ هذه الضروريات وتساعد في تقوية البدن لمواجهة الصعاب والجفاف"
+1039:                 },
+1040:                 "ans": "a"
+1041:         }
+1042: ]
+1043:     
+1044:     return easy, medium, hard
+1045: 
+1046: def create_ch6_questions():
+1047:     # Chapter 6: Unit 6: Folktales & Anecdotes (نوادر أشعب وحكايات صومالية)
+1048:     # 22 Easy, 25 Medium, 30 Hard (Total 77)
+1049:     easy = [
+1050:         {
+1051:                 "q": "لماذا اتخذ عمر بن الخطاب قرار عزل القائد خالد بن ا
+<truncated 45284 bytes>
+تجارية للقبائل"
+1523:                 },
+1524:                 "ans": "a"
+1525:         },
+1526:         {
+1527:                 "q": "ما هي المؤسسة الإغاثية التي أنشأها عمر بن الخطاب تسمى 'دار الدقيق' وما وظيفتها؟",
+1528:                 "opts": {
+1529:                         "a": "مخازن حكومية للأغذية والدقيق مخصصة لإعانة المسافرين والوافدين والمنقطعين مجاناً",
+1530:                         "b": "طواحين عامة لإنتاج الدقيق الفاخر وبيعه للتجار بسعر مدعوم من الدولة",
+1531:                         "c": "مدرسة لتعليم مهنة الخبز والطهي للفقراء والأيتام بالمدينة المنورة",
+1532:                         "d": "ديوان حكومي لجمع ضرائب الدقيق والحبوب الزراعية من المزارعين"
+1533:                 },
+1534:                 "ans": "a"
+1535:         },
+1536:         {
+1537:                 "q": "ما هي الفلسفة التشريعية لعمر بن الخطاب في إيقاف حد السرقة في عام الرمادة؟",
+1538:                 "opts": {
+1539:                         "a": "درء الحدود بالشبهات لوجود الضرورة والمجاعة التي تجعل السرقة وسيلة للبقاء لا طمعاً",
+1540:                         "b": "إلغاء عقوبة حد السرقة بالكامل واستبدالها بالحبس والغرامة المالية الدائمة",
+1541:                         "c": "التساهل والرحمة باللصوص وتشجيعهم على التوبة دون أي عقوبات بديلة",
+1542:                         "d": "لعدم وجود قضاة مستقلين و
+<truncated 26757 bytes>
+
+NOTE: The output was truncated because it was too long. Use a more targeted query or a smaller range to get the information you need.
+
